@@ -1,0 +1,14 @@
+(;GM[1]FF[4]CA[UTF-8]AP[CGoban:3]ST[2]
+RU[Japanese]SZ[19]KM[0.00]
+SO[http://gogameguru.com/]AW[qo][ro][so][qp][sp][oq][pq][or]AB[rp][qq][sq][pr][qr][sr]C[Black to play.
+
+http://gogameguru.com/]
+(;B[rs]
+(;W[ps]
+;B[rq]C[Correct])
+(;W[rq]
+;B[ps]C[Correct]))
+(;B[ps]
+;W[rs])
+(;B[rq]
+;W[rs]))

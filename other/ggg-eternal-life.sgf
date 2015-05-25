@@ -1,0 +1,75 @@
+(;GM[1]FF[4]CA[UTF-8]AP[CGoban:3]ST[2]
+RU[Japanese]SZ[19]KM[0.00]
+SO[http://gogameguru.com/]AW[eq][fq][gq][hq][cr][dr][hr][ir][cs][js]AB[bp][dp][ep][fp][gp][hp][cq][iq][jq][br][fr][gr][jr][kr][bs]C[Black to play.
+
+http://gogameguru.com/]
+(;B[er]
+;W[dq]
+(;B[es]
+;W[gs]
+(;B[is]
+(;W[fs]
+(;B[hs]
+;W[gs]
+(;B[is]LB[fs:A]C[Correct. White will play at A next. Both groups are essentially alive, in eternal life (chosei). Depending on which rules you're using, this very unusual position will be handled differently in an actual game.
+
+http://gogameguru.com/eternal-life/])
+(;B[hs]
+;W[is]))
+(;B[ks]
+;W[ds]))
+(;W[hs]
+;B[fs]LB[hs:A]C[White's died, so white shouldn't take the stone at A. ]))
+(;B[fs]
+;W[ds]
+(;B[is]
+;W[fr])
+(;B[fr]
+;W[is]))
+(;B[hs]
+;W[is]))
+(;B[is]
+;W[es]
+;B[ks]
+;W[hs])
+(;B[fs]
+;W[es]
+;B[ds]
+;W[hs]LB[ks:A]C[White's alive in double ko. Even if black plays at A now, white can ignore it and is still alive.])
+(;B[gs]
+;W[es]
+;B[ks]
+;W[hs]))
+(;B[es]
+;W[er]
+(;B[gs]
+;W[is]C[White lives in seki.])
+(;B[is]
+;W[gs])
+(;B[fs]
+;W[gs]
+;B[hs]
+;W[ds]))
+(;B[is]
+(;W[er]
+(;B[es]
+;W[gs]
+;B[fs]
+;W[ds])
+(;B[gs]
+;W[hs]
+;B[es]
+;W[fs])
+(;B[fs]
+;W[hs]
+(;B[es]
+;W[gs])
+(;B[gs]
+;W[es])))
+(;W[es]LB[dq:B][er:A]C[White can also live like this, which is similar to playing at A. However, now B is sente.]))
+(;B[gs]
+;W[es])
+(;B[fs]
+;W[es])
+(;B[hs]
+;W[er]))

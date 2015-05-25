@@ -1,0 +1,46 @@
+(;GM[1]FF[4]CA[UTF-8]AP[CGoban:3]ST[2]
+RU[Japanese]SZ[19]KM[0.00]
+SO[http://gogameguru.com/]AW[qj][on][pn][qn][rn][no][np][op][qp][kq][nq][pq][pr][qr][os][qs]AB[mn][nn][oo][po][qo][ro][lp][pp][lq][oq][qq][rq][lr][rr][rs]C[Black to play.
+
+http://gogameguru.com/]
+(;B[nr]
+(;W[or]
+(;B[mq]C[Correct. White has one eye and one false eye.])
+(;B[mr]C[Correct])
+(;B[ms]C[Also correct.])
+(;B[ls]
+;W[mr])
+(;B[mo]
+;W[mr])
+(;B[ns]
+;W[mr]))
+(;W[mr]
+(;B[ms]
+;W[mq]
+(;B[ns]
+;W[or]
+;B[ls]C[Correct])
+(;B[mo]
+;W[or]
+(;B[mp]
+;W[ns])
+(;B[ls]
+;W[ns])))
+(;B[mq]
+;W[ms]
+(;B[mo]
+;W[or]
+;B[ls]
+;W[ns])
+(;B[ls]
+;W[ns]))))
+(;B[ns]
+;W[nr])
+(;B[mr]
+;W[nr])
+(;B[ms]
+;W[nr])
+(;B[rp]
+;W[nr])
+(;B[or]
+;W[nr]))

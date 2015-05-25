@@ -1,0 +1,131 @@
+(;GM[1]FF[4]CA[UTF-8]AP[CGoban:3]ST[2]
+RU[Japanese]SZ[19]KM[0.00]
+SO[http://gogameguru.com/]AW[cj][fj][hj][bk][dk][cl][dl][il][ml][ol][pl][ql][em][hm][im][km][nm][rm][en][in][kn][ln][sn][bo][co][eo][go][lo][mo][no][po][qo][ro][ep][op][pp][rp][cq][fq][hq][iq][jq][kq][nq][ar][cr][er][fr][kr][lr]AB[nj][hk][ik][mk][pk][qk][rk][bl][el][fl][gl][hl][jl][kl][ll][bm][dm][lm][mm][bn][dn][mn][nn][on][pn][qn][rn][do][dp][fp][ip][jp][kp][lp][qp][dq][eq][lq][mq][oq][pq][qq][rq][dr][mr][nr][ds]C[Black to play.
+
+http://gogameguru.com/]
+(;B[gn]
+(;W[ho]C[This is white's best response.]
+;B[fo]C[Correct. Black captures white's four cutting stones.])
+(;W[hn]C[This isn't white's best response, but it is the trickiest way to play.]
+(;B[fo]
+;W[gm]
+;B[fm]
+;W[fn]
+;B[gn]LB[ho:B][gp:A]C[Correct. White still has to play one more move here, so black keeps sente or cuts with A next. White should have just played at B instead of the stone above it.])
+(;B[gp]C[This move is greedy.]
+(;W[gm]C[Black managed to cut white's group in two, but now white's cutting stones are safe and it's a capturing race. White has enough liberties to capture black's group in the lower left.])
+(;W[fo]C[This would be a mistake for white...]
+;B[ho]
+;W[hp]
+;B[io]
+;W[gm]
+;B[fm]
+(;W[gq]
+;B[fn]C[Both players made mistakes and captured a group. Black comes out better because the lower right group is bigger.])
+(;W[fn]C[White can't capture black's cutting stone.]
+;B[gn]C[Both players made mistakes, but white is crushed. The lower right group is dead.])))
+(;B[ho]C[This move is also greedy.]
+;W[gm]C[Black managed to cut white's group in two, but now white's cutting stones are safe and it's a capturing race. White has enough liberties to capture black's group in the lower left.])
+(;B[fn]
+;W[hp]
+;B[fo]C[Black captures the cutting stones and ends in gote. This ok, but it isn't the best way to play.])
+(;B[fm]
+;W[hp]
+;B[fo]C[Black captures the cutting stones and ends in gote. This ok, but it isn't the best way to play.])
+(;B[gm]
+;W[hp]
+;B[fo]C[Black captures the cutting stones and ends in gote. This ok, but it isn't the best way to play.]))
+(;W[fo]C[If white plays here...]
+;B[ho]LB[fm:B][gm:A][gp:C]C[Correct. Black's group in the lower left is dead, but it doesn't matter because black traded it for the bigger group in the lower right, which is also dead now. If white plays A, black can just answer at B, then white has to worry about C.]))
+(;B[gp]
+;W[hp]
+(;B[gn]
+;W[fo]
+(;B[ho]
+;W[io]
+;B[hn]
+;W[gm])
+(;B[fn]
+;W[ho]))
+(;B[fo]
+;W[fn]))
+(;B[ho]
+;W[gn]
+;B[gp]
+;W[hp])
+(;B[fo]
+;W[fn]
+(;B[gp]
+;W[hp])
+(;B[gn]
+;W[gp]
+(;B[gm]
+;W[ho])
+(;B[ho]
+;W[gm])))
+(;B[ao]
+;W[ap]
+;B[bp]
+;W[cp]
+(;B[aq]
+;W[bq]
+(;B[an]
+;W[ap])
+(;B[ap]
+;W[an])
+(;B[bs]
+;W[cs])
+(;B[cs]
+;W[bs]))
+(;B[bq]
+;W[br]))
+(;B[bp]
+;W[cp]
+;B[ao]
+;W[ap]
+(;B[aq]
+;W[bq]
+(;B[an]
+;W[ap])
+(;B[ap]
+;W[an])
+(;B[bs]
+;W[cs])
+(;B[cs]
+;W[bs]))
+(;B[bq]
+;W[br]))
+(;B[bs]
+;W[cs]
+;B[ao]
+;W[ap]
+;B[bp]
+;W[cp]
+;B[aq]
+;W[bq])
+(;B[cp]
+;W[bp]
+;B[bs]
+;W[cs]
+(;B[ao]
+;W[ap]
+(;B[bq]
+;W[br])
+(;B[br]
+;W[bq]))
+(;B[bq]
+;W[br]
+;B[ap]
+;W[ao]))
+(;B[bq]
+;W[br]
+(;B[cp]
+;W[bp])
+(;B[bp]
+;W[cp]
+;B[ao]
+;W[ap])
+(;B[ap]
+;W[ao]
+;B[cp]
+;W[bp])))

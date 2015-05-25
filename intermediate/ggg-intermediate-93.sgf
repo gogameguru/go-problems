@@ -1,0 +1,56 @@
+(;GM[1]FF[4]CA[UTF-8]AP[CGoban:3]ST[2]
+RU[Japanese]SZ[19]KM[0.00]
+SO[http://gogameguru.com/]AW[ao][bo][bp][cp][dq][br][dr]AB[cm][bn][co][do][ep][eq][cr][er][ds]C[Black to play.
+
+http://gogameguru.com/]
+(;B[cq]
+;W[bq]
+(;B[bs]
+;W[cs]
+;B[cr]C[Correct])
+(;B[dp]
+;W[bs])
+(;B[cs]
+;W[bs]))
+(;B[bs]
+;W[cq]
+(;B[cs]
+;W[aq]
+;B[ar]C[It's a ko, but black can do better.])
+(;B[aq]
+;W[cs]C[It's a ko, but black can do better.])
+(;B[ar]
+;W[cs]C[It's a ko, but black can do better.]))
+(;B[aq]
+;W[bs]
+(;B[cs]
+;W[cq]
+;B[es]
+;W[ar])
+(;B[cq]
+;W[bq]
+;B[dp]
+;W[ar])
+(;B[ar]
+;W[cs])
+(;B[bq]
+;W[cq]))
+(;B[ar]
+;W[bs]
+(;B[cs]
+;W[cq]
+;B[es]
+;W[aq])
+(;B[aq]
+;W[cs])
+(;B[cq]
+;W[bq]
+;B[dp]
+;W[aq]))
+(;B[cs]
+;W[bs])
+(;B[dp]
+;W[cq]
+;B[bs]
+;W[aq]
+;B[ar]LB[as:B][cs:A]C[It's a double ko, so white's alive.]))

@@ -1,0 +1,57 @@
+(;GM[1]FF[4]CA[UTF-8]AP[CGoban:3]ST[2]
+RU[Japanese]SZ[19]KM[0.00]
+SO[http://gogameguru.com/]AW[np][qp][rp][jq][oq][pq][lr]AB[ql][mn][pn][qn][oo][lp][qq][rq]C[Black to play.
+
+http://gogameguru.com/]
+(;B[rr]
+(;W[pp]
+;B[pr]
+;W[or]
+;B[qs]C[Correct])
+(;W[pr]C[This white move is too greedy...]
+;B[pp]
+(;W[rs]
+(;B[ro]LB[pr:A]C[Correct, white shouldn't play A.])
+(;B[qo]C[Correct, white shouldn't play A.]))
+(;W[qr]
+;B[rs]
+;W[qs]
+;B[ro]LB[pr:A]C[Correct, white shouldn't play A.])))
+(;B[pp]
+;W[rr]
+(;B[qr]
+;W[sq])
+(;B[sq]
+;W[qr])
+(;B[sp]
+;W[qr])
+(;B[sr]
+;W[qr]))
+(;B[pr]
+;W[rr]
+;B[qr]
+;W[sq]
+;B[pp]
+;W[or])
+(;B[qr]
+;W[pp]
+(;B[pr]
+;W[or]
+(;B[rs]
+;W[sr]
+(;B[sq]
+;W[ps])
+(;B[ps]
+;W[sq])
+(;B[sp]
+;W[ro]
+(;B[ps]
+;W[sq])
+(;B[sq]
+;W[ps])))
+(;B[sr]
+;W[rs]))
+(;B[rs]
+;W[sr])
+(;B[sr]
+;W[rs])))

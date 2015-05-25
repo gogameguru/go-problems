@@ -1,0 +1,145 @@
+(;GM[1]FF[4]CA[UTF-8]AP[CGoban:3]ST[2]
+RU[Japanese]SZ[19]KM[0.00]
+SO[http://gogameguru.com/]AW[qk][oo][np][op][rp][mq][oq][rq][mr][pr][qr][sr][ms]AB[pl][nn][on][lo][no][po][qo][ro][mp][lq][pq][qq][lr][rr][ls][rs]C[Black to play.
+
+http://gogameguru.com/]
+(;B[or]
+(;W[os]
+(;B[nr]
+(;W[ns]
+(;B[pp]
+;W[nq]
+(;B[or]
+;W[nr]
+;B[qs]
+;W[sq]
+;B[qp]C[Correct])
+(;B[qs]
+;W[ps]))
+(;B[ps]
+;W[nq]
+(;B[or]
+;W[nr]
+(;B[pp]
+;W[qs])
+(;B[qs]
+;W[ss]))
+(;B[qs]
+;W[ss]))
+(;B[sp]
+(;W[nq]LB[sq:A]C[White can simply live like this, but white can also play A. See the variation.]
+(;B[qp]
+;W[qs])
+(;B[or]
+;W[nr]
+(;B[qp]
+;W[qs])
+(;B[qs]
+;W[ps])))
+(;W[sq]
+(;B[so]
+;W[nq]
+;B[or]
+;W[nr]
+;B[qp]
+;W[qs]C[White's already alive, and later...]
+;B[ss]
+;W[rq]C[Yum!])
+(;B[pp]
+;W[nq]
+;B[or]
+;W[nr]
+;B[qs]
+;W[so]
+(;B[qp]
+;W[rn]LB[qk:A][pn:B]TR[rr][qs][rs]C[Black can't cut white off from A while also defending against B, so white will capture the marked stones eventually.])
+(;B[sn]
+;W[ss]))
+(;B[qp]
+;W[so]
+;B[rm]
+;W[nq]
+;B[or]
+;W[nr]
+(;B[sn]
+;W[qs])
+(;B[qs]
+;W[ps]))))
+(;B[qp]
+;W[nq]
+(;B[sp]
+;W[qs])
+(;B[or]
+;W[nr]
+(;B[qs]
+;W[ps])
+(;B[sp]
+;W[qs])))
+(;B[qs]
+;W[nq]
+;B[or]
+;W[ps]))
+(;W[ps]
+;B[pp]C[Correct]))
+(;B[ps]
+;W[nr])
+(;B[qs]
+;W[nr]))
+(;W[nr]
+;B[os]C[Correct]))
+(;B[sq]
+;W[nr])
+(;B[sp]
+;W[sq]LB[nr:A]C[White could also play A to live simply.]
+(;B[so]
+;W[nr]C[White's already alive and...]
+;B[qp]C[black still can't much here...]
+;W[qs]
+;B[ss]
+;W[rq]C[Yum!])
+(;B[or]
+;W[os]
+;B[nr]
+;W[ns]
+;B[pp]
+;W[nq]
+;B[or]
+;W[nr]
+(;B[qs]
+;W[so]
+(;B[qp]
+;W[rn]LB[qk:A][pn:B]TR[rr][qs][rs]C[Black can't cut white off from A while also defending against B, so white will capture the marked stones eventually.])
+(;B[sn]
+;W[ss]))
+(;B[qp]
+;W[qs]C[White's already alive, and later...]
+;B[ss]
+;W[rq]C[Yum!]))
+(;B[qp]
+;W[so]
+;B[sn]
+(;W[nr]C[White's already alive, and...]
+;B[sp]
+;W[qs]C[There's no need to fight a ko...]
+;B[ss]
+;W[rq]C[Yum!])
+(;W[qs]C[Too greedy, now white will die...]
+;B[or]
+;W[ss]
+;B[pp]C[White made a mistake and died.])))
+(;B[qp]
+(;W[nr])
+(;W[sq]C[This looks clever, but it's trying to be too clever...]
+;B[or]
+;W[os]
+;B[nr]
+;W[ns]
+;B[pp]
+;W[nq]
+;B[or]
+;W[nr]
+;B[qs]
+(;W[so]
+;B[rm]C[White made a mistake and died.])
+(;W[pn]
+;B[qm]C[White made a mistake and died.]))))

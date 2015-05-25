@@ -1,0 +1,27 @@
+(;GM[1]FF[4]CA[UTF-8]AP[CGoban:3]ST[2]
+RU[Japanese]SZ[19]KM[0.00]
+SO[http://gogameguru.com/]AW[lp][mp][lq][nq][oq][lr][or][os]AB[mo][np][op][pp][mq][pq][mr][pr]C[Black to play.
+
+http://gogameguru.com/]
+(;B[ns]
+(;W[ls]
+(;B[ps]C[Correct])
+(;B[nr]
+;W[ms]))
+(;W[ms]
+;B[ls]
+;W[ks]
+(;B[ps]C[Correct])
+(;B[kr]
+;W[ms]C[It's a ko, but it's unnecessary for black to fight a ko here. ])))
+(;B[ms]
+;W[ls]
+;B[ps]C[It's a seki, but black can do better.])
+(;B[nr]
+;W[ms])
+(;B[ps]
+;W[ms])
+(;B[ls]
+;W[nr]
+;B[ms]
+;W[ks]))

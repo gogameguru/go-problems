@@ -1,0 +1,174 @@
+(;GM[1]FF[4]CA[UTF-8]AP[CGoban:3]ST[2]
+RU[Japanese]SZ[19]KM[0.00]
+SO[http://gogameguru.com/]AW[om][pn][qn][po][pp]AB[ql][qo][qp][nq]C[Black to play.
+
+http://gogameguru.com/]
+(;B[rn]
+;W[rm]
+(;B[ro]
+;W[qm]
+(;B[pr]
+;W[qq]
+(;B[rq]C[Correct])
+(;B[pq]
+;W[rq]))
+(;B[pq]
+;W[oq]C[Black has left a weakness here.]
+(;B[qr]
+;W[or])
+(;B[pr]
+;W[or]
+(;B[nr]
+;W[os]LB[no:E][oo:D][np:C][op:B][nr:A]C[A doesn't work, because black can't cut at B (white would just play C-E).])
+(;B[os]
+;W[nr]))
+(;B[or]
+;W[qq]
+(;B[op]
+;W[pr]C[In most cases white will have some ko threats and can play here.]
+(;B[rq]
+;W[oq]C[Black should fight the ko now, but no ko was necessary, so this is a bad result for black.])
+(;B[qr]
+;W[oq]C[Black should fight the ko now, but no ko was necessary, so this is a bad result for black.])
+(;B[oq]
+;W[rq]
+;B[qr]
+;W[rr]LB[ps:A]C[Even if black plays A, white can take sente now, black's four stones are already captured.]))
+(;B[pr]
+;W[rq]
+(;B[qr]
+;W[rr]
+;B[rs]
+;W[sp]
+(;B[sr]
+;W[sn])
+(;B[rp]
+;W[sn]LB[sr:A]C[White could also play A, if territory is important. It gets one more point but gives black one more ko threat.])
+(;B[so]
+;W[sr])
+(;B[sm]
+;W[rl]
+;B[sr]
+;W[so]))
+(;B[rr]
+;W[qr]
+;B[qs]
+;W[sr]
+;B[rs]
+;W[sp]
+(;B[rp]
+;W[sq])
+(;B[so]
+;W[sm])
+(;B[sm]
+;W[so]LB[sl:B][sn:A]C[A and B are miai for white.]))
+(;B[rp]
+;W[qr]
+(;B[sr]
+;W[sq]
+;B[qs]
+;W[rs]
+;B[ps]
+;W[sn])
+(;B[rs]
+;W[sr]
+(;B[qs]
+;W[sn]
+;B[rr]
+;W[sq])
+(;B[sp]
+;W[sn]
+;B[qs]
+;W[sq])))))
+(;B[qq]
+;W[or]))
+(;B[qq]
+;W[pq]
+;B[pr]
+;W[or]
+;B[qr]
+;W[oq]C[Black has a comfortable shape in the corner, but black can do better.])
+(;B[rq]
+;W[pq]
+;B[qr]
+;W[pr]))
+(;B[so]LB[so:A]C[A makes a weak shape in this case.]
+;W[qm]
+(;B[pr]LB[so:A]C[This move doesn't work well because of A.]
+;W[qq]
+;B[rq]
+;W[rp]
+;B[ro]
+;W[rr]
+;B[sp]
+(;W[qr]
+;B[pq]
+;W[sr]
+(;B[qs]
+;W[sq]
+;B[rs]
+;W[rp])
+(;B[sm]
+;W[rl]
+;B[sq]
+;W[sl]
+;B[qs]
+;W[sn])
+(;B[sq]
+;W[sm]))
+(;W[pq]C[If white doesn't want to fight a ko...]
+;B[qr]
+;W[or]
+;B[rs]
+;W[oq]C[This is still good for white.]))
+(;B[pq]
+;W[oq]
+(;B[qr]
+;W[or])
+(;B[pr]
+;W[or]
+;B[os]
+;W[nr]C[White still has bad aji in the corner.])
+(;B[qq]
+;W[or])
+(;B[or]
+;W[qq]
+;B[op]
+;W[pr]LB[ro:B][so:A][pq:C]C[This is similar to the variations where black played A at B and then C. Black can do better than this.]))))
+(;B[pq]LB[oq:A][qq:B]C[Now white can cut at A or B. There are lots of variations, but either way black's shape is too thin. Black has a better way to play...])
+(;B[qq]
+;W[pq]
+;B[pr]
+;W[or]
+;B[qr]
+;W[oq]
+;B[rn]
+;W[rm]
+;B[ro]
+;W[qm]C[Black has a comfortable shape in the corner, but black can do better.])
+(;B[pr]
+;W[qq]
+;B[rq]LB[pr:A]C[A is a good idea, but black needs to prepare more first.]
+;W[qr]
+(;B[pq]
+;W[rr]
+;B[rn]LB[rm:B][rp:A]C[White has to play A now. B is an overplay.]
+(;W[rp]
+;B[ro]
+;W[sq]
+;B[qm]
+;W[lq]C[This probably isn't what black wanted...])
+(;W[rm]C[Bad move for white.]
+;B[rp]
+;W[sq]
+;B[sr]
+;W[ss]
+;B[so]
+;W[sm]
+;B[sn]LB[ql:C][qm:B][rm:D][qs:A]C[Usually this would be seki after white plays A, but in this case black can just cut at B, because of the stone at C. So white collapses because of the overplay at D.]))
+(;B[rr]
+;W[pq]
+;B[rn]
+;W[rm]
+;B[ro]
+;W[qm]LB[pr:A]C[A became a wasted move.])))

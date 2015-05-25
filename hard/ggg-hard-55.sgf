@@ -1,0 +1,115 @@
+(;GM[1]FF[4]CA[UTF-8]AP[CGoban:3]ST[2]
+RU[Japanese]SZ[19]KM[0.00]
+SO[http://gogameguru.com/]AW[gj][fk][el][jm][lm][en][kn][eo][jo][bp][fp][gp][hp][jp][pp][bq][cq][eq][fq][iq][jq][br][jr][gs]AB[dj][ik][cl][hl][cn][in][jn][bo][fo][go][ho][io][ko][lo][ap][cp][dp][ep][ip][gq][hq][kq][hr][ir]C[Black to play.
+
+http://gogameguru.com/]
+(;B[dq]
+(;W[dr]
+;B[fs]
+(;W[fr]
+(;B[kr]
+;W[is]
+(;B[kp]
+;W[js]
+;B[ks]C[Correct. White can't save the cutting stones.])
+(;B[ks]
+;W[hs]))
+(;B[kp]
+;W[is]
+;B[kr]
+;W[js]
+;B[ks]C[Correct. White can't save the cutting stones.]))
+(;W[er]
+;B[kr]
+;W[is]
+;B[kp]
+;W[js]
+;B[ks]C[Correct])
+(;W[gr]
+;B[er]C[Correct])
+(;W[is]
+;B[er]C[Correct]))
+(;W[gr]C[In actual play, white might decide to resist like this, but]
+;B[dr]C[Black can take the corner in sente, and]
+;W[is]
+;B[nn]C[Correct. Black moves out in the lower right. ])
+(;W[fr]C[White can take sente by playing like this, but then]
+;B[dr]C[Black still takes the corner.]
+;W[om]C[This is very nice point for enclosing black's group, but]
+;B[kr]C[Now black can play these moves in sente, and]
+;W[is]
+;B[kp]
+;W[js]
+;B[no]LB[gr:A]C[Correct. White's eye shape is incomplete and white still owes black a move at A. 
+
+Later, if black plays A, he can try to capture white, but black needs to either be alive first, or have 10 liberties to win a capturing race. 
+
+White's liberty count after A, H1, H2 is: 8 liberties for the 5 space big eye, -1 for the stone at H2, +2 external liberties = 9 liberties and sente. Note that black can exchange E1 for F1 in sente, because it threatens to collapse white's big eye into a four shape. So you should assume E1 and F1 have already been played when counting liberties in this case.]))
+(;B[fs]C[This move is interesting too, but]
+;W[is]
+;B[dq]
+;W[gr]
+;B[dr]
+;W[om]C[Black captured the lower left corner and lost the initiative in the fighting. Black can do better if he changes the move order.])
+(;B[kr]
+;W[is]
+(;B[kp]
+;W[js]
+(;B[ks]
+;W[hs])
+(;B[hs]
+;W[gr]))
+(;B[fs]
+;W[gr]
+;B[dq]
+;W[dr]
+;B[er]
+;W[hs]))
+(;B[js]
+;W[ks]
+(;B[fr]
+;W[er]
+(;B[hs]
+;W[is]C[It's a ko, but black can do better.])
+(;B[is]
+;W[gr])
+(;B[gr]
+;W[is]
+;B[fs]
+;W[es]))
+(;B[hs]
+;W[gr])
+(;B[kr]
+;W[is]
+;B[kp]
+;W[js]
+;B[ls]
+;W[hs]))
+(;B[fr]
+;W[er]
+(;B[js]
+;W[ks]
+(;B[hs]
+;W[is]C[It's a ko, but black can do better.])
+(;B[kr]
+;W[is]
+;B[kp]
+;W[js]
+;B[ls]
+;W[hs]))
+(;B[kr]
+;W[is]
+(;B[kp]
+;W[js]
+;B[ks]
+;W[hs])
+(;B[fs]
+;W[hs])
+(;B[gr]
+;W[fs]))
+(;B[fs]
+;W[is]
+(;B[gr]
+;W[es])
+(;B[kr]
+;W[hs]))))

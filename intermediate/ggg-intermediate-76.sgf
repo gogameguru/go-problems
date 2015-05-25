@@ -1,0 +1,55 @@
+(;GM[1]FF[4]CA[UTF-8]AP[CGoban:3]ST[2]
+RU[Japanese]SZ[19]KM[0.00]
+SO[http://gogameguru.com/]AW[cn][do][eo][fp][fq][gq][gr]AB[en][fo][ep][cq][eq][er][fr]C[Black to play.
+
+http://gogameguru.com/]
+(;B[go]
+(;W[jq]
+;B[dl]C[Correct
+
+Black can develop smoothly by pressing white like this.])
+(;W[em]
+;B[hq]
+(;W[hr]
+;B[iq]LB[jq:B][ir:A]C[Correct
+
+If white extends to A, black just keeps extending to B and so on. Black's corner's already alive.])
+(;W[hp]C[Even if white exchanges this move,]
+;B[gp]C[Black just cuts and,]
+;W[hr]
+;B[iq]C[White still has to crawl after all.]))
+(;W[ck]
+;B[hq]
+;W[hr]
+;B[iq]LB[jq:B][ir:A]C[Correct
+
+If white extends to A, black just keeps extending to B and so on. Black's corner's already alive.]))
+(;B[dl]
+;W[fn]
+;B[go]
+;W[em]
+;B[gn]
+;W[fm]
+;B[hq]C[This is another possible way of playing for black. The main variation is a bit cleaner.])
+(;B[fn]
+;W[ck]C[It's hard for black to fight powerfully after this.]
+(;B[hp]
+;W[jq])
+(;B[jq]
+;W[ip])
+(;B[iq]
+;W[hp])
+(;B[jp]
+;W[io]
+(;B[hp]
+;W[ip]
+;B[hq]
+;W[iq]
+;B[hr]
+;W[ir]C[Sacrificing is ok for white because black's corner was already alive anyway. This is a light way for white to play.])
+(;B[ip]
+;W[go]))
+(;B[ip]
+;W[go]
+;B[gn]
+;W[ho])))

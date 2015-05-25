@@ -1,0 +1,28 @@
+(;GM[1]FF[4]CA[UTF-8]AP[CGoban:3]ST[2]
+RU[Japanese]SZ[19]KM[0.00]
+SO[http://gogameguru.com/]AW[on][rn][qo][ro][pp][rp][nq][pq][or][rr]AB[qp][sp][qq][rq][pr][qr]C[Black to play.
+
+http://gogameguru.com/]
+(;B[rs]
+;W[sr]
+(;B[ps]
+(;W[sq]C[Now white can't play here, right?]
+;B[ss]C[Correct])
+(;W[so]
+;B[sq]C[Correct])
+(;W[os]
+;B[sq]
+;W[so]
+;B[ss]C[Correct]))
+(;B[sq]
+;W[ps]))
+(;B[sr]
+;W[rs]LB[rp:B][sq:A]C[Black can't make two eyes now. A is a false eye because it's not connected to the rest of the group with a black stone at B.])
+(;B[ps]
+;W[rs]LB[so:C][sq:B][sr:A][os:D]C[Black can't make two eyes now. Later if white wants to take these stones off the board for some reason, white can exchange A for B, then fill the outside liberties with C and D. Capturing white's stones will only give black one eye.])
+(;B[sq]
+;W[ps]
+(;B[rs]
+;W[sr])
+(;B[sr]
+;W[rs])))

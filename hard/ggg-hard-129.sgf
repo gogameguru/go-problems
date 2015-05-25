@@ -1,0 +1,73 @@
+(;GM[1]FF[4]CA[UTF-8]AP[CGoban:3]ST[2]
+RU[Japanese]SZ[19]KM[0.00]
+AW[mo][no][oo][po][mp][pp][mq][qq][nr][qr][ms][qs]AB[mn][nn][on][pn][lo][qo][lp][qp][lq][rq][lr][mr][rr][rs]C[Black to play.
+
+https://gogameguru.com/]
+(;B[or]
+(;W[oq]
+(;B[ps]
+(;W[pq]
+(;B[ns]
+;W[nq]
+(;B[np]C[Correct, it's a ko.])
+(;B[op]C[Correct, it's a ko.])
+(;B[ls]
+;W[pr]))
+(;B[nq]
+;W[ns]
+;B[ls]
+;W[np]
+;B[os]
+;W[pr])
+(;B[ls]
+;W[ns]))
+(;W[os]
+;B[ns]C[Correct, it's a ko.])
+(;W[ns]
+;B[pq]))
+(;B[os]
+;W[ns]))
+(;W[os]
+(;B[nq]
+;W[oq]
+;B[ns]C[Correct, it's a ko.])
+(;B[oq]
+;W[nq]
+;B[pq]
+;W[op])
+(;B[pq]
+;W[oq]))
+(;W[nq]
+(;B[pq]C[Correct])
+(;B[ps]
+;W[pq]
+;B[ns]
+;W[pr]
+;B[ls]
+;W[oq])
+(;B[os]
+;W[ns]
+(;B[pq]
+;W[oq])
+(;B[oq]
+;W[pq]))))
+(;B[pq]
+;W[oq]
+;B[pr]
+;W[or]
+;B[ps]
+;W[np])
+(;B[oq]
+;W[pq]
+(;B[or]
+;W[nq]
+;B[os]
+;W[ns]LB[op:A]C[Even if Black plays at A next, White's already alive in seki.])
+(;B[nq]
+;W[or]))
+(;B[nq]
+;W[oq])
+(;B[pr]
+;W[pq]
+;B[or]
+;W[nq]))

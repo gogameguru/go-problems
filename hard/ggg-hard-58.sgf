@@ -1,0 +1,52 @@
+(;GM[1]FF[4]CA[UTF-8]AP[CGoban:3]ST[2]
+RU[Japanese]SZ[19]KM[0.00]
+SO[http://gogameguru.com/]AW[mk][pk][ol][ql][nn][pn][qn][no][lp][mp][sp][lq][nq][oq][kr][nr][qr][rr][ns]AB[qj][qk][rl][lm][mm][rm][rn][jo][lo][mo][qo][np][op][pp][qp][rp][jq][mq][rq][sq][jr][mr][sr][ms]C[Black to play.
+
+http://gogameguru.com/]
+(;B[pr]
+;W[pq]
+(;B[qs]
+(;W[rs]
+(;B[os]C[Correct. It's a ko.])
+(;B[ps]
+;W[qq]))
+(;W[or]C[White shouldn't play here, because then black can capture white without a ko.]
+;B[ps]
+;W[rs]
+;B[qq]
+;W[os]
+;B[ps]
+;W[pr]
+;B[ss]C[Correct. White died completely because of 5 (P2).]))
+(;B[qq]
+;W[ps]
+;B[or]
+;W[os]
+;B[rs]
+;W[pr]
+;B[ss]
+;W[ls])
+(;B[ps]
+;W[qq]
+;B[rs]
+;W[qs]
+;B[ks]
+;W[ls]
+;B[lr]
+;W[ls])
+(;B[os]
+;W[qq]
+;B[qs]
+;W[ls]
+;B[rs]
+;W[lr]
+(;B[mr]
+;W[or])
+(;B[ss]
+;W[mr])))
+(;B[pq]
+;W[pr])
+(;B[rs]
+;W[pr])
+(;B[ps]
+;W[pr]))

@@ -1,0 +1,34 @@
+(;GM[1]FF[4]CA[UTF-8]AP[CGoban:3]ST[2]
+RU[Japanese]SZ[19]KM[0.00]
+SO[http://gogameguru.com/]AW[ap][bp][cp][dp][ep][fp][aq][fq][fr][es][fs]AB[bq][cq][dq][eq][ar][br][er]C[Black to play.
+
+http://gogameguru.com/]
+(;B[cs]
+(;W[ds]
+;B[dr]C[Correct])
+(;W[dr]
+;B[ds]C[Correct, but white just gives away two points by playing this way.]))
+(;B[ds]
+;W[cs]
+(;B[cr]
+;W[dr]C[It's a ko, but black can do better.])
+(;B[bs]
+;W[dr]
+;B[cr]
+;W[as])
+(;B[dr]
+;W[bs]))
+(;B[cr]
+;W[ds])
+(;B[dr]
+;W[cs]
+(;B[ds]
+;W[bs])
+(;B[bs]
+;W[ds]))
+(;B[bs]
+;W[ds]
+(;B[cs]
+;W[dr])
+(;B[dr]
+;W[cs])))

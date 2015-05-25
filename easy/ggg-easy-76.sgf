@@ -1,0 +1,24 @@
+(;GM[1]FF[4]CA[UTF-8]AP[CGoban:3]ST[2]
+RU[Japanese]SZ[19]KM[0.00]
+SO[http://gogameguru.com/]AW[fp][bq][cq][dq][fq][er][gr][fs]AB[cp][dp][ep][eq][cr][dr]C[Black to play.
+
+http://gogameguru.com/]
+(;B[br]
+;W[bp]
+;B[bo]C[Correct. White only has two liberties and all of black's groups have more than that. No matter what white does next, black can atari.])
+(;B[bp]
+;W[br]
+;B[bs]
+;W[ds]
+(;B[cs]
+;W[as])
+(;B[aq]
+;W[cs])
+(;B[ar]
+;W[cs]))
+(;B[aq]
+;W[bp]
+;B[bo]
+;W[br]
+;B[bs]
+;W[ds]LB[co:A]C[This variation is even worse for black than the previous one because white's stones are safe and black still has to worry about white cutting at A.]))

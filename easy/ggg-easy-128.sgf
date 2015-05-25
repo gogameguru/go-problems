@@ -1,0 +1,36 @@
+(;GM[1]FF[4]CA[UTF-8]AP[CGoban:3]ST[2]
+RU[Japanese]SZ[19]KM[0.00]
+AW[nq][oq][pq][qq][nr][rr][sr][ns]AB[mp][np][op][pp][qp][rp][mq][rq][sq][mr][ms][os]C[Black to play.
+
+https://gogameguru.com/]
+(;B[qr]
+;W[pr]
+(;B[qs]
+(;W[ps]
+(;B[or]C[Correct])
+(;B[rs]
+;W[ss]))
+(;W[rs]
+(;B[ss]C[Correct])
+(;B[ps]
+;W[or])))
+(;B[ps]
+;W[qs])
+(;B[rs]
+;W[qs]))
+(;B[pr]
+;W[qr]
+;B[qs]
+;W[rs])
+(;B[or]
+;W[qr])
+(;B[qs]
+;W[qr]LB[rs:A]C[White's alive. Even if Black plays at A next, White's already alive in seki. ])
+(;B[rs]
+;W[qs]
+(;B[qr]
+;W[pr])
+(;B[ps]
+;W[qr]))
+(;B[ps]
+;W[qr]))

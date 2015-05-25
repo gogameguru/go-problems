@@ -1,0 +1,18 @@
+(;GM[1]FF[4]CA[UTF-8]AP[CGoban:3]ST[2]
+RU[Japanese]SZ[19]KM[0.00]
+SO[http://gogameguru.com/]AW[bj][bl][cl][am][cm][cn][do][ep][dq][cr][dr][bs]AB[bm][an][bn][bo][co][bq][cq][br]C[Black to play.
+
+http://gogameguru.com/]
+(;B[ap]
+(;W[cp]
+(;B[ar]LB[bp:A][dp:B]C[Correct. If white plays at A black can capture at B. If white plays at B, black connects at A, so black's alive with two eyes.])
+(;B[bp]
+;W[ar]
+;B[dp]
+;W[eo]))
+(;W[ar]
+;B[cp]C[Correct]))
+(;B[cp]
+;W[ap]C[Black can't make two eyes now.])
+(;B[ar]
+;W[ap]C[This is the vital point. Black will die after white plays here.]))

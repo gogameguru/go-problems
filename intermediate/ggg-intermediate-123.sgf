@@ -1,0 +1,90 @@
+(;GM[1]FF[4]CA[UTF-8]AP[CGoban:3]ST[2]
+RU[Japanese]SZ[19]KM[0.00]
+AW[dn][gn][co][cp][gp][fq][fr]AB[do][eo][cq][dq][eq]C[Black to play.
+
+http://gogameguru.com/l]
+(;B[fn]
+(;W[cl]
+;B[gm]
+;W[hn]
+(;B[fl]LB[cj:A][kp:B]C[Correct. Black can play around A or B later.])
+(;B[fm]C[This is also possible, but there's a slightly better move in the center.]))
+(;W[gm]
+(;B[cn]
+;W[cm]
+;B[bn]
+(;W[dm]
+(;B[bm]
+;W[bl]
+;B[bp]C[Correct])
+(;B[bp]
+;W[bm]C[Blocking here is sente for White. Black can do better.]))
+(;W[bm]
+(;B[dm]
+;W[an]
+;B[en]C[Correct])
+(;B[an]
+;W[dl]
+;B[bp]C[Also correct. Playing like this can sometimes be ok for Black, but in general you probably don't want to allow White to develop so much outside influence.])))
+(;B[fm]
+;W[cl])))
+(;B[gm]
+;W[en]
+(;B[fn]
+;W[fo]
+;B[fm]
+;W[cm]LB[hn:B][er:A]C[Now A and B are miai for White.])
+(;B[fo]
+;W[fn]
+;B[go]
+;W[ho]
+;B[hn]
+;W[io]))
+(;B[en]
+;W[dm]
+;B[em]
+;W[dl]
+;B[el]
+;W[dk])
+(;B[cn]
+;W[cm]
+;B[bn]
+;W[bm]
+(;B[dm]
+;W[en]
+;B[fn]
+;W[em]
+;B[fm]
+;W[el]
+(;B[fo]
+;W[kq]C[Black made White's left side position very strong.])
+(;B[go]
+;W[ho]
+;B[fo]
+;W[ip]C[Black made White's left side position very strong.]))
+(;B[fn]
+;W[bo]
+;B[gm]
+;W[hn]C[Black made White's left side position very strong.])
+(;B[en]
+;W[dm]
+;B[em]
+;W[el]
+;B[fl]
+;W[fm]))
+(;B[dm]
+;W[en]
+;B[cn]
+;W[cm]
+;B[bn]
+;W[bm]
+;B[fn]
+;W[em]
+;B[fm]
+;W[el]
+(;B[fo]
+;W[kq]C[Black made White's left side position very strong.])
+(;B[go]
+;W[ho]
+;B[fo]
+;W[ip]C[Black made White's left side position very strong.])))

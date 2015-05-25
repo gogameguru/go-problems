@@ -1,0 +1,74 @@
+(;GM[1]FF[4]CA[UTF-8]AP[CGoban:3]ST[2]
+RU[Japanese]SZ[19]KM[0.00]
+SO[http://gogameguru.com/]AW[bn][cn][bo][fo][cp][dp][ep][fq][gq][er][fr][cs]AB[ao][co][bp][bq][cq][dq][eq][dr][es]C[Black to play.
+
+http://gogameguru.com/]
+(;B[ds]
+;W[br]
+(;B[ar]
+;W[ap]
+(;B[bs]
+;W[as]
+;B[cr]
+;W[aq]
+;B[ar]
+;W[aq]
+;B[ap]C[Correct. Black lives with a double ko.])
+(;B[cr]
+;W[bs]))
+(;B[cr]
+;W[bs]
+(;B[ap]
+;W[ar]
+;B[aq]
+;W[an]
+;B[as]
+;W[bs]
+;B[br]
+;W[ar]C[It's a ko, and black can do better.])
+(;B[ar]
+;W[ap])))
+(;B[bs]
+;W[br]
+(;B[ar]
+;W[as]
+;B[cr]
+;W[aq]
+(;B[ds]
+;W[fs]C[It's a ko, and black can do better.])
+(;B[ap]
+;W[an]C[It's a ko, and black can do better.]))
+(;B[cr]
+;W[as]
+(;B[ds]
+;W[fs]C[It's a ko, and black can do better.])
+(;B[ar]
+;W[aq]
+(;B[ap]
+;W[an]C[It's a ko, and black can do better.])
+(;B[ds]
+;W[fs]C[It's a ko, and black can do better.])))
+(;B[ds]
+;W[as]
+(;B[cr]
+;W[fs]C[It's a ko, and black can do better.])
+(;B[ar]
+;W[fs]C[It's a ko, and black can do better.])))
+(;B[ar]
+;W[bs]
+(;B[ds]
+;W[ap])
+(;B[ap]
+;W[ds]))
+(;B[ap]
+;W[ds]
+;B[bs]
+;W[ar]
+;B[cr]
+;W[ds])
+(;B[br]
+;W[ds])
+(;B[cr]
+;W[bs]
+;B[ds]
+;W[ap]))

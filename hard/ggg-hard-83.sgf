@@ -1,0 +1,96 @@
+(;GM[1]FF[4]CA[UTF-8]AP[CGoban:3]ST[2]
+RU[Japanese]SZ[19]KM[0.00]
+SO[http://gogameguru.com/]AW[ok][ol][pm][jn][ln][mn][nn][pn][qn][ro][pp][rp][sp][oq][qq][rq][pr][os]AB[pj][pk][pl][rl][qm][rn][sn][mo][no][oo][po][qo][so][ip][kp][qp][nq][sq][nr][or][qr][ns]C[Black to play.
+
+http://gogameguru.com/]
+(;B[rs]
+(;W[ps]
+(;B[qs]
+;W[pq]
+;B[sr]C[Correct])
+(;B[sr]C[Correct])
+(;B[rr]
+;W[sr])
+(;B[op]
+;W[pq]
+;B[sr]C[Correct]))
+(;W[rr]
+(;B[qs]
+(;W[sr]
+;B[ps]C[Correct])
+(;W[pq]
+;B[ps]C[Correct])
+(;W[ps]
+;B[pq]C[Correct]))
+(;B[ps]
+;W[qs]C[It's a ko, but black can do better.])))
+(;B[qs]
+;W[rs]
+(;B[rr]
+;W[sr]
+;B[ss]C[It's a ko, but black can do better.])
+(;B[ps]
+;W[rr]
+(;B[pq]
+;W[sr])
+(;B[os]
+;W[sr])
+(;B[sr]
+;W[os]
+;B[ps]
+;W[qs]))
+(;B[sr]
+;W[rr]
+;B[ps]
+;W[os]
+;B[ps]
+;W[qs]))
+(;B[rr]
+;W[sr]
+(;B[qs]
+;W[rs]
+;B[ss]C[It's a ko, but black can do better.])
+(;B[rs]
+;W[ps]
+;B[op]
+;W[pq]C[White's alive in seki. ])
+(;B[ps]
+;W[rs]C[It's a ko, but black can do better.]))
+(;B[ps]
+;W[rr]
+(;B[pq]
+;W[rs]
+;B[sr]
+;W[pr]C[It's a ko, but black can do better.])
+(;B[rs]
+;W[qs]C[It's a ko, but black can do better.])
+(;B[qs]
+;W[rs]
+(;B[pq]
+;W[sr])
+(;B[os]
+;W[sr])))
+(;B[sr]
+;W[rr]
+(;B[ps]
+;W[qs])
+(;B[qs]
+;W[rs]
+;B[ps]
+;W[os]
+;B[ps]
+;W[qs])
+(;B[rs]
+;W[qs]
+;B[ps]
+;W[ss]))
+(;B[ss]
+;W[rr]
+(;B[ps]
+;W[qs])
+(;B[qs]
+;W[rs]
+;B[ps]
+;W[os]
+;B[ps]
+;W[qs])))

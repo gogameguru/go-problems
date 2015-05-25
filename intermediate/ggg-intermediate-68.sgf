@@ -1,0 +1,34 @@
+(;GM[1]FF[4]CA[UTF-8]AP[CGoban:3]ST[2]
+RU[Japanese]SZ[19]KM[0.00]
+SO[http://gogameguru.com/]AW[qn][pp][mq][qq][nr]AB[kq][lq][nq][pr]LB[nr:A]C[Black to play. White just played at A, to separate black's stones. How can you foil her plan?
+
+http://gogameguru.com/]
+(;B[or]
+;W[np]
+;B[oq]
+(;W[mp]
+;B[mr]C[Correct. Black's stones are connected.])
+(;W[mr]
+;B[mp]C[Correct. Black can capture white's three stones.]))
+(;B[mp]
+;W[oq]
+;B[mr]
+;W[or]C[If taking sente or preventing white from controlling the center is very important, black can give up territory and play this way. In general though, black prefers to play as in the main variation.])
+(;B[mr]
+;W[oq]
+(;B[mp]
+;W[or])
+(;B[or]
+;W[np]C[White is satisfied with this.]))
+(;B[oq]
+;W[mp]
+;B[mr]
+;W[lr]
+(;B[ms]
+;W[ls])
+(;B[kr]
+;W[ms]))
+(;B[op]
+;W[mp])
+(;B[np]
+;W[mp]))

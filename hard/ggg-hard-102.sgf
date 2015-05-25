@@ -1,0 +1,142 @@
+(;GM[1]FF[4]CA[UTF-8]AP[CGoban:3]ST[2]
+RU[Japanese]SZ[19]KM[0.00]
+SO[http://gogameguru.com/]AW[qn][qo][ro][op][pp][qp][oq][rq][pr]AB[pm][qm][rm][pn][rn][no][so][np][rp][sp][nq][pq][nr][or]C[Black to play.
+
+http://gogameguru.com/]
+(;B[rr]
+(;W[sr]
+(;B[ps]
+(;W[qq]
+(;B[rs]
+;W[sq]
+(;B[qs]LB[sn:A][qr:B]C[Correct. A and B are miai for black.])
+(;B[sn]
+;W[qs]
+;B[qr]
+;W[ss]C[It's a ko, but black can do better.])
+(;B[qr]
+;W[ss]C[It's a ko, but black can do better.]))
+(;B[qr]
+;W[rs]C[It's a ko, but black can do better.])
+(;B[qs]
+;W[rs]C[It's a ko, but black can do better.]))
+(;W[qr]
+;B[rs]C[Correct]))
+(;B[qr]
+(;W[ps]
+;B[qq]
+;W[rs]
+;B[sq]
+;W[qs]C[This is also a ko. Perhaps you can change your plan slightly?])
+(;W[qq]
+;B[ps]
+;W[rs]C[It's a ko, but black can do better.])))
+(;W[sq]
+;B[qr]
+;W[qq]
+;B[ps]LB[sn:A]C[Correct. Even if white captures at A, she can only make one eye by doing so.])
+(;W[qr]
+;B[sq]C[Correct])
+(;W[qq]
+;B[sq]C[Correct]))
+(;B[qr]
+;W[ps]
+(;B[qq]
+;W[rr]
+;B[sr]
+;W[qs]
+;B[sq]
+;W[qq])
+(;B[rr]
+;W[sr]
+(;B[qq]
+;W[rs]
+;B[sq]
+;W[qs]C[It's a ko, but black can do better.])
+(;B[sq]
+;W[sn])
+(;B[sn]
+;W[qq]
+;B[sq]
+;W[rs]C[It's a ko, but black can do better.])
+(;B[rs]
+;W[qq]))
+(;B[qs]
+;W[qq]
+;B[os]
+;W[pq]
+(;B[rr]
+;W[sq]
+;B[sn]
+;W[rs]
+;B[ss]
+;W[sr])
+(;B[rs]
+;W[sq]
+;B[sn]
+;W[rr])
+(;B[sq]
+;W[sr]
+(;B[sn]
+;W[rs])
+(;B[rs]
+;W[sn]))
+(;B[sr]
+;W[sq])
+(;B[ss]
+;W[sq]))
+(;B[os]
+;W[qq]
+;B[qs]
+;W[pq]
+(;B[rr]
+;W[sq]
+;B[sn]
+;W[rs]
+;B[ss]
+;W[sr])
+(;B[rs]
+;W[sq]
+;B[sn]
+;W[rr])
+(;B[sq]
+;W[sr]
+(;B[sn]
+;W[rs])
+(;B[rs]
+;W[sn]))
+(;B[sr]
+;W[sq])
+(;B[ss]
+;W[sq]))
+(;B[sr]
+;W[rr]
+;B[sq]
+;W[qq]))
+(;B[ps]
+;W[qr]
+(;B[rr]
+;W[sq]
+;B[qs]
+;W[qq]LB[sn:A][rs:B]C[White's alive because A and B are miai.])
+(;B[sr]
+;W[sq]
+;B[rr]
+;W[sn])
+(;B[rs]
+;W[qs]
+;B[rr]
+;W[qq]
+;B[sq]
+;W[sr]))
+(;B[sr]
+;W[sq]
+(;B[qr]
+;W[qq]
+;B[ps]
+;W[rr]
+;B[pq]C[It's a ko, but black can do better.])
+(;B[rr]
+;W[qq]
+;B[qr]
+;W[qs])))

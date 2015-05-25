@@ -1,0 +1,42 @@
+(;GM[1]FF[4]CA[UTF-8]AP[CGoban:3]ST[2]
+RU[Japanese]SZ[19]KM[0.00]
+SO[http://gogameguru.com/]AW[ck][bl][cm][dm][em][fo][dp][cq][dq][fq][br]AB[bm][bn][cn][dn][bo][do][cp]C[Black to play.
+
+http://gogameguru.com/]
+(;B[ap]
+;W[bq]
+(;B[bp]
+;W[am]
+;B[an]C[Correct])
+(;B[am]
+;W[bp]))
+(;B[bq]
+;W[aq]
+(;B[ap]
+;W[bp]C[It's a ko, but black can do better.])
+(;B[bp]
+(;W[am]
+(;B[an]
+;W[ap])
+(;B[ap]
+;W[an]
+;B[ar]
+;W[cr]))
+(;W[ap]C[Black should be captured now, but this white move is a mistake...]
+;B[am]
+;W[ao]
+;B[ar]
+;W[as]
+;B[an]LB[ar:A][cr:B]C[A and B are miai for black (if white defends against one, black plays the other), so black lives.])))
+(;B[am]
+;W[bp])
+(;B[bp]
+;W[am]
+(;B[bq]
+;W[aq]
+;B[ap]
+;W[an])
+(;B[an]
+;W[ap]
+;B[bq]
+;W[aq])))

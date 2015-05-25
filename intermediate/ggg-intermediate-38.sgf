@@ -1,0 +1,22 @@
+(;GM[1]FF[4]CA[UTF-8]AP[CGoban:3]ST[2]
+RU[Japanese]SZ[19]KM[0.00]
+SO[http://gogameguru.com/]AW[pl][pm][qm][kn][rn][ko][qo][kp][qp][kq][lq][mq][qq][or]AB[qj][pk][ql][rl][rm][jo][no][jp][lp][op][jq][pq][jr][kr][qr][rr]LB[or:A]C[Black to play. How should black resist A?
+
+http://gogameguru.com/]
+(;B[nr]
+;W[nq]
+;B[oq]
+;W[mr]
+;B[pr]
+;W[ns]
+;B[nm]LB[nm:7]TR[pk][pl][pm][qm]C[Correct. Black 7 is the vital point. Now black can fight.])
+(;B[pr]
+;W[oq]
+;B[pp]
+;W[nm]C[Now black's in trouble.])
+(;B[oq]
+;W[nr]
+;B[pr]
+;W[nm])
+(;B[nm]
+;W[pr]LB[nm:A]TR[qr][rr]C[Black A is a vital point, but letting white capture black's two stones in the corner takes the wind out of black's sails.]))

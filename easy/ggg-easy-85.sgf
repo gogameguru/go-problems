@@ -1,0 +1,55 @@
+(;GM[1]FF[4]CA[UTF-8]AP[CGoban:3]ST[2]
+RU[Japanese]SZ[19]KM[0.00]
+SO[http://gogameguru.com/]AW[qn][rn][sn][qo][np][pp][rp][pq][nr][pr][qr][os]AB[qm][rm][pn][po][qp][qq][rq][rr][ps][qs][rs]C[Black to play.
+
+http://gogameguru.com/]
+(;B[so]
+(;W[sq]
+(;B[sm]
+;W[ro]
+;B[sp]C[Correct])
+(;B[sr]
+;W[ss])
+(;B[sp]
+;W[sr]
+(;B[ss]
+;W[sq]
+(;B[sr]
+;W[sq])
+(;B[ro]
+;W[rp]))
+(;B[ro]
+;W[rp]))
+(;B[ro]
+;W[sp]))
+(;W[sp]
+;B[sm]
+;W[ro]
+;B[sq]C[Correct])
+(;W[ro]
+(;B[sm]
+;W[sp]
+;B[sq]C[Correct])
+(;B[sq]
+;W[sp]
+;B[sm]C[Correct])))
+(;B[sp]
+;W[so]C[White can resist with a ko. Can you do better?])
+(;B[sm]
+;W[so]
+(;B[sq]
+;W[sr]LB[pm:A]C[This is a seki, but now black has to worry about the cutting point at A.])
+(;B[sp]
+;W[sq]
+;B[sr]
+;W[ss])
+(;B[sr]
+;W[sp]LB[pm:A][sq:B]C[This is a seki, but now black has to worry about the cutting point at A. White could also have chosen to fight a ko at B.]))
+(;B[ro]
+;W[so]
+;B[sq]
+;W[sr]
+(;B[sm]
+;W[pm])
+(;B[pm]
+;W[sp])))

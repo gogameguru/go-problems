@@ -1,0 +1,81 @@
+(;GM[1]FF[4]CA[UTF-8]AP[CGoban:3]ST[2]
+RU[Japanese]SZ[19]KM[0.00]
+SO[http://gogameguru.com/]AW[dl][dm][bo][do][eo][ho][bp][fp][bq][cq][gq][ar][gr][cs][ds][es]AB[el][dn][cp][dp][dq][eq][fq][br][cr][dr][fr][fs]C[Black to play.
+
+http://gogameguru.com/]
+(;B[co]
+(;W[cn]
+;B[bn]
+;W[cm]
+(;B[ao]
+(;W[aq]
+(;B[bm]
+(;W[bl]
+(;B[an]
+(;W[bs]
+;B[er]
+;W[al]
+;B[as]
+;W[bs]
+;B[cs]
+;W[am]
+;B[as]
+;W[ap]
+;B[bn]C[Correct. It's a ko for life.
+])
+(;W[al]C[If white plays here, black can live.]
+;B[bs]
+;W[am]
+;B[as]
+;W[ap]
+;B[bn]C[Black lived easily because white made a mistake.]))
+(;B[bs]
+;W[am]
+;B[as]
+;W[an]))
+(;W[an]C[This is an interesting idea, but it's an overplay in this case.]
+;B[bl]
+;W[bs]
+;B[er]
+;W[gs]
+;B[as]
+;W[bs]
+;B[cs]
+;W[ep]
+;B[as]LB[an:A]C[Correct. This is a one step ko where black takes first. It's much better for black than the main variation because white A was a mistake.]))
+(;B[an]
+;W[bm]
+;B[bs]
+;W[am]
+;B[as]
+;W[ap]))
+(;W[bm]C[Black will live if white plays here, but white has a stronger move.
+]
+;B[aq]
+(;W[an]
+;B[as]C[Black lived easily (in seki) because white made a mistake.
+])
+(;W[ap]C[White can't capture...]
+;B[aq]C[It's a snapback.])))
+(;B[bm]
+;W[bl]
+;B[ao]
+;W[an]
+(;B[am]
+;W[aq]
+;B[bs]
+;W[al]
+;B[as]
+;W[an])
+(;B[aq]
+;W[ap]))
+(;B[aq]
+;W[ap]))
+(;W[bn]
+;B[cn]
+;W[bm]
+;B[en]
+;W[fn]
+;B[em]C[Correct. Black has escaped.]))
+(;B[cn]
+;W[co]))

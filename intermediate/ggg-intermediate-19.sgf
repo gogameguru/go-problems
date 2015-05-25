@@ -1,0 +1,45 @@
+(;GM[1]FF[4]CA[UTF-8]AP[CGoban:3]ST[2]
+RU[Japanese]SZ[19]KM[0.00]
+SO[http://gogameguru.com/]AW[qo][ro][qp][nq][qq][rq][or][pr]AB[qn][rn][sn][po][pp][pq][qr][rr]C[Black to play.
+
+http://gogameguru.com/]
+(;B[sr]
+;W[sp]
+(;B[so]C[Correct])
+(;B[sq]C[Correct])
+(;B[qs]
+;W[ps]
+;B[so]
+;W[rs]LB[rq:A][rr:B]C[A and B are in seki, but black can do better. ]))
+(;B[sq]
+;W[sr]
+(;B[ss]
+;W[sp]
+(;B[so]
+;W[sr]C[It's a ko, but black can do better.])
+(;B[qs]
+;W[sr])
+(;B[sr]
+;W[qs]))
+(;B[sp]
+;W[rs]
+;B[ss]C[It's a ko, but black can do better.]))
+(;B[so]
+;W[sr]
+(;B[rs]
+;W[sp])
+(;B[sp]
+;W[qs])
+(;B[ps]
+;W[rs]))
+(;B[sp]
+;W[sr]
+(;B[sq]
+;W[rs]
+;B[ss]C[It's a ko, but black can do better.])
+(;B[rs]
+;W[ps]
+;B[sq]
+;W[qs]
+;B[ss]
+;W[sr])))

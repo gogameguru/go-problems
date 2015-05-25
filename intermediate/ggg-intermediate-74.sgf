@@ -1,0 +1,47 @@
+(;GM[1]FF[4]CA[UTF-8]AP[CGoban:3]ST[2]
+RU[Japanese]SZ[19]KM[0.00]
+SO[http://gogameguru.com/]AW[bn][co][bp][fp][cq][fq]AB[eo][cp][ep][jp][bq]C[Black to play.
+
+http://gogameguru.com/]
+(;B[cr]
+(;W[dp]
+(;B[eq]
+(;W[br]
+;B[hp]C[Correct])
+(;W[dr]
+(;B[dq]
+;W[er]
+;B[cp]C[Correct])
+(;B[er]C[Correct. If black doesn't have enough ko threats, black can just play here too.])))
+(;B[dq]
+;W[eq]
+;B[cp]
+;W[do]
+;B[er]
+;W[cq]))
+(;W[dq]C[White shouldn't extend like this. If she does, black can get an even better result.]
+;B[eq]
+(;W[dr]
+;B[er]
+;W[br]
+;B[hp]C[Correct])
+(;W[dp]
+;B[dr]C[Correct])))
+(;B[eq]
+;W[cr]
+(;B[er]
+;W[hp]C[Compared to the main variation, white is one step ahead of black here.])
+(;B[hp]
+;W[er]))
+(;B[dp]
+;W[dr]
+;B[er]
+;W[eq]
+;B[dq]
+;W[cr])
+(;B[dq]
+;W[cr]
+;B[dr]
+;W[hp])
+(;B[hp]
+;W[dr]))

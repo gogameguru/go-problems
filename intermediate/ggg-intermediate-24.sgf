@@ -1,0 +1,49 @@
+(;GM[1]FF[4]CA[UTF-8]AP[CGoban:3]ST[2]
+RU[Japanese]SZ[19]SO[http://gogameguru.com/]C[Black to play.
+
+http://gogameguru.com/]AW[co][do][cp][ep][fp][bq][fq][br][cr][fr][gr]AB[eo][fo][go][dp][gp][cq][dq][gq][iq][dr][er][hr]
+(;B[es]
+(;W[hs]
+(;B[fs]
+(;W[ir]
+;B[hq]
+(;W[gs]
+;B[jr]C[Correct])
+(;W[jr]
+;B[gs]C[Correct]))
+(;W[gs]
+;B[is]C[Correct]))
+(;B[is]
+;W[fs]C[Now it's a ko, but black can do better.])
+(;B[gs]
+;W[fs]
+;B[is]
+;W[cs]C[Now it's a ko, but black can do better.]))
+(;W[fs]
+;B[hs]
+;W[cs]
+;B[gs]C[Correct])
+(;W[gs]
+;B[hs]
+(;W[cs]
+(;B[fs]C[Correct])
+(;B[eq]C[Correct]))
+(;W[ds]
+;B[cs]
+;W[bs]
+(;B[fs]C[Correct])
+(;B[eq]C[Correct]))))
+(;B[gs]
+;W[fs]
+(;B[es]
+;W[hs]
+;B[is]
+;W[cs]C[Now it's a ko, but black can do better.])
+(;B[hs]
+;W[ds]))
+(;B[fs]
+(;W[es]C[This is a crucial move for white.]
+;B[ds]
+;W[gs]C[Now it's a ko, but black can do better.])
+(;W[gs]LB[es:B][gs:A]C[This is a mistake for white. A should be at B.]
+;B[es]LB[fs:A][gs:B]C[A and B were both mistakes, but it all came out in the wash... White is captured.])))

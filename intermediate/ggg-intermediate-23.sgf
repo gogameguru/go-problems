@@ -1,0 +1,25 @@
+(;GM[1]FF[4]CA[UTF-8]AP[CGoban:3]ST[2]
+RU[Japanese]SZ[19]KM[0.00]
+SO[http://gogameguru.com/]AW[bn][co][do][dp][aq][cq][br][cr][dr][ds]AB[ap][bp][cp][bq][dq][eq][er][es]C[Black to play.
+
+http://gogameguru.com/]
+(;B[bs]
+(;W[ar]
+(;B[as]C[Correct])
+(;B[cs]C[Correct]))
+(;W[ao]
+;B[ar]C[Correct])
+(;W[bo]
+;B[ar]C[Correct])
+(;W[as]
+;B[ar]C[Correct]))
+(;B[ar]
+;W[bs]
+;B[aq]
+;W[bo])
+(;B[cs]
+;W[bs])
+(;B[as]
+;W[bo]
+;B[ar]
+;W[ao]))

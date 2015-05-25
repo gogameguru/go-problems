@@ -1,0 +1,61 @@
+(;GM[1]FF[4]CA[UTF-8]AP[CGoban:3]ST[2]
+RU[Japanese]SZ[19]KM[0.00]
+SO[http://gogameguru.com/]AW[qm][rm][nn][on][pn][sn][mo][so][mp][qp][sp][mq][rq][nr][or][pr]AB[no][oo][ro][np][pp][rp][nq][oq][pq][qq][qr]C[Black to play.
+
+http://gogameguru.com/]
+(;B[sr]
+;W[rr]
+;B[rs]
+;W[sq]
+(;B[rn]
+(;W[ss]
+;B[po]C[Correct])
+(;W[sm]
+;B[po]C[Correct]))
+(;B[po]
+;W[qo]
+;B[qn]
+;W[qo]
+(;B[qp]
+;W[rn])
+(;B[rn]
+;W[qp]))
+(;B[qo]
+;W[po])
+(;B[qn]
+;W[po]))
+(;B[po]
+;W[qo]
+(;B[qn]
+;W[qo]
+(;B[rr]
+;W[sr]C[It's easy to make a ko, but can you find a way to avoid ko?])
+(;B[sr]
+;W[rr]
+;B[rs]
+;W[sq])
+(;B[qp]
+;W[rn]
+(;B[rr]
+;W[sr]C[It's easy to make a ko, but can you find a way to avoid ko?])
+(;B[sr]
+;W[rr]
+;B[rs]
+;W[sq]))
+(;B[rn]
+;W[qp]))
+(;B[rr]
+;W[sr]
+;B[sq]C[It's easy to make a ko, but can you find a way to avoid ko?]))
+(;B[qo]
+;W[po]
+;B[rr]
+;W[sr]C[It's easy to make a ko, but can you find a way to avoid ko?])
+(;B[rr]
+;W[sr]
+;B[rn]
+;W[qo]LB[sm:B][sq:A]C[Black can live without ko. This is the second best result, because at least now if black wins the ko at A he can do so in style, by capturing at B.])
+(;B[rn]
+;W[qo]
+;B[rr]
+;W[sr]LB[sm:B][sq:A]C[Black can live without ko. This is the second best result, because at least now if black wins the ko at A he can do so in style, by capturing at B.]))

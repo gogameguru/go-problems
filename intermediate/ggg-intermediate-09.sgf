@@ -1,0 +1,32 @@
+(;GM[1]FF[4]CA[UTF-8]AP[CGoban:3]ST[2]
+RU[Japanese]SZ[19]KM[0.00]
+SO[http://gogameguru.com/]AW[ko][lo][mo][qo][jp][np][op][pp][jq][qq][jr][kr][nr][or][qr][ls][qs]AB[lp][mp][kq][nq][oq][pq][lr][pr][ms][ns][ps]C[Black to play.
+
+http://gogameguru.com/]
+(;B[lq]
+;W[mr]
+;B[ks]
+;W[js]
+;B[ls]C[Correct. Black lives in seki.])
+(;B[ks]
+;W[lq]
+(;B[mq]
+;W[kp])
+(;B[kp]
+;W[mq]))
+(;B[mr]
+;W[lq]
+(;B[mq]
+;W[kp])
+(;B[kp]
+;W[mq]))
+(;B[kp]
+;W[mq]
+;B[lq]
+;W[mr])
+(;B[mq]
+;W[kp])
+(;B[os]
+;W[lq]
+;B[mq]
+;W[kp]))

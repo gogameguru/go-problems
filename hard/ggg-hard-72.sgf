@@ -1,0 +1,55 @@
+(;GM[1]FF[4]CA[UTF-8]AP[CGoban:3]ST[2]
+RU[Japanese]SZ[19]KM[0.00]
+SO[http://gogameguru.com/]AW[nn][pn][rn][sn][po][qo][ro][np][op][sp][pq][mr][pr][ps]AB[qj][qm][rm][qn][pp][qp][rp][oq][or][qr][os]C[Black to play.
+
+http://gogameguru.com/]
+(;B[sr]
+(;W[rq]
+(;B[qq]
+;W[rr]
+(;B[qs]
+(;W[sq]
+(;B[rs]
+;W[ss]
+;B[pr]C[Correct])
+(;B[pr]LB[rs:A][ss:B]C[Correct. It's a good time to exchange A for B before making two eyes here, but that's a small detail.]))
+(;W[pr]
+;B[rs]C[Correct]))
+(;B[rs]
+;W[qs]))
+(;B[rr]
+;W[qq]))
+(;W[rr]
+;B[rq]
+;W[rs]
+;B[qq]C[Correct. Black's alive.]))
+(;B[rq]
+;W[sr]
+(;B[sq]
+;W[rr]LB[so:A]C[Black has to fight a ko at A now.])
+(;B[rr]
+;W[sq]LB[nq:B][qq:D][qs:C][rs:A]C[Even if black plays at A now, white can start filling liberties at B at any time and black will have to play at C and D, so black only has a three space eye and white can capture this group.]))
+(;B[rr]
+;W[sr]
+;B[rq]
+;W[sq]C[Eventually black will have to capture white's three stones, and black will die.])
+(;B[sq]
+;W[rq]
+(;B[qq]
+;W[sr]
+(;B[rr]
+;W[sq])
+(;B[qs]
+;W[pr]))
+(;B[so]
+;W[qq]
+;B[rr]
+;W[sp]))
+(;B[qq]
+;W[sr]C[Black doesn't have enough room to make two eyes now.]
+;B[qs]
+;W[pr])
+(;B[rs]
+;W[sr]LB[rq:A][sq:B][rr:C]C[Even if black plays A-C now, the shape is still dead.])
+(;B[qs]
+;W[sr]))

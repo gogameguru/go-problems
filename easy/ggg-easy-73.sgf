@@ -1,0 +1,44 @@
+(;GM[1]FF[4]CA[UTF-8]AP[CGoban:3]ST[2]
+RU[Japanese]SZ[19]KM[0.00]
+SO[http://gogameguru.com/]AW[an][bn][cn][do][dp][dq][cr][dr]AB[co][cp][cq][ar][br][bs]C[Black to play.
+
+http://gogameguru.com/]
+(;B[ap]
+(;W[bp]
+;B[bo]C[Correct])
+(;W[ao]
+(;B[bp]C[Correct])
+(;B[bo]
+;W[bq]
+(;B[bp]
+;W[aq])
+(;B[aq]
+;W[bp])))
+(;W[bo]
+;B[bp]C[Correct])
+(;W[bq]
+;B[bp]C[Correct]))
+(;B[bp]
+;W[ap]
+;B[aq]
+;W[ao]LB[bq:A]C[A is a false eye, so black's group will be captured.])
+(;B[bo]
+;W[ao]
+(;B[ap]
+;W[bq]
+(;B[bp]
+;W[aq])
+(;B[aq]
+;W[bp]))
+(;B[bp]
+;W[ap]))
+(;B[bq]
+;W[ap])
+(;B[dn]
+;W[bq]
+(;B[bp]
+;W[ap]
+;B[aq]
+;W[ao]C[White can capture black's stones now, so the cutting stone black played loses its value.])
+(;B[ap]
+;W[bp])))

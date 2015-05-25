@@ -1,0 +1,133 @@
+(;GM[1]FF[4]CA[UTF-8]AP[CGoban:3]ST[2]
+RU[Japanese]SZ[19]KM[0.00]
+SO[http://gogameguru.com/]AW[bo][dp][dq][br][dr][cs]AB[bn][cn][do][eo][ep][eq][er][ds][es]C[Black to play.
+
+http://gogameguru.com/]
+(;B[bs]
+(;W[cq]
+;B[cr]C[Correct. Ko is the best solution.])
+(;W[as]LB[as:A]C[If white captures at A...]
+;B[bq]
+;W[bp]
+(;B[cp]
+;W[co]
+;B[cq]
+;W[cr]
+;B[aq]LB[as:A]C[Correct. White lost a liberty when she played A. She should play the ko instead.])
+(;B[aq]
+;W[cq]
+;B[cp]
+;W[co]
+;B[ao]
+;W[ar]))
+(;W[cr]
+;B[bp]
+(;W[bq]
+;B[cp]LB[aq:A][as:B]C[Correct. A and B are miai.])
+(;W[cp]
+;B[bq]LB[ao:A][co:B]C[Correct. A and B are miai.])))
+(;B[bq]
+;W[bp]
+(;B[cp]
+;W[co]
+(;B[cq]
+;W[cr]
+;B[aq]
+;W[ar]C[Black 1 is the vital point, but black needs to make some preparations before playing there.])
+(;B[bs]
+;W[cq]
+(;B[cr]
+;W[aq])
+(;B[ar]
+;W[aq]
+;B[cr]
+;W[as])))
+(;B[bs]
+;W[cr]LB[bs:A]C[It's too late to play A now.]
+(;B[cp]
+(;W[aq]LB[co:B][cq:A])
+(;W[co]C[This is a mistake for white...]
+;B[ar]
+;W[as]LB[co:A]C[White has to fight a ko, because A was a bad move.]))
+(;B[ar]
+;W[cp]
+(;B[ao]
+;W[ap]
+;B[aq]
+;W[an]
+(;B[bl]
+;W[cq])
+(;B[co]
+;W[bm]C[White will escape to the center. ]))
+(;B[ap]
+;W[ao]
+;B[an]
+;W[aq]LB[ap:A][as:B]C[This is a double ko. If black fights the ko at A, white just plays B and vice versa.]))))
+(;B[cp]
+;W[bp]
+(;B[cq]
+;W[cr]
+(;B[co]
+;W[bq]
+(;B[ao]
+;W[as])
+(;B[as]
+;W[ao]))
+(;B[bq]
+;W[co]
+;B[aq]
+;W[ar]))
+(;B[bs]
+;W[cr]
+(;B[bq]
+;W[aq])
+(;B[ar]
+;W[aq]
+;B[bq]
+;W[as]LB[co:B][cq:A]C[White A and B are miai, so white is alive.])
+(;B[aq]
+;W[ar]
+(;B[ao]
+;W[ap])
+(;B[bq]
+;W[co]
+;B[ao]
+;W[cq])))
+(;B[bq]
+;W[co]
+(;B[cq]
+;W[cr]
+;B[aq]
+;W[ar])
+(;B[bs]
+;W[cq]
+(;B[cr]
+;W[aq])
+(;B[ar]
+;W[aq]
+;B[cr]
+;W[as]))))
+(;B[bp]
+;W[bq]
+(;B[cp]
+;W[cq])
+(;B[cq]
+;W[cp]))
+(;B[cq]
+;W[cp]
+(;B[bq]
+;W[bp]
+;B[aq]
+;W[cr]
+(;B[ao]
+;W[ap])
+(;B[ap]
+;W[ao]))
+(;B[cr]
+;W[bq]))
+(;B[co]
+;W[bp]
+(;B[cp]
+;W[cq])
+(;B[cq]
+;W[cp])))

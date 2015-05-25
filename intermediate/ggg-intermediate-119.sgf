@@ -1,0 +1,98 @@
+(;GM[1]FF[4]CA[UTF-8]AP[CGoban:3]ST[2]
+RU[Japanese]SZ[19]KM[0.00]
+SO[http://gogameguru.com/]AW[pl][pm][nn][on][no][jp][op][pq]AB[om][pn][qn][oo][qo][pp][rp]C[Black to play.
+
+http://gogameguru.com/]
+(;B[oq]
+(;W[po]
+(;B[pr]
+(;W[qp]
+;B[qq]
+(;W[pp]
+(;B[np]
+;W[oo]
+(;B[rr]
+;W[nq]
+;B[or]LB[mp:A]C[Correct. White should defend with A next, so Black can take sente.])
+(;B[rq]
+;W[or]
+(;B[qs]
+;W[nq])
+(;B[nq]
+;W[qr]))
+(;B[qr]C[This is also possible, but there's a better move.]
+;W[nq]
+;B[or]C[Also correct.])
+(;B[nr]
+;W[rq]
+;B[qr]
+;W[ro]))
+(;B[rr]
+;W[nq]C[This isn't good enough. Black can do better.]))
+(;W[nq]
+;B[pp]C[Correct]))
+(;W[qq]
+(;B[oo]
+;W[np]
+;B[qr]C[Correct])
+(;B[qp]
+;W[or]
+;B[nq]
+;W[qr])
+(;B[qr]
+;W[nq]
+;B[or]
+;W[qp]C[This result is good for White.])))
+(;B[qq]
+;W[pr]
+;B[oo]
+;W[np]
+(;B[nr]
+;W[po]
+;B[qp]
+;W[nq]
+;B[or]
+;W[mr]
+;B[qr]C[This is possible, but black can do better.])
+(;B[or]
+;W[po]
+;B[qp]
+;W[nr]
+;B[qr]C[This is possible, but black can do better.]))
+(;B[qp]
+;W[nq]
+;B[or]
+;W[nr]
+;B[pr]C[This is possible, but black can do better.])
+(;B[nq]
+;W[qp]
+;B[qq]
+;W[pp]
+;B[pr]
+;W[qr]))
+(;W[np]
+(;B[pr]
+;W[qq]
+;B[qr]C[Correct])
+(;B[qq]
+;W[pr]
+(;B[nr]
+;W[po]
+;B[qp]
+;W[nq]
+;B[or]
+;W[mr]
+;B[qr]C[This is possible, but black can do better.])
+(;B[or]
+;W[po]
+;B[qp]
+;W[nr]
+;B[qr]C[This is possible, but black can do better.])
+(;B[qr]
+;W[or]))))
+(;B[qq]
+;W[pr]
+(;B[oq]
+;W[po]C[It's a ko, but black can do better.])
+(;B[po]
+;W[nq])))

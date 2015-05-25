@@ -1,0 +1,33 @@
+(;GM[1]FF[4]CA[UTF-8]AP[CGoban:3]ST[2]
+RU[Japanese]SZ[19]KM[0.00]
+SO[http://gogameguru.com/]AW[fl][fm][dn][fn][bo][eo][ap][cp][dp][aq][bq][eq][fq][dr][fr][fs]AB[gm][gn][fo][ho][ep][fp][cq][dq][gq][ar][br][cr][gr]C[Black to play.
+
+http://gogameguru.com/]
+(;B[es]
+(;W[ds]
+(;B[gs]
+;W[er]
+;B[cs]C[Correct. Black wins the capturing race.])
+(;B[cs]
+;W[er]
+;B[gs]C[Correct. Black wins the capturing race.]))
+(;W[cs]
+;B[gs]
+(;W[er]
+;B[ds]C[Correct. Black captures the cutting stones.])
+(;W[ds]
+;B[er]C[Correct. Black captures the cutting stones.])))
+(;B[ds]
+;W[es]LB[bs:B][cs:A]C[Now black has to fight a ko here. If black just conntects at A, white will atari at B and it's still a ko.])
+(;B[gs]
+;W[es]
+(;B[cs]
+;W[bs]LB[gp:A]C[This is a seki, and black has to worry about the weakness at A now.])
+(;B[bs]
+;W[ds]LB[gp:A]C[This is a seki, and black has to worry about the weakness at A now.])
+(;B[ds]
+;W[cs]C[Black doesn't have enough liberties to make a ko, so black dies.]))
+(;B[cs]
+;W[es]
+;B[ds]
+;W[bs]C[Now black has to fight a ko, but black can do better. ]))

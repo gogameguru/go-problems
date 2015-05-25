@@ -1,0 +1,72 @@
+(;GM[1]FF[4]CA[UTF-8]AP[CGoban:3]ST[2]
+RU[Japanese]SZ[19]KM[0.00]
+SO[http://gogameguru.com/]AW[rp][qq][sq][pr][qr]AB[qo][ro][qp][oq][pq][or]C[Black to play.
+
+http://gogameguru.com/]
+(;B[rs]
+;W[rr]
+(;B[so]
+(;W[sp]
+(;B[sr]
+;W[ss]C[Correct. It's a ko. ])
+(;B[ps]
+;W[qs])
+(;B[qs]
+;W[ps]))
+(;W[ss]
+(;B[sp]
+(;W[rq]
+;B[sr]C[Correct. It's a ko. ])
+(;W[qs]
+;B[rq]C[Correct. It's a ko. ]))
+(;B[sr]
+;W[qs]
+;B[sp]
+;W[ss]
+;B[rq]C[Correct. It's a ko. ])
+(;B[ps]
+;W[qs]))
+(;W[qs]
+(;B[sp]
+;W[ss]
+;B[rq]C[Correct. It's a ko. ])
+(;B[ss]
+;W[sp])))
+(;B[ps]
+;W[qs])
+(;B[sr]
+;W[qs]
+;B[so]
+;W[ss]
+;B[sp]
+;W[rq]))
+(;B[so]
+;W[rs]
+(;B[sr]
+;W[ps]
+(;B[rq]
+;W[rr]
+;B[sp]
+;W[rq])
+(;B[sp]
+;W[rq]))
+(;B[ps]
+;W[sr]
+;B[sp]
+;W[rq])
+(;B[sp]
+;W[rq]
+(;B[ps]
+;W[sr])
+(;B[sr]
+;W[ps])))
+(;B[ps]
+;W[rr]
+;B[so]
+;W[sp])
+(;B[qs]
+;W[ps]
+(;B[rr]
+;W[rs])
+(;B[rs]
+;W[rr])))

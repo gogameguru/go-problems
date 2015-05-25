@@ -1,0 +1,76 @@
+(;GM[1]FF[4]CA[UTF-8]AP[CGoban:3]ST[2]
+RU[Japanese]SZ[19]KM[0.00]
+SO[http://gogameguru.com/]AW[ol][pl][ql][rm][nn][no][rp][mq][nq][oq][rq][sq][nr][pr][qr][sr]AB[pk][on][qn][lo][ro][pp][qp][lq][pq][qq][lr][or][rr][rs]C[Black to play.
+
+http://gogameguru.com/]
+(;B[sp]
+;W[so]
+;B[sn]
+(;W[rn]
+;B[sp]C[Correct. Ko is the best solution.])
+(;W[os]C[If white tries to avoid the ko...]
+;B[sp]
+;W[qs]
+;B[ss]
+;W[rq]
+(;B[rn]C[Correct. White should fight the ko instead.])
+(;B[sq]
+;W[sr]
+;B[rn]C[Correct. White should fight the ko instead.])
+(;B[rp]
+;W[sr]
+;B[rn]C[Also correct. White should fight the ko instead.])))
+(;B[so]
+;W[os]
+;B[sp]
+;W[qs]
+;B[ss]
+;W[rq])
+(;B[sn]
+;W[os]
+;B[sp]
+;W[so]LB[rn:A][qs:B]C[This is the right idea, but now black has to make the first ko threat. If black plays A instead, white just plays B and captures. Can you improve the move order?])
+(;B[pm]
+;W[os]
+(;B[po]
+;W[om]
+;B[qm]
+;W[oo])
+(;B[om]
+;W[nm]
+(;B[po]
+;W[rn])
+(;B[rn]
+;W[po])))
+(;B[rn]
+;W[os]
+(;B[po]
+;W[pm])
+(;B[pm]
+;W[om]
+(;B[oo]
+;W[qm])
+(;B[qm]
+;W[rl]
+(;B[oo]
+;W[po])
+(;B[po]
+;W[oo]))))
+(;B[po]
+;W[os]
+(;B[om]
+;W[nm]
+;B[pm]
+;W[rn])
+(;B[pm]
+;W[om]
+;B[qm]
+;W[oo]))
+(;B[op]
+;W[os])
+(;B[qs]
+;W[os])
+(;B[ps]
+;W[os])
+(;B[os]
+;W[ns]LB[ns:B][os:A]C[After exchanging A for B black can still live in the same way as before. This isn't wrong, but the exchange doesn't add anything to the solution, so there no moves are provided for this variation.]))

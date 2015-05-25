@@ -1,0 +1,42 @@
+(;GM[1]FF[4]CA[UTF-8]AP[CGoban:3]ST[2]
+RU[Japanese]SZ[19]KM[0.00]
+SO[http://gogameguru.com/]AW[do][io][ep][gp][ip][kp][fq][jq][kq][lq][gr][lr][ls]AB[cn][co][ko][cp][jp][lp][pp][dq][eq][hq][iq][mq][jr][kr][mr]C[Black to play.
+
+http://gogameguru.com/]
+(;B[ho]
+(;W[lo]
+;B[hp]C[Correct])
+(;W[hp]C[White can't resist like this]
+;B[jo]
+;W[lo]
+;B[mp]
+(;W[kn]
+;B[jn]
+;W[jm]
+;B[in]
+;W[hn]
+;B[im]
+;W[il]
+;B[hm]C[Correct. Black's tesuji at H5 means this ladder doesn't work anymore.])
+(;W[jn]
+;B[kn]
+;W[km]
+;B[ln]C[Correct. There's no ladder this way either.])))
+(;B[jo]
+;W[lo]
+;B[mp]
+;W[kn]
+;B[jn]
+;W[jm]
+;B[in]
+;W[hn]C[Black's stones are caught in a ladder.])
+(;B[ms]
+;W[jo])
+(;B[ks]
+;W[jo])
+(;B[lo]
+;W[jo])
+(;B[hp]
+;W[ho]
+;B[go]
+;W[jo]))

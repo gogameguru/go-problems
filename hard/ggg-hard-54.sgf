@@ -1,0 +1,96 @@
+(;GM[1]FF[4]CA[UTF-8]AP[CGoban:3]ST[2]
+RU[Japanese]SZ[19]KM[0.00]
+SO[http://gogameguru.com/]AW[ej][dl][ql][cm][dm][gm][pm][dn][pn][eo][jo][ko][lo][oo][bp][ep][jp][lp][op][qp][rp][sp][bq][cq][dq][iq][kq][mq][nq][pq][cr][er][fr][ir][mr][ds]AB[cj][ck][cl][bm][cn][in][jn][kn][ln][mn][qn][bo][co][go][io][mo][cp][dp][ip][mp][np][eq][fq][gq][oq][rq][gr][nr][or][pr][qr][bs][fs][gs][ns]C[Black to play.
+
+http://gogameguru.com/]
+(;B[kr]
+(;W[ms]
+(;B[is]
+(;W[js]
+(;B[jr]
+(;W[hs]
+(;B[ls]
+(;W[lq]
+;B[jq]
+;W[is]
+;B[hq]C[Correct])
+(;W[jq]
+;B[lq]C[Correct]))
+(;B[jq]
+;W[ks])
+(;B[ks]
+;W[jq]))
+(;W[jq]
+;B[ks]C[Correct]))
+(;B[ls]
+;W[lq]
+;B[jr]
+;W[jq]
+(;B[ks]
+;W[lr])
+(;B[hs]
+;W[lr]
+;B[ks]
+;W[js])))
+(;W[jr]
+;B[js]
+;W[ks]
+;B[ls]
+;W[lq]
+;B[hs]C[Correct]))
+(;B[jr]
+;W[is]
+;B[ls]
+;W[lq]
+;B[jq]
+;W[js]
+;B[hq]
+;W[ks])
+(;B[ls]
+;W[lq]
+(;B[is]
+;W[jr]
+;B[js]
+;W[lr])
+(;B[jr]
+;W[jq]
+;B[is]
+;W[js]
+(;B[ks]
+;W[lr])
+(;B[hs]
+;W[lr]
+;B[ks]
+;W[js]))))
+(;W[jr]
+;B[ls]LB[lq:B][ms:A]C[Correct. A and B are miai for black.])
+(;W[rr]C[White can't kill black like this...]
+(;B[sr]
+;W[rs]
+(;B[qq]
+;W[sq]
+;B[qs]
+;W[ss]
+;B[sr]C[Black lives.])
+(;B[qs]C[This would be a mistake for black.]
+;W[qq]
+;B[ss]
+;W[rr]
+;B[rs]
+;W[sq]C[Black can't live locally, so now it would be a capturing race.]))
+(;B[qq]C[This would be a mistake for black.]
+;W[sq]
+;B[pp]
+;W[qo]C[Black can't live locally, so now it would be a capturing race.]))
+(;W[ap]C[White can't live like this...]
+;B[ar]
+;W[br]
+;B[es]C[This is a type of 'bent four in the corner' shape. White's still dead: http://senseis.xmp.net/?BentFourInTheCornerIsDead])
+(;W[lr]
+;B[ls]C[Correct]))
+(;B[lr]
+;W[kr])
+(;B[ks]
+;W[kr])
+(;B[ms]
+;W[kr]))

@@ -1,0 +1,153 @@
+(;GM[1]FF[4]CA[UTF-8]AP[CGoban:3]ST[2]
+RU[Japanese]SZ[19]KM[0.00]
+SO[http://gogameguru.com/]AW[ap][bp][cq][dr][ds]AB[bo][co][cp][ep][eq][er][es]C[Black to play.
+
+http://gogameguru.com/]
+(;B[dq]
+(;W[br]
+(;B[bs]
+;W[cr]
+(;B[ar]
+;W[aq]
+;B[ao]C[Correct. Ko is the best solution.])
+(;B[ao]
+;W[ar]))
+(;B[ar]
+;W[bs]
+(;B[ao]
+;W[bq])
+(;B[bq]
+;W[aq]
+;B[ao]
+;W[as])))
+(;W[cr]
+;B[ar]
+;W[br]
+;B[ao]
+;W[bq]
+;B[bs]LB[cr:A]C[White died because 2 (A) was a bad move.
+]))
+(;B[ar]
+(;W[br]
+;B[bs]
+;W[dq]
+(;B[bq]
+;W[aq]
+;B[ao]LB[dp:A]C[Ko is the best solution, but there's a slightly better move order that doesn't leave a cutting point at A.])
+(;B[ao]
+;W[bq]LB[cs:A]C[Even if black plays A next, white lives in seki.]))
+(;W[bs]LB[bs:A]C[White can't play here in this case.]
+;B[bq]
+;W[br]
+;B[ao]
+;W[aq]
+;B[bq]LB[bs:A]C[White died because 2 (A) was a bad move.])
+(;W[bq]LB[bq:B]C[This doesn't work for white either.]
+;B[dq]
+(;W[cr]
+;B[bs]LB[bq:B]C[White died because 2 (B) was a bad move.])
+(;W[bs]
+;B[cr]LB[bq:B]C[White died because 2 (B) was a bad move.])
+(;W[br]
+;B[bs]LB[bq:B]C[White died because 2 (B) was a bad move.])))
+(;B[br]
+;W[bq]
+(;B[ar]
+;W[bs]
+(;B[cr]
+;W[dq]
+(;B[dp]
+;W[cs])
+(;B[cs]
+;W[aq]))
+(;B[as]
+;W[cr]
+;B[cs]
+;W[aq]))
+(;B[cr]
+;W[dq]
+(;B[ar]
+;W[bs]
+(;B[dp]
+;W[cs])
+(;B[cs]
+;W[aq]))
+(;B[bs]
+;W[ar]))
+(;B[bs]
+;W[ar]
+(;B[as]
+;W[cr]
+;B[aq]
+;W[cs])
+(;B[dq]
+;W[cr])))
+(;B[ao]
+;W[br]
+(;B[ar]
+;W[bq]
+(;B[bs]
+;W[dq]LB[cs:A]C[Even if black plays A next, white lives in seki.])
+(;B[dq]
+;W[bs]))
+(;B[bs]
+;W[ar]
+;B[dq]
+;W[cr]))
+(;B[bs]
+;W[ar]
+(;B[dq]
+;W[cr]
+(;B[br]
+;W[bq])
+(;B[bq]
+;W[br]))
+(;B[cr]
+;W[dq]
+(;B[bq]
+;W[br]
+;B[ao]
+;W[aq])
+(;B[br]
+;W[bq])))
+(;B[bq]
+;W[br]
+(;B[ar]
+;W[aq]
+;B[bs]
+;W[cs]
+(;B[dq]
+;W[as])
+(;B[ao]
+;W[as]))
+(;B[dq]
+(;W[cr]
+;B[ar]
+;W[aq]
+;B[bs]
+;W[as]C[It's a one step ko, but black can do better. ])
+(;W[aq]
+;B[bs]
+;W[cr]
+;B[ar]
+;W[as]C[It's a one step ko, but black can do better. ])))
+(;B[cr]
+;W[br]
+(;B[bs]
+;W[dq]
+;B[ar]
+;W[bq])
+(;B[dq]
+;W[cs])
+(;B[ar]
+;W[dq]
+(;B[bs]
+;W[bq])
+(;B[ao]
+;W[bq])
+(;B[bq]
+;W[aq]
+;B[bs]
+;W[cs]
+;B[ao]
+;W[as]))))

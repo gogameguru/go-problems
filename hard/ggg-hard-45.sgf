@@ -1,0 +1,104 @@
+(;GM[1]FF[4]CA[UTF-8]AP[CGoban:3]ST[2]
+RU[Japanese]SZ[19]KM[0.00]
+SO[http://gogameguru.com/]AW[nl][nm][ln][nn][no][kp][lp][mp][op][pp][qp][pq][rq][sq][pr]AB[pk][om][on][qn][mo][oo][ro][np][rp][jq][kq][lq][mq][nq][oq][or]C[Black to play.
+
+http://gogameguru.com/]PL[B]
+(;B[qr]
+(;W[rs]
+(;B[ps]
+;W[qs]
+(;B[rr]
+(;W[sr]
+(;B[ss]
+;W[qs]
+(;B[rs]
+;W[qq]
+(;B[qs]
+;W[os]
+(;B[rs]C[Correct])
+(;B[qs]
+;W[rs])
+(;B[ns]
+;W[rs]))
+(;B[os]
+;W[qs]
+(;B[rs]
+;W[rr]C[It's a ko, but black can do better.])
+(;B[rr]
+;W[rs])))
+(;B[os]
+;W[qq]
+;B[rs]
+;W[qs]
+;B[rs]
+;W[rr]C[It's a ko, but black can do better.]))
+(;B[os]
+;W[qq]))
+(;W[os]
+;B[sr]C[Correct]))
+(;B[os]
+(;W[rr]C[Living like this loses one point, but also removes one ko threat, so there are pros and cons for white.])
+(;W[qq]C[White can get more points by playing here, but leaves a big ko threat in the corner.]
+;B[rr]
+;W[sr])))
+(;B[rr]
+(;W[sr]
+(;B[qs]
+;W[ps]
+;B[ss]
+;W[qq])
+(;B[ps]
+;W[qq]
+(;B[os]
+;W[qs])
+(;B[qs]
+;W[os])))
+(;W[qs]C[It's a mistake for white. ]
+;B[sr]C[White dies. ])
+(;W[ps]C[It's a mistake for white. ]
+;B[sr]C[White dies. ]))
+(;B[qs]
+;W[ps]
+;B[rr]
+;W[sr]
+;B[ss]
+;W[qq]))
+(;W[ps]
+;B[rr]
+;W[sr]
+;B[rs]C[Correct ])
+(;W[qs]
+(;B[rs]
+;W[ps]
+;B[rr]C[Correct])
+(;B[rr]
+;W[rs]
+;B[sr]C[Correct])))
+(;B[ps]
+;W[qr])
+(;B[rr]
+;W[qr]
+(;B[sp]
+;W[rs])
+(;B[sr]
+;W[rs]))
+(;B[qs]
+;W[ps]
+(;B[qr]
+;W[qq]
+(;B[rr]
+;W[rs]
+;B[ss]
+;W[sr])
+(;B[rs]
+;W[rr]))
+(;B[rs]
+;W[qr])
+(;B[rr]
+;W[qr]
+(;B[sp]
+;W[rs])
+(;B[sr]
+;W[rs])))
+(;B[rs]
+;W[qr]))

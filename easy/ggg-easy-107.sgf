@@ -1,0 +1,67 @@
+(;GM[1]FF[4]CA[UTF-8]AP[CGoban:3]ST[2]
+RU[Japanese]SZ[19]KM[0.00]
+AW[on][pn][qn][op][qp][rp][pq][pr]AB[po][lp][pp][nq][qq][qr][rr]
+(;B[oq]
+(;W[oo]
+(;B[ps]
+(;W[qo]
+(;B[pp]
+(;W[or]
+;B[nr]
+;W[po]
+;B[os]C[Correct])
+(;W[po]
+;B[or]C[Correct]))
+(;B[or]C[There's a better move for this. ]))
+(;W[or]
+;B[nr]
+;W[qo]
+;B[pp]C[Correct]))
+(;B[or]
+;W[ps]))
+(;W[np]
+;B[or])
+(;W[ps]
+;B[oo]
+(;W[np]
+;B[no]
+;W[mp]
+(;B[mo]C[Correct])
+(;B[mq]C[Correct]))
+(;W[no]
+;B[np]
+;W[qo]
+;B[op]C[Correct]))
+(;W[or]
+;B[nr]
+;W[oo]
+(;B[os]
+;W[qo]
+(;B[pp]C[Correct])
+(;B[ps]C[There's a better move for this. ]))
+(;B[ps]
+;W[qo]
+(;B[pp]C[Correct])
+(;B[os]C[There's a better move for this. ]))))
+(;B[ps]
+;W[oq]
+(;B[or]
+;W[nr]
+;B[os]
+;W[np]
+;B[mq]LB[ps:A]C[This is also possible, but there was a better move for A. ])
+(;B[ns]LB[ps:A]C[This is also possible, but there was a better move for A. ])
+(;B[nr]
+;W[os]))
+(;B[or]
+;W[ps]
+;B[oq]
+;W[oo])
+(;B[oo]
+;W[no])
+(;B[np]
+;W[oo])
+(;B[os]
+;W[ps]
+;B[oq]
+;W[oo]))

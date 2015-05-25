@@ -1,0 +1,75 @@
+(;GM[1]FF[4]CA[UTF-8]AP[CGoban:3]ST[2]
+RU[Japanese]SZ[19]KM[0.00]
+SO[http://gogameguru.com/]AW[bo][bp][bq][br][bs]AB[ck][bl][cm][cn][co][cp][cq][cr][er]C[Black to play.
+
+http://gogameguru.com/]
+(;B[ar]C[This is the vital point.]
+(;W[bn]
+(;B[an]C[Good move, this makes white's eyespace as small as possible.]
+(;W[ao]
+(;B[aq]
+;W[bm]
+;B[am]
+;W[al]
+(;B[am]LB[aj:C][bj:B][ak:A]C[Correct. If white plays A, black can just play B (or atari at C in some situations). White can't make two eyes.])
+(;B[ak]
+;W[am]LB[ak:A]C[Black almost had it. There's a better move than A.]))
+(;B[am]
+;W[aq])
+(;B[bm]
+;W[aq]))
+(;W[bm]
+;B[am]
+;W[ao]
+;B[aq]
+;W[al]
+;B[am]C[Correct]))
+(;B[bm]
+;W[an]
+(;B[aq]
+;W[ap])
+(;B[ap]
+;W[aq]))
+(;B[aq]
+;W[bm]
+(;B[am]
+;W[an]
+;B[ap]C[White's already alive in seki. ])
+(;B[ap]
+;W[am])))
+(;W[aq]
+(;B[ao]
+;W[bn]
+;B[an]
+;W[am]
+(;B[bm]
+;W[ap]
+(;B[an]C[Correct])
+(;B[al]
+;W[an]))
+(;B[al]
+;W[bm]))
+(;B[bn]
+;W[ao])))
+(;B[ao]
+;W[bn]
+;B[an]
+;W[am]
+;B[bm]
+;W[ap]
+(;B[an]
+;W[ar])
+(;B[ar]
+;W[an]))
+(;B[bn]
+;W[ao]LB[aq:B][ar:A]C[White's four in a row eyespace is alive because white A and B are miai (that means if black takes one, white can take the other one).])
+(;B[aq]
+;W[ar])
+(;B[ap]
+;W[ao]
+(;B[aq]
+;W[ar])
+(;B[ar]
+;W[aq]))
+(;B[an]
+;W[ao]))

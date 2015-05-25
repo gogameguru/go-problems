@@ -1,0 +1,84 @@
+(;GM[1]FF[4]CA[UTF-8]AP[CGoban:3]ST[2]
+RU[Japanese]SZ[19]KM[0.00]
+SO[http://gogameguru.com/]AW[pn][qn][rn][sn][no][mp][mq][pq][qq][mr][qr][rs]AB[qo][ro][op][pp][qp][sp][rq][rr]C[Black to play.
+
+http://gogameguru.com/]
+(;B[or]
+;W[oq]
+(;B[nq]
+;W[nr]
+(;B[ps]
+(;W[np]
+(;B[so]
+(;W[sr]
+;B[qs]
+(;W[ns]
+;B[sq]C[Correct])
+(;W[nq]
+;B[sq]C[Correct]))
+(;W[qs]C[In a real game white would just play here because there's no way to kill black now and trying to do so will just lose points.]
+;B[sr]C[Correct]))
+(;B[qs]
+;W[so]))
+(;W[qs]LB[np:A]C[This white move is not as good as simply capturing at A because it gives black options.]
+(;B[sr]
+;W[np]
+;B[so]C[Correct])
+(;B[np]
+(;W[sr]LB[mo:A]TR[np]C[Playing the marked stone is tempting, but it gives white the opportunity to make it a ko. However, if black has enough ko threats he can live on a larger scale than in the main variation and potentially create a weakness at A.])
+(;W[ns]
+;B[sr]LB[so:A][ss:B]C[A and B are miai for black.]))))
+(;B[np]
+;W[os]
+(;B[so]
+;W[sr])
+(;B[sr]
+;W[so]))
+(;B[so]
+;W[sr]
+;B[ps]
+;W[qs]
+;B[np]
+;W[ns]
+;B[sq]
+;W[os]))
+(;B[ps]
+;W[nq]
+(;B[so]
+;W[sr]
+;B[qs]
+;W[pr]C[It's a ko, but black can do better.])
+(;B[qs]
+;W[so])))
+(;B[oq]
+;W[or]
+;B[ps]
+(;W[pr]
+;B[qs]
+;W[os]
+;B[so]
+;W[sr]
+;B[qs]
+;W[ps]
+;B[sq]
+;W[nr])
+(;W[qs]C[Black Q1 is a good idea, but white's connection at R1 is a mistake...]
+;B[sr]
+;W[nq]
+;B[so]C[Black lives because white didn't play the best moves.]))
+(;B[ps]
+(;W[oq]
+;B[so]
+;W[sr]
+;B[qs]
+;W[os]C[It's a ko, but black can do better.])
+(;W[qs]C[White has been tricked...]
+;B[oq]
+;W[or]
+;B[sr]
+;W[nq]
+;B[so]C[Black lives because white didn't play the best moves.]))
+(;B[so]
+;W[sr])
+(;B[sr]
+;W[so]))

@@ -1,0 +1,54 @@
+(;GM[1]FF[4]CA[UTF-8]AP[CGoban:3]ST[2]
+RU[Japanese]SZ[19]KM[0.00]
+SO[http://gogameguru.com/]AW[qn][oo][po][rp][oq][qq]AB[ql][pn][rn][qo][pp][nq]C[Black to play.
+
+http://gogameguru.com/]
+(;B[op]
+;W[qp]
+(;B[no]
+(;W[ro]
+(;B[on]
+;W[qm]
+(;B[pl]C[Correct. The result is good for black. ])
+(;B[qo]
+;W[pm]
+(;B[rm]
+;W[po])
+(;B[po]
+;W[pl]
+;B[qk]
+;W[rm])))
+(;B[qm]
+;W[on]
+;B[qo]
+;W[pq]
+;B[np]
+;W[qn]C[It's no good for black.]))
+(;W[on]
+;B[qm]C[Correct]))
+(;B[qm]
+;W[np])
+(;B[np]
+;W[ro])
+(;B[pq]
+;W[ro]
+;B[no]
+;W[on]))
+(;B[np]
+;W[op]C[This is good for white. ])
+(;B[qp]
+;W[op]
+(;B[pq]
+;W[pr]
+;B[qm]
+;W[ro]
+;B[qn]
+;W[rr])
+(;B[ro]
+;W[pq]))
+(;B[pq]
+;W[qp]
+;B[qm]
+;W[op])
+(;B[qm]
+;W[op]C[This is good for white. ]))

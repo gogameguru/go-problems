@@ -1,0 +1,52 @@
+(;GM[1]FF[4]CA[UTF-8]AP[CGoban:3]ST[2]
+RU[Japanese]SZ[19]KM[0.00]
+SO[http://gogameguru.com/]AW[cn][dn][en][do][bp][cp][dp][ep][fq][br][dr][er][fr][bs]AB[cl][fl][cm][em][bn][fn][bo][co][eo][fo][ap][fp][gp][bq][eq][gq][ar][gr][fs][gs]C[Black to play.
+
+http://gogameguru.com/]
+(;B[cr]
+(;W[cq]
+(;B[ds]LB[dm:D][aq:A][dq:F][as:E][cs:B][es:C]C[Correct. Now white has to fight a ko for life at A.
+
+White can't get enough liberties to avoid the ko. If white B, black C (and white can't play at E), white 1, black D (and white still can't play at E. In both cases it's still a ko.
+
+If white C, black captures some stones with F and it's still ko.])
+(;B[aq]
+;W[cs])
+(;B[cs]
+;W[ds])
+(;B[es]
+;W[ds]))
+(;W[cs]C[This is a bad move for white...]
+;B[cq]
+;W[dq]
+;B[aq]
+;W[ds]
+;B[bl]C[Correct, black was able to kill without ko, because white made a mistake.])
+(;W[ds]C[This move is a mistake for white too.]
+;B[cq]
+;W[dq]
+;B[bl]C[Correct, black was able to kill without ko, because white made a mistake.]))
+(;B[ds]
+;W[cr]
+;B[es]
+;W[cq]
+(;B[dm]
+;W[as])
+(;B[bl]
+;W[as])
+(;B[bm]
+;W[as])
+(;B[aq]
+;W[as]
+;B[bm]
+;W[ao]))
+(;B[cq]
+;W[cr])
+(;B[es]
+;W[ds]
+(;B[cq]
+;W[cr])
+(;B[cr]
+;W[cq])
+(;B[dq]
+;W[cq])))

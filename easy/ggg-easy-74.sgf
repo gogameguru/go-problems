@@ -1,0 +1,30 @@
+(;GM[1]FF[4]CA[UTF-8]AP[CGoban:3]ST[2]
+RU[Japanese]SZ[19]KM[0.00]
+SO[http://gogameguru.com/]AW[cp][dp][bq][cq][eq][br][er][fr][gr]AB[eo][ep][dq][gq][hq][ar][cr][dr][hr][bs][gs]C[Black to play.
+
+http://gogameguru.com/]
+(;B[es]LB[fs:A]C[Correct. White can't cut at A because she'll atari herself.]
+;W[ds]
+;B[cs]
+;W[aq]
+;B[fq]C[Correct])
+(;B[fq]
+;W[ds]
+(;B[cs]
+;W[as])
+(;B[fs]
+;W[cs]))
+(;B[fs]
+;W[ds]
+;B[fq]
+;W[cs])
+(;B[cs]
+;W[aq]C[Now white can fight a ko, but black could have avoided that.]
+(;B[es]
+;W[as])
+(;B[fq]
+;W[as])
+(;B[fs]
+;W[as]))
+(;B[ds]
+;W[es]))

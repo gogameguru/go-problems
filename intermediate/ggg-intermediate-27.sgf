@@ -1,0 +1,60 @@
+(;GM[1]FF[4]CA[UTF-8]AP[CGoban:3]ST[2]
+RU[Japanese]SZ[19]KM[0.00]
+SO[http://gogameguru.com/]AW[mp][np][op][qp][kq][lq][qq][kr][nr][rr][ks][ms][ns][ps][qs]AB[mq][nq][oq][lr][mr][or][pr][qr][ls]C[Black to play.
+
+http://gogameguru.com/]
+(;B[sr]
+(;W[rq]
+(;B[rs]C[Correct, ko is the best result for black.]
+;W[sq]C[If white doesn't fight the ko, ]
+;B[os]LB[ns:B][qs:A]C[Black can live. A and B are miai next. ])
+(;B[os]
+;W[ns]
+;B[rs]
+;W[qs]))
+(;W[sq]LB[sq:A]C[This move lets black live without ko.]
+;B[os]
+;W[ns]
+;B[rs]
+;W[ss]
+;B[qs]LB[sq:A]C[Black lived easily because of A.])
+(;W[rs]LB[rs:A]C[This move lets black live without ko.]
+;B[os]
+;W[rp]
+;B[ns]LB[rs:A]C[Black lived easily because of A.]))
+(;B[os]
+;W[ns]
+(;B[rs]
+;W[qs]
+;B[rq]
+;W[ss]
+(;B[ps]
+;W[rp]
+;B[rs]
+;W[sq]
+;B[sr]
+;W[rq])
+(;B[sq]
+;W[rp])
+(;B[rp]
+;W[ro]))
+(;B[sr]
+;W[rq]
+;B[rs]
+;W[qs])
+(;B[rq]
+;W[ss]
+;B[rs]
+;W[qs]))
+(;B[rq]
+;W[ss]
+;B[os]
+;W[ns]
+;B[rs]
+;W[qs]
+;B[ps]
+;W[rp]
+;B[rs]
+;W[sq]
+;B[sr]
+;W[rq]))

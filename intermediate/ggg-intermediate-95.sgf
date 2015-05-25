@@ -1,0 +1,62 @@
+(;GM[1]FF[4]CA[UTF-8]AP[CGoban:3]ST[2]
+RU[Japanese]SZ[19]KM[0.00]
+SO[http://gogameguru.com/]AW[ro][pp][qp][mq][oq][rq]AB[oo][op][rp][pq][qq]C[Black to play.
+
+http://gogameguru.com/]
+(;B[qo]
+;W[sp]
+;B[po]
+;W[rp]
+(;B[nq]
+;W[or]
+;B[nr]
+;W[qr]
+(;B[mp]LB[pr:B][os:A]C[Correct. Black can leave the atari at A as a ko threat.])
+(;B[os]
+;W[pr]
+(;B[mp]LB[os:A]C[Correct. However, the atari at A isn't necessary.])
+(;B[np]C[Not that bad, but black can do better.]))
+(;B[kq]
+;W[np]C[Black should avoid this cut.])
+(;B[np]C[Not that bad, but black can do better.]))
+(;B[or]
+;W[nq]
+;B[rr]
+;W[sr]
+;B[qr]
+;W[ps]
+;B[rn]
+;W[rs]
+(;B[os]
+;W[nr]
+(;B[sn]
+;W[qs])
+(;B[pr]
+;W[ns])
+(;B[qs]
+;W[pr]))
+(;B[pr]
+;W[nr]
+(;B[os]
+;W[ns])
+(;B[qs]
+;W[os]))))
+(;B[nq]
+;W[or]
+;B[nr]
+;W[qr]
+;B[mp]C[This isn't the best result. Black can do better. ])
+(;B[rr]
+;W[sp]
+;B[or]
+;W[nq]
+;B[sr]
+;W[qm]LB[op:A]C[Black can live in the corner, but black's cutting stones, at A, are lonely now.])
+(;B[or]
+;W[nq]
+;B[rr]
+;W[sp]
+;B[sr]
+;W[qm]LB[op:A]C[Black can live in the corner, but black's cutting stones, at A, are lonely now.])
+(;B[sp]
+;W[pr]))

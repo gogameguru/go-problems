@@ -1,0 +1,51 @@
+(;GM[1]FF[4]CA[UTF-8]AP[CGoban:3]ST[2]
+RU[Japanese]SZ[19]KM[0.00]
+SO[http://gogameguru.com/]AW[cn][dp][jp][hq][jq][oq][dr][kr][lr]AB[cl][jo][kp][qp][fq][kq][ir][jr]LB[hq:A]C[Black to play.
+
+White A was a mistake. Why?
+
+http://gogameguru.com/]
+(;B[hp]
+;W[iq]
+(;B[hr]
+;W[gq]
+(;B[gp]
+;W[gr]
+(;B[fr]
+;W[gs]
+(;B[ip]C[Correct])
+(;B[fs]LB[ip:A]C[Also correct, black's last move could also be at A.])
+(;B[hs]
+;W[js]))
+(;B[ip]
+;W[fr]
+;B[eq]
+;W[er]))
+(;B[gr]
+;W[gp]
+;B[fp]
+;W[go]))
+(;B[gq]
+;W[hr]
+(;B[ip]
+;W[js]C[Sometimes sacrificing like this is good, but here black can do better.])
+(;B[gr]
+;W[js]C[Sometimes sacrificing like this is good, but here black can do better.])))
+(;B[hr]
+;W[hp]C[You need to find something sharper than this.])
+(;B[io]
+;W[hp])
+(;B[iq]
+;W[ip]
+;B[hp]
+;W[io]
+;B[hr]
+;W[ko]C[Now black's involved in a difficult fight, but there was a better way to play.])
+(;B[gp]
+;W[hp]
+(;B[ho]
+;W[hr])
+(;B[hr]
+;W[ho]C[Playing here is good enough to make things hard for black.]))
+(;B[gq]
+;W[hp]C[Black's move was a sort of tesuji, but it's not appropriate in this situation. White has dodged a bullet.]))

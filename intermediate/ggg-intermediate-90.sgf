@@ -1,0 +1,84 @@
+(;GM[1]FF[4]CA[UTF-8]AP[CGoban:3]ST[2]
+RU[Japanese]SZ[19]KM[0.00]
+SO[http://gogameguru.com/]AW[ao][co][bp][bq][cq][dq][eq][dr]AB[bn][cn][bo][fo][cp][dp][ep][fq][gq][er][fs]C[Black to play.
+
+http://gogameguru.com/]
+(;B[bs]
+(;W[br]
+(;B[cs]
+;W[ds]
+(;B[ap]
+;W[aq]
+(;B[as]C[Correct. It's a bent four in the corner (http://senseis.xmp.net/?BentFourInTheCorner).])
+(;B[es]
+;W[as]C[It's a ko, but black can do better.]))
+(;B[ar]
+;W[ap]C[It's a seki.])
+(;B[an]
+;W[ap]
+;B[ar]C[It's a seki.]))
+(;B[ds]
+;W[cs]C[It's a ko, but black can do better.]))
+(;W[cs]
+;B[br]
+(;W[ar]
+;B[ap]C[Correct])
+(;W[ap]
+;B[ar]C[Correct]))
+(;W[ds]
+(;B[br]
+(;W[ar]
+;B[ap]C[Correct])
+(;W[ap]
+;B[ar]C[Correct]))
+(;B[ap]
+;W[br]
+;B[cs]
+;W[aq]
+;B[as]C[Correct. It's a bent four in the corner (http://senseis.xmp.net/?BentFourInTheCorner).])))
+(;B[br]
+;W[bs]
+(;B[ar]
+;W[ds]
+(;B[cr]
+;W[ap]
+(;B[an]
+;W[cs]C[It's a seki.])
+(;B[cs]
+;W[aq]))
+(;B[ap]
+;W[cr]
+(;B[an]
+;W[aq])
+(;B[es]
+;W[aq])))
+(;B[cs]
+;W[ar]C[It's a ko, but black can do better.]))
+(;B[ap]
+;W[bs]
+;B[ar]
+;W[br]
+;B[an]
+;W[aq])
+(;B[ar]
+;W[br]
+;B[cs]
+;W[ds]
+;B[bs]
+;W[ap]C[It's a seki.])
+(;B[cs]
+;W[bs]
+(;B[br]
+;W[ar]C[It's a ko, but black can do better.])
+(;B[ds]
+;W[ar]
+(;B[cr]
+;W[ap])
+(;B[ap]
+;W[cr]))
+(;B[ar]
+;W[ds]))
+(;B[ds]
+;W[cs]
+;B[bs]
+;W[es]C[It's a ko, but black can do better.]))

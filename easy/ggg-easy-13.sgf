@@ -1,0 +1,16 @@
+(;GM[1]FF[4]CA[UTF-8]AP[CGoban:3]ST[2]
+RU[Japanese]SZ[19]KM[0.00]
+SO[http://gogameguru.com/]AW[rp][sp][oq][pq][qq][or][os]AB[rq][sq][pr][qr][ps]C[Black to play.
+
+http://gogameguru.com/]
+(;B[rs]C[Correct])
+(;B[rr]
+;W[rs]
+(;B[ss]
+;W[sr]C[It's a ko, but black can do better. ])
+(;B[qs]
+;W[sr]))
+(;B[sr]
+;W[rs])
+(;B[ss]
+;W[rr]))

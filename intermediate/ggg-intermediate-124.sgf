@@ -1,0 +1,68 @@
+(;GM[1]FF[4]CA[UTF-8]AP[CGoban:3]ST[2]
+RU[Japanese]SZ[19]KM[0.00]
+AW[bo][co][eo][go][cp][cq][fq][dr][fr]AB[bp][bq][dq][br][cr]C[Black to play.
+
+https://gogameguru.com/]
+(;B[as]
+;W[cs]
+;B[er]
+;W[es]
+;B[ds]C[Correct. It's a ko.])
+(;B[er]
+;W[bs]
+(;B[fs]
+;W[eq]
+;B[ds]
+;W[hr]
+(;B[ap]
+;W[ar]C[It's a bent four in the corner: http://senseis.xmp.net/?BentFourInTheCorner])
+(;B[as]
+;W[ar]
+(;B[aq]
+;W[as])
+(;B[cs]
+;W[as])))
+(;B[eq]
+;W[es]
+;B[ds]
+;W[fs]
+(;B[ap]
+;W[ar]C[It's a bent four in the corner: http://senseis.xmp.net/?BentFourInTheCorner])
+(;B[as]
+;W[ar]
+(;B[aq]
+;W[as])
+(;B[cs]
+;W[as])))
+(;B[cs]
+;W[ap]
+;B[aq]
+;W[as]
+(;B[eq]
+;W[es]
+;B[ds]
+;W[fs])
+(;B[fs]
+;W[eq]
+;B[ds]
+;W[hr]))
+(;B[ds]
+;W[eq]
+;B[ap]
+;W[ar]C[It's a bent four in the corner: http://senseis.xmp.net/?BentFourInTheCorner])
+(;B[ao]
+;W[bm]
+;B[ap]
+;W[ar]
+;B[cs]
+;W[as]))
+(;B[ap]
+;W[ar]
+;B[er]
+;W[eq]
+;B[ds]
+;W[bs]C[It's a bent four in the corner: http://senseis.xmp.net/?BentFourInTheCorner])
+(;B[cs]
+;W[ap]
+;B[aq]
+;W[as]))

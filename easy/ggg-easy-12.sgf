@@ -1,0 +1,28 @@
+(;GM[1]FF[4]CA[UTF-8]AP[CGoban:3]ST[2]
+RU[Japanese]SZ[19]KM[0.00]
+SO[http://gogameguru.com/]AW[po][qo][ro][so][oq][pq][sq][or][os][rs]AB[rp][sp][rq][pr][rr][ps]C[Black to play.
+
+http://gogameguru.com/]
+(;B[qr]
+;W[sr]
+(;B[qs]C[Correct])
+(;B[ss]
+;W[sr]C[It's bent four in the corner. http://senseis.xmp.net/?BentFourInTheCorner]
+(;B[sq]
+;W[ss])
+(;B[qs]
+;W[ss])))
+(;B[sr]
+;W[qr])
+(;B[qq]
+;W[qr]
+(;B[qs]
+;W[qr])
+(;B[ss]
+;W[qs]))
+(;B[ss]
+;W[qr]
+;B[qs]
+;W[rs])
+(;B[qs]
+;W[qr]))

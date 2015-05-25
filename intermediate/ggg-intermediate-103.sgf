@@ -1,0 +1,91 @@
+(;GM[1]FF[4]CA[UTF-8]AP[CGoban:3]ST[2]
+RU[Japanese]SZ[19]KM[0.00]
+SO[http://gogameguru.com/]AW[rn][no][qo][np][pp][oq]AB[ro][mp][qp][nq][qq]C[Black to play.
+
+http://gogameguru.com/]
+(;B[pq]
+(;W[or]
+;B[po]
+;W[qn]
+;B[op]
+;W[mq]
+(;B[pn]LB[lq:C][mr:D][nr:B][pr:A]C[Correct. Black can break out into the center.
+
+Black shouldn't rush to exchange A for B, because that makes white stronger and removes other possible options, like black C, or black D.])
+(;B[sp]
+;W[pn]C[Black shouldn't let white seal him in like this.]))
+(;W[op]
+;B[qn]
+;W[po]
+;B[rm]C[Correct. There's still a potential ko in the corner, but it's usually fairly light for black.]
+;W[rp]C[White can make a ko starting like this, but]
+;B[sn]
+;W[rq]
+;B[rr]
+;W[qr]
+;B[pr]
+;W[rs]
+(;B[qs]
+;W[sr]
+;B[ss]C[This is a two stage ko where black has the advantage. Black shouldn't be too worried about this ko, especially since white's center stones will come under attack if she loses the ko.])
+(;B[sr]
+;W[ps]C[This direct ko isn't as good for black as the other option.]))
+(;W[po]
+;B[or]C[Correct])
+(;W[mq]
+;B[qn]
+;W[po]
+;B[rm]LB[lq:A]C[Correct. Black A will be a useful forcing move later.]))
+(;B[qn]
+;W[po]
+(;B[rm]
+;W[rp]
+;B[sn]
+;W[rq]TR[qp][qq]C[The marked stones are captured. Black's ponnuki is ok, but black can do better.])
+(;B[sp]
+;W[qm]C[Just living in the corner isn't good enough.]))
+(;B[or]
+;W[nr]
+(;B[pr]
+;W[mq]
+;B[qn]
+(;W[po]
+;B[rm]C[This is possible, but black can do better because white's shape is also very thick and strong.])
+(;W[qm]C[White might also think about playing here now, depending on the whole board situation.]
+;B[po]
+;W[pn]))
+(;B[pq]
+;W[mq]
+(;B[qn]
+;W[po]
+;B[rm]C[This is possible, but black can do better. White's shape is very thick too.])
+(;B[po]
+;W[qn]
+;B[op]
+;W[pn]C[Black's sealed in and has to fight a ko. You can do better than this.])))
+(;B[po]
+;W[qn]
+;B[pq]
+;W[op]
+;B[or]
+;W[nr]
+;B[ps]
+;W[mq]C[This result is good for white.])
+(;B[pr]
+;W[pn]
+(;B[or]
+;W[mq]
+;B[nr]
+;W[lp]C[This isn't a good result for black. White gained too much power in the center.])
+(;B[nr]
+;W[or]
+;B[os]
+;W[mq]
+;B[lq]
+;W[mr]
+;B[ns]
+;W[lr]
+;B[kq]
+;W[lp]
+;B[mo]
+;W[kp]LB[mn:A][jq:B]C[Black is in trouble. A and B are miai next.])))
