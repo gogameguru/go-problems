@@ -1,0 +1,34 @@
+(;GM[1]FF[4]CA[UTF-8]AP[CGoban:3]ST[2]
+RU[Japanese]SZ[19]KM[0.00]
+AW[bp][aq][bq][cq][dq][cr][er][es]AB[bm][cn][bo][ap][cp][dp][ep][eq][gq][ar][dr][fr]C[Black to play.
+
+http://gogameguru.com]
+(;B[cs]
+;W[ds]
+(;B[bs]
+;W[ao]
+(;B[fs]LB[dr:A]C[Correct. Even if White connect at A next, they're already captured by 'one vs no eye'. ])
+(;B[an]
+;W[br]
+(;B[fs]
+;W[as])
+(;B[ap]
+;W[as])))
+(;B[br]
+;W[bs])
+(;B[fs]
+;W[bs]))
+(;B[bs]
+;W[cs]
+;B[fs]
+;W[ds]LB[ao:A]C[Even if Black connects at A next, this White group is already alive in seki. ])
+(;B[br]
+;W[ds])
+(;B[fs]
+;W[ds]
+;B[bs]
+;W[br])
+(;B[ds]
+;W[cs])
+(;B[ao]
+;W[ds]))
