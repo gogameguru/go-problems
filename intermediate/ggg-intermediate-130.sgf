@@ -23,7 +23,8 @@ http://gogameguru.com/]
 (;W[bp]
 ;B[ao]C[Correct]))
 (;B[bs]
-;W[aq]))
+;W[aq])
+(;B[ao]LB[al:A]C[Blocking here also works for Black. However, A will be sente for White later (which could affect things on the left side) so this isn't the best solution.]))
 (;B[aq]
 ;W[ar]
 (;B[as]
@@ -110,7 +111,7 @@ http://gogameguru.com/]
 ;B[dm]C[Correct])
 (;W[bo]
 ;B[cn]
-;W[dm]
+(;W[dm]
 ;B[bp]
 ;W[bq]
 ;B[ao]
@@ -131,7 +132,9 @@ http://gogameguru.com/]
 (;B[am]
 ;W[ap]C[It's a ko, but black can do better.]))
 (;B[am]
-;W[bs]C[Black can do better.])))
+;W[bs]C[Black can do better.]))
+(;W[bq]C[If White plays here,]
+;B[dm]LB[ap:A][ar:B]C[Capturing the cutting stones is good enough for Black. White still has to play another move at A, otherwise Black at B will capture without ko.])))
 (;B[cn]
 ;W[dm]
 ;B[co]
