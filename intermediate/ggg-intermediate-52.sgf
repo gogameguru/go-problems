@@ -1,8 +1,8 @@
 (;GM[1]FF[4]CA[UTF-8]AP[CGoban:3]ST[2]
 RU[Japanese]SZ[19]KM[0.00]
-SO[http://gogameguru.com/]AW[qk][pn][dp][op][pp][qq][rq][pr][qs]AB[qo][np][qp][lq][oq][pq][or]C[Black to play.
+SO[https://gogameguru.com/]AW[qk][pn][dp][op][pp][qq][rq][pr][qs]AB[qo][np][qp][lq][oq][pq][or]C[Black to play.
 
-http://gogameguru.com/]
+https://gogameguru.com/]
 (;B[pm]C[This move is tesuji in this sort of situation.]
 (;W[on]
 ;B[qn]LB[ql:D][rl:F][om:B][qm:A][rm:E][nn:C]C[Correct. If White plays A next, Black B through F is good for Black. White's cutting stones are very short on liberties so Black can fight.])

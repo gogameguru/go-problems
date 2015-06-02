@@ -1,8 +1,8 @@
 (;GM[1]FF[4]CA[UTF-8]AP[CGoban:3]ST[2]
 RU[Japanese]SZ[19]KM[0.00]
-SO[http://gogameguru.com/]AW[ck][dk][ek][bp][fp][bq][cq][dq][fq][lq][oq][br][dr][er]AB[dj][pj][dn][bo][po][ap][cp][dp][ep][eq][qq][fr][gr]C[Black to play.
+SO[https://gogameguru.com/]AW[ck][dk][ek][bp][fp][bq][cq][dq][fq][lq][oq][br][dr][er]AB[dj][pj][dn][bo][po][ap][cp][dp][ep][eq][qq][fr][gr]C[Black to play.
 
-http://gogameguru.com/]
+https://gogameguru.com/]
 (;B[go]
 ;W[fo]C[White shouldn't try to pull these stones out, but how does Black handle it if she does?]
 ;B[fn]

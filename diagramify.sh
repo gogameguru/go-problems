@@ -29,6 +29,7 @@ else
 
   echo "Generating solution pdfs..."
   find -name '*.sgf' -type f -exec sgf2dg -convert PDF -coords -top 10 -break 0 '{}' \;
+  mkdir solutions
   mv *.pdf ./solutions
 
 fi

@@ -1,8 +1,8 @@
 (;GM[1]FF[4]CA[UTF-8]AP[CGoban:3]ST[2]
 RU[Japanese]SZ[19]KM[0.00]
-SO[http://gogameguru.com/]AW[oo][po][qo][lp][mp][np][qp][kq][qq][kr][qr]AB[op][pp][nq][pq][nr][pr][os]C[Black to play.
+SO[https://gogameguru.com/]AW[oo][po][qo][lp][mp][np][qp][kq][qq][kr][qr]AB[op][pp][nq][pq][nr][pr][os]C[Black to play.
 
-http://gogameguru.com/]
+https://gogameguru.com/]
 (;B[lr]
 (;W[ks]
 (;B[ls]LB[ks:A][ms:B]C[Correct, if Black ignores A, White can play at B.])

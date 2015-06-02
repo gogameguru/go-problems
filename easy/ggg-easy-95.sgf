@@ -1,8 +1,8 @@
 (;GM[1]FF[4]CA[UTF-8]AP[CGoban:3]ST[2]
 RU[Japanese]SZ[19]KM[0.00]
-SO[http://gogameguru.com/]AW[an][bn][cn][dn][do][dp][dq][ar][cr][er][cs]AB[bo][co][cp][cq][br][bs]C[Black to play.
+SO[https://gogameguru.com/]AW[an][bn][cn][dn][do][dp][dq][ar][cr][er][cs]AB[bo][co][cp][cq][br][bs]C[Black to play.
 
-http://gogameguru.com/]
+https://gogameguru.com/]
 (;B[bq]
 (;W[ap]
 ;B[ao]LB[aq:A]C[Correct. Even if White plays at A next, Black's still alive in seki: http://senseis.xmp.net/?seki])

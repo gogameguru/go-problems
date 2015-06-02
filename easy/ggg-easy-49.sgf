@@ -1,8 +1,8 @@
 (;GM[1]FF[4]CA[UTF-8]AP[CGoban:3]ST[2]
 RU[Japanese]SZ[19]KM[0.00]
-SO[http://gogameguru.com/]AW[mn][pn][mo][mp][op][pp][qp][nq][qq][nr]AB[no][oo][jp][np][lq][mq][oq][pq][qr][rr]LB[no:C][nr:B][pr:A]C[Black to play. How can Black prevent White from capturing at A while also winning the capturing race between B and C?
+SO[https://gogameguru.com/]AW[mn][pn][mo][mp][op][pp][qp][nq][qq][nr]AB[no][oo][jp][np][lq][mq][oq][pq][qr][rr]LB[no:C][nr:B][pr:A]C[Black to play. How can Black prevent White from capturing at A while also winning the capturing race between B and C?
 
-http://gogameguru.com/]
+https://gogameguru.com/]
 (;B[or]
 (;W[nn]
 (;B[mr]C[Correct])

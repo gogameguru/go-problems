@@ -1,8 +1,8 @@
 (;GM[1]FF[4]CA[UTF-8]AP[CGoban:3]ST[2]
 RU[Japanese]SZ[19]KM[0.00]
-SO[http://gogameguru.com/]AW[pn][qo][ro][so][mp][op][pp][oq][pr][qr][qs][rs]AB[jp][qp][rp][sp][lq][pq][qq][sq][nr][or][rr]C[Black to play.
+SO[https://gogameguru.com/]AW[pn][qo][ro][so][mp][op][pp][oq][pr][qr][qs][rs]AB[jp][qp][rp][sp][lq][pq][qq][sq][nr][or][rr]C[Black to play.
 
-http://gogameguru.com/]
+https://gogameguru.com/]
 (;B[sr]LB[ss:A]C[Correct. Now White doesn't have enough liberties to atari at A.])
 (;B[os]
 ;W[sr]LB[ss:A]C[Black can capture at A, but this will be a ko fight. Black can do better.])

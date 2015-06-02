@@ -1,8 +1,8 @@
 (;GM[1]FF[4]CA[UTF-8]AP[CGoban:3]ST[2]
 RU[Japanese]SZ[19]KM[0.00]
-SO[http://gogameguru.com/]AW[co][dp][ep][np][pp][bq][cq][iq]AB[ck][qn][gp][rp][dq][eq][cr]LB[ep:A]C[Black to play.
+SO[https://gogameguru.com/]AW[co][dp][ep][np][pp][bq][cq][iq]AB[ck][qn][gp][rp][dq][eq][cr]LB[ep:A]C[Black to play.
 
-http://gogameguru.com/]
+https://gogameguru.com/]
 (;B[gr]LB[fp:B][fq:A][er:D][fr:C]C[Correct. This is the best shape, because it gives Black the best potential for making eyes later. A and B are miai for Black now. If White tries to play A-C, Black D captures White's stones.])
 (;B[fp]
 ;W[gr]LB[ep:A][fq:C][gr:B]C[White plays on the vital point and Black's group becomes weak. Notice the relationship between A and B - the point at C can only ever become a false eye now.]

@@ -1,8 +1,8 @@
 (;GM[1]FF[4]CA[UTF-8]AP[CGoban:3]ST[2]
 RU[Japanese]SZ[19]KM[0.00]
-SO[http://gogameguru.com/]AW[pk][qk][pl][rl][sl][pm][pn][qo][ro][so]AB[rk][ql][qm][qn][rn][sn][po][pp][qq]C[Black to play.
+SO[https://gogameguru.com/]AW[pk][qk][pl][rl][sl][pm][pn][qo][ro][so]AB[rk][ql][qm][qn][rn][sn][po][pp][qq]C[Black to play.
 
-http://gogameguru.com/]
+https://gogameguru.com/]
 (;B[sk]
 ;W[rj]
 (;B[qp]LB[rm:A][sm:B]C[Correct. White doesn't have enough liberties to atari at A or B, so Black will win the capturing race.])
