@@ -20,11 +20,11 @@ If black does nothing, white can atari at B, making a 'bulky five' shape. If bla
 ;W[dn]C[Black can't make two eyes.])
 (;B[dn]
 ;W[eo]C[Black can't make two eyes.])))
-(;B[en]C[It's already a dead shape. ]
+(;B[en]C[It's already a dead shape.]
 ;W[dn]
 ;B[cp]
 ;W[do])
-(;B[cp]C[It's already a dead shape. ]
+(;B[cp]C[It's already a dead shape.]
 ;W[dn]
 ;B[en]
 ;W[do]))

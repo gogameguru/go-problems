@@ -11,8 +11,8 @@ http://gogameguru.com/]
 (;W[qs]
 ;B[os]
 ;W[ms]
-(;B[ks]LB[ps:A]C[Correct ]
-;W[ps]LB[sq:A][os:B][qs:C]C[White's already dead. If white plays at A or B, black can play at C, and it's a dead shape. ])
+(;B[ks]LB[ps:A]C[Correct]
+;W[ps]LB[sq:A][os:B][qs:C]C[White's already dead. If white plays at A or B, black can play at C, and it's a dead shape.])
 (;B[ps]
 ;W[sq]
 ;B[ks]
@@ -46,7 +46,7 @@ http://gogameguru.com/]
 ;W[rr]
 ;B[rs]C[It's a ko, but black can do better.])
 (;B[rr]
-;W[os]LB[pr:A]C[White lives in seki even if black plays at A. ])))
+;W[os]LB[pr:A]C[White lives in seki even if black plays at A.])))
 (;B[ms]C[It's a ko, but black can do better.]))
 (;B[ms]C[It's a ko, but black can do better.]))
 (;W[sq]
@@ -140,7 +140,7 @@ http://gogameguru.com/]
 (;B[ps]
 ;W[sr]
 ;B[os]
-;W[ls]C[It's a ko, but black can do better. ])))
+;W[ls]C[It's a ko, but black can do better.])))
 (;B[js]
 ;W[rs]
 (;B[sr]

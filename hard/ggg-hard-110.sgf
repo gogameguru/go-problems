@@ -9,11 +9,11 @@ http://gogameguru.com/]
 ;W[ap]
 (;B[ar]
 (;W[cp]
-;B[aq]C[Correct. It's a ko. ])
+;B[aq]C[Correct. It's a ko.])
 (;W[do]
 ;B[bp]
 ;W[cp]
-;B[aq]C[Correct. It's a ko. ]))
+;B[aq]C[Correct. It's a ko.]))
 (;B[cp]
 ;W[bp]
 (;B[do]
@@ -47,7 +47,7 @@ http://gogameguru.com/]
 ;W[ap]
 ;B[bq]
 ;W[aq]
-;B[cp]C[Correct. It's a ko. ])
+;B[cp]C[Correct. It's a ko.])
 (;B[do]
 ;W[cr]
 (;B[ar]
@@ -56,7 +56,7 @@ http://gogameguru.com/]
 ;W[br]
 ;B[ap]
 ;W[as]
-;B[cp]C[Correct. It's a ko. ])
+;B[cp]C[Correct. It's a ko.])
 (;B[br]
 ;W[ao]))
 (;B[ao]
@@ -112,15 +112,15 @@ http://gogameguru.com/]
 (;W[do]
 ;B[ap]C[Correct]))
 (;B[do]
-;W[aq]C[It's a ko, but blcak can do better. ]))
+;W[aq]C[It's a ko, but blcak can do better.]))
 (;B[do]
 ;W[cp]
 ;B[bq]
-;W[ap]LB[aq:A][br:B]C[It's a seki. A and B are miai for white. ])
+;W[ap]LB[aq:A][br:B]C[It's a seki. A and B are miai for white.])
 (;B[aq]
 ;W[do]
 ;B[bp]
-;W[cp]C[It's a seki. ])
+;W[cp]C[It's a seki.])
 (;B[cp]
 ;W[bp]
 (;B[do]
@@ -138,17 +138,17 @@ http://gogameguru.com/]
 (;B[ar]C[Correct])
 (;B[aq]C[Correct]))
 (;W[bp]
-;B[cp]C[Correct. It's a ko. ]))
+;B[cp]C[Correct. It's a ko.]))
 (;B[bq]
 ;W[br]
 (;B[cr]
 ;W[bp]
-;B[cp]C[Correct. It's a ko. ])
+;B[cp]C[Correct. It's a ko.])
 (;B[aq]
 ;W[ar]
 ;B[cr]
 ;W[bp]
-;B[cp]C[Correct. It's a ko. ])
+;B[cp]C[Correct. It's a ko.])
 (;B[ar]
 ;W[aq]
 ;B[ap]
