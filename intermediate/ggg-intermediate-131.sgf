@@ -9,17 +9,38 @@ http://gogameguru.com]
 ;W[bl]
 (;B[bk]
 ;W[bn]
+(;B[al]
+;W[am]
+(;B[ak]
+;W[cn]
+(;B[an]
+;W[ao]
+;B[ap]C[Correct. It's a ko.])
+(;B[ap]
+;W[bq]
+;B[an]
+;W[ao]C[It's a ko, but Black can do better.])
+(;B[ao]
+;W[bq]))
+(;B[cn]
+;W[ak]
+;B[aj]
+;W[al]
+;B[bj]
+;W[gp]))
 (;B[cn]
 ;W[am]
 (;B[ak]
 ;W[al]
 (;B[an]
 ;W[ao]
-;B[ap]C[Correct. It's a ko. ])
+;B[ap]C[Also correct and it's still a ko.
+
+However, this variation loses some points compared to the best solution.])
 (;B[ap]
 ;W[gp]
 ;B[an]
-;W[ao]C[Black can do better. ])
+;W[ao]C[It's a ko, but Black can do better.])
 (;B[ao]
 ;W[bq]))
 (;B[an]
@@ -32,25 +53,6 @@ http://gogameguru.com]
 ;W[ak]
 ;B[aj]
 ;W[bq])))
-(;B[al]
-;W[am]
-(;B[ak]
-;W[cn]
-(;B[an]
-;W[ao]
-;B[ap]C[Correct. It's a ko. ])
-(;B[ap]
-;W[bq]
-;B[an]
-;W[ao]C[Black can do better. ])
-(;B[ao]
-;W[bq]))
-(;B[cn]
-;W[ak]
-;B[aj]
-;W[al]
-;B[bj]
-;W[gp]))
 (;B[am]
 ;W[al]
 (;B[ak]
