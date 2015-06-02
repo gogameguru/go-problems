@@ -19,7 +19,7 @@ else
   find -name '*.eps' -type f -exec mogrify -flatten -format png '{}' \;
 
   echo "Creating thumbnails for hard problems..."
-  find . -name "go-problems-*.png" -type f -exec bash -c 'name="{}"; cp "$name" "${name%.png}-t.png"' \;
+  find -name 'go-problems-*.png' -type f -exec bash -c 'name="{}"; cp "$name" "${name%.png}-t.png"' \;
 
   echo "Squaring thumbnails..."
   find -name '*-t.png' -type f -exec mogrify -flatten -thumbnail '400x400>' -background white -gravity center -extent 400x400 '{}' \;
