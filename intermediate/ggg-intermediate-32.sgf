@@ -19,21 +19,21 @@ http://gogameguru.com/]
 (;B[pr]
 ;W[or]
 (;B[nr]
-;W[os]LB[no:E][oo:D][np:C][op:B][nr:A]C[A doesn't work, because black can't cut at B (white would just play C-E).])
+;W[os]LB[no:E][oo:D][np:C][op:B][nr:A]C[A doesn't work, because Black can't cut at B (White would just play C-E).])
 (;B[os]
 ;W[nr]))
 (;B[or]
 ;W[qq]
 (;B[op]
-;W[pr]C[In most cases white will have some ko threats and can play here.]
+;W[pr]C[In most cases White will have some ko threats and can play here.]
 (;B[rq]
-;W[oq]C[Black should fight the ko now, but no ko was necessary, so this is a bad result for black.])
+;W[oq]C[Black should fight the ko now, but no ko was necessary, so this is a bad result for Black.])
 (;B[qr]
-;W[oq]C[Black should fight the ko now, but no ko was necessary, so this is a bad result for black.])
+;W[oq]C[Black should fight the ko now, but no ko was necessary, so this is a bad result for Black.])
 (;B[oq]
 ;W[rq]
 ;B[qr]
-;W[rr]LB[ps:A]C[Even if black plays A, white can take sente now, black's four stones are already captured.]))
+;W[rr]LB[ps:A]C[Even if Black plays A, White can take sente now, Black's four stones are already captured.]))
 (;B[pr]
 ;W[rq]
 (;B[qr]
@@ -43,7 +43,7 @@ http://gogameguru.com/]
 (;B[sr]
 ;W[sn])
 (;B[rp]
-;W[sn]LB[sr:A]C[White could also play A, if territory is important. It gets one more point but gives black one more ko threat.])
+;W[sn]LB[sr:A]C[White could also play A, if territory is important. It gets one more point but gives Black one more ko threat.])
 (;B[so]
 ;W[sr])
 (;B[sm]
@@ -61,7 +61,7 @@ http://gogameguru.com/]
 (;B[so]
 ;W[sm])
 (;B[sm]
-;W[so]LB[sl:B][sn:A]C[A and B are miai for white.]))
+;W[so]LB[sl:B][sn:A]C[A and B are miai for White.]))
 (;B[rp]
 ;W[qr]
 (;B[sr]
@@ -87,7 +87,7 @@ http://gogameguru.com/]
 ;B[pr]
 ;W[or]
 ;B[qr]
-;W[oq]C[Black has a comfortable shape in the corner, but black can do better.])
+;W[oq]C[Black has a comfortable shape in the corner, but Black can do better.])
 (;B[rq]
 ;W[pq]
 ;B[qr]
@@ -116,11 +116,11 @@ http://gogameguru.com/]
 ;W[sn])
 (;B[sq]
 ;W[sm]))
-(;W[pq]C[If white doesn't want to fight a ko...]
+(;W[pq]C[If White doesn't want to fight a ko...]
 ;B[qr]
 ;W[or]
 ;B[rs]
-;W[oq]C[This is still good for white.]))
+;W[oq]C[This is still good for White.]))
 (;B[pq]
 ;W[oq]
 (;B[qr]
@@ -134,8 +134,8 @@ http://gogameguru.com/]
 (;B[or]
 ;W[qq]
 ;B[op]
-;W[pr]LB[ro:B][so:A][pq:C]C[This is similar to the variations where black played A at B and then C. Black can do better than this.]))))
-(;B[pq]LB[oq:A][qq:B]C[Now white can cut at A or B. There are lots of variations, but either way black's shape is too thin. Black has a better way to play...])
+;W[pr]LB[ro:B][so:A][pq:C]C[This is similar to the variations where Black played A at B and then C. Black can do better than this.]))))
+(;B[pq]LB[oq:A][qq:B]C[Now White can cut at A or B. There are lots of variations, but either way Black's shape is too thin. Black has a better way to play...])
 (;B[qq]
 ;W[pq]
 ;B[pr]
@@ -145,10 +145,10 @@ http://gogameguru.com/]
 ;B[rn]
 ;W[rm]
 ;B[ro]
-;W[qm]C[Black has a comfortable shape in the corner, but black can do better.])
+;W[qm]C[Black has a comfortable shape in the corner, but Black can do better.])
 (;B[pr]
 ;W[qq]
-;B[rq]LB[pr:A]C[A is a good idea, but black needs to prepare more first.]
+;B[rq]LB[pr:A]C[A is a good idea, but Black needs to prepare more first.]
 ;W[qr]
 (;B[pq]
 ;W[rr]
@@ -157,15 +157,15 @@ http://gogameguru.com/]
 ;B[ro]
 ;W[sq]
 ;B[qm]
-;W[lq]C[This probably isn't what black wanted...])
-(;W[rm]C[Bad move for white.]
+;W[lq]C[This probably isn't what Black wanted...])
+(;W[rm]C[Bad move for White.]
 ;B[rp]
 ;W[sq]
 ;B[sr]
 ;W[ss]
 ;B[so]
 ;W[sm]
-;B[sn]LB[ql:C][qm:B][rm:D][qs:A]C[Usually this would be seki after white plays A, but in this case black can just cut at B, because of the stone at C. So white collapses because of the overplay at D.]))
+;B[sn]LB[ql:C][qm:B][rm:D][qs:A]C[Usually this would be seki after White plays A, but in this case Black can just cut at B, because of the stone at C. So White collapses because of the overplay at D.]))
 (;B[rr]
 ;W[pq]
 ;B[rn]

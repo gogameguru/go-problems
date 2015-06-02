@@ -44,10 +44,10 @@ http://gogameguru.com/]
 (;W[rs])
 (;W[qq]LB[qq:A]C[White A is a bad move.]
 ;B[qs]
-;W[or]LB[or:B][pr:D][rs:C]C[B is white's best move now. If white plays C or D instead, black will take the other one (D or C).]
+;W[or]LB[or:B][pr:D][rs:C]C[B is White's best move now. If White plays C or D instead, Black will take the other one (D or C).]
 ;B[os]
 ;W[qr]
-;B[pr]LB[qq:A]C[Black gets a ko because of white's mistake at A.]))
+;B[pr]LB[qq:A]C[Black gets a ko because of White's mistake at A.]))
 (;B[qr]
 ;W[qq]
 ;B[rs]

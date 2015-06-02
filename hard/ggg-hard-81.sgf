@@ -13,12 +13,12 @@ http://gogameguru.com/]
 ;W[kr]
 (;B[lq]
 ;W[ls]
-(;B[jr]LB[rq:D][ms:A][os:B][qs:C]C[Correct. A and B are miai for black. If white plays C, black plays D. White's dead.])
+(;B[jr]LB[rq:D][ms:A][os:B][qs:C]C[Correct. A and B are miai for Black. If White plays C, Black plays D. White's dead.])
 (;B[kq]
 ;W[ir]
 ;B[jr]
 ;W[js]
-;B[ks]C[It's a ko, but black can do better.]))
+;B[ks]C[It's a ko, but Black can do better.]))
 (;B[ls]
 ;W[ms]
 (;B[kq]
@@ -183,13 +183,13 @@ http://gogameguru.com/]
 (;B[pr]
 ;W[kr]
 ;B[lq]
-;W[or]LB[pq:A][jr:B]C[A and B are miai. Black can do better. White could also connect at A instead now if white's confident about fighting a ko in this corner.])
+;W[or]LB[pq:A][jr:B]C[A and B are miai. Black can do better. White could also connect at A instead now if White's confident about fighting a ko in this corner.])
 (;B[nr]
-;W[ns]C[It's a ko, but black can do better.])
+;W[ns]C[It's a ko, but Black can do better.])
 (;B[kr]
 ;W[pr]
 (;B[nr]
-;W[ns]C[It's a ko, but black can do better.])
+;W[ns]C[It's a ko, but Black can do better.])
 (;B[sr]
 ;W[ns]
 (;B[ks]
@@ -223,7 +223,7 @@ http://gogameguru.com/]
 (;B[ps]
 ;W[qs])))
 (;B[ks]
-;W[ns]C[It's a ko, but black can do better.]))
+;W[ns]C[It's a ko, but Black can do better.]))
 (;B[mr]
 ;W[rp]
 (;B[qq]

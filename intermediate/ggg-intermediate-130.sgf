@@ -19,7 +19,7 @@ http://gogameguru.com/]
 ;W[as]
 (;B[ar]C[Correct])
 (;B[ao]
-;W[ar]C[It's a ko, but black can do better.]))
+;W[ar]C[It's a ko, but Black can do better.]))
 (;W[bp]
 ;B[ao]C[Correct]))
 (;B[bs]
@@ -30,16 +30,16 @@ http://gogameguru.com/]
 (;B[as]
 ;W[ap]
 (;B[bp]
-;W[ar]C[It's a ko, but black can do better.])
+;W[ar]C[It's a ko, but Black can do better.])
 (;B[ao]
-;W[ar]C[It's a ko, but black can do better.]))
+;W[ar]C[It's a ko, but Black can do better.]))
 (;B[bs]
 ;W[ap]
 ;B[bp]
 ;W[as]
 ;B[ao]
 ;W[am]
-;B[aq]C[It's a ko, but black can do better.])
+;B[aq]C[It's a ko, but Black can do better.])
 (;B[ap]
 ;W[bs]))
 (;B[bp]
@@ -51,7 +51,7 @@ http://gogameguru.com/]
 (;B[ap]
 ;W[an]
 ;B[am]
-;W[al]LB[br:A][bs:B]C[If black plays at A or B next, it's a seki, but black can do better.]))
+;W[al]LB[br:A][bs:B]C[If Black plays at A or B next, it's a seki, but Black can do better.]))
 (;B[bs]
 ;W[ar]
 ;B[ap]
@@ -61,7 +61,7 @@ http://gogameguru.com/]
 (;B[bp]
 ;W[an]
 ;B[am]
-;W[al]LB[br:A][bs:B]C[If black plays at A or B next, it's a seki, but black can do better.]))
+;W[al]LB[br:A][bs:B]C[If Black plays at A or B next, it's a seki, but Black can do better.]))
 (;B[ap]
 ;W[ar]
 ;B[bs]
@@ -71,7 +71,7 @@ http://gogameguru.com/]
 (;B[bp]
 ;W[an]
 ;B[am]
-;W[al]LB[br:A][bs:B]C[If black plays at A or B next, it's a seki, but black can do better.])))
+;W[al]LB[br:A][bs:B]C[If Black plays at A or B next, it's a seki, but Black can do better.])))
 (;W[bp]
 (;B[bs]
 (;W[ao]
@@ -98,7 +98,7 @@ http://gogameguru.com/]
 ;B[ap]C[Correct]))
 (;B[ap]
 ;W[aq]
-(;B[an]C[It's a ko, but black can do better.])
+(;B[an]C[It's a ko, but Black can do better.])
 (;B[bq]
 ;W[ao]
 ;B[bs]
@@ -128,9 +128,9 @@ http://gogameguru.com/]
 (;B[br]C[Correct])
 (;B[bs]C[Correct])))
 (;B[br]
-;W[ap]C[It's a ko, but black can do better.])
+;W[ap]C[It's a ko, but Black can do better.])
 (;B[am]
-;W[ap]C[It's a ko, but black can do better.]))
+;W[ap]C[It's a ko, but Black can do better.]))
 (;B[am]
 ;W[bs]C[Black can do better.]))
 (;W[bq]C[If White plays here,]

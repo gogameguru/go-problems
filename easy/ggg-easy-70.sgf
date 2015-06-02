@@ -13,11 +13,11 @@ http://gogameguru.com/]
 (;B[ap]
 ;W[ds]
 ;B[cr]
-;W[fs]LB[ap:A]C[Capturing at A only makes a false eye, so black dies.]))
+;W[fs]LB[ap:A]C[Capturing at A only makes a false eye, so Black dies.]))
 (;B[cr]
-;W[bs]C[Black only has one eye, so black's dead.])
+;W[bs]C[Black only has one eye, so Black's dead.])
 (;B[ds]
-;W[bs]C[Black only has one eye, so black's dead.])
+;W[bs]C[Black only has one eye, so Black's dead.])
 (;B[es]
 ;W[cr]
 (;B[ap]
@@ -28,4 +28,4 @@ http://gogameguru.com/]
 ;W[fs]))
 (;B[ap]
 ;W[bs]
-;B[cr]LB[ap:A]C[Capturing at A only makes a false eye, so black's already died.]))
+;B[cr]LB[ap:A]C[Capturing at A only makes a false eye, so Black's already died.]))

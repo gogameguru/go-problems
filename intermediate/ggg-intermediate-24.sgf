@@ -14,11 +14,11 @@ http://gogameguru.com/]AW[co][do][cp][ep][fp][bq][fq][br][cr][fr][gr]AB[eo][fo][
 (;W[gs]
 ;B[is]C[Correct]))
 (;B[is]
-;W[fs]C[Now it's a ko, but black can do better.])
+;W[fs]C[Now it's a ko, but Black can do better.])
 (;B[gs]
 ;W[fs]
 ;B[is]
-;W[cs]C[Now it's a ko, but black can do better.]))
+;W[cs]C[Now it's a ko, but Black can do better.]))
 (;W[fs]
 ;B[hs]
 ;W[cs]
@@ -38,12 +38,12 @@ http://gogameguru.com/]AW[co][do][cp][ep][fp][bq][fq][br][cr][fr][gr]AB[eo][fo][
 (;B[es]
 ;W[hs]
 ;B[is]
-;W[cs]C[Now it's a ko, but black can do better.])
+;W[cs]C[Now it's a ko, but Black can do better.])
 (;B[hs]
 ;W[ds]))
 (;B[fs]
-(;W[es]C[This is a crucial move for white.]
+(;W[es]C[This is a crucial move for White.]
 ;B[ds]
-;W[gs]C[Now it's a ko, but black can do better.])
-(;W[gs]LB[es:B][gs:A]C[This is a mistake for white. A should be at B.]
+;W[gs]C[Now it's a ko, but Black can do better.])
+(;W[gs]LB[es:B][gs:A]C[This is a mistake for White. A should be at B.]
 ;B[es]LB[fs:A][gs:B]C[A and B were both mistakes, but it all came out in the wash... White is captured.])))

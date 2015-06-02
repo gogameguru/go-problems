@@ -8,7 +8,7 @@ http://gogameguru.com/]
 ;B[sn]
 (;W[rn]
 ;B[sp]C[Correct. Ko is the best solution.])
-(;W[os]C[If white tries to avoid the ko...]
+(;W[os]C[If White tries to avoid the ko...]
 ;B[sp]
 ;W[qs]
 ;B[ss]
@@ -29,7 +29,7 @@ http://gogameguru.com/]
 (;B[sn]
 ;W[os]
 ;B[sp]
-;W[so]LB[rn:A][qs:B]C[This is the right idea, but now black has to make the first ko threat. If black plays A instead, white just plays B and captures. Can you improve the move order?])
+;W[so]LB[rn:A][qs:B]C[This is the right idea, but now Black has to make the first ko threat. If Black plays A instead, White just plays B and captures. Can you improve the move order?])
 (;B[pm]
 ;W[os]
 (;B[po]
@@ -73,4 +73,4 @@ http://gogameguru.com/]
 (;B[ps]
 ;W[os])
 (;B[os]
-;W[ns]LB[ns:B][os:A]C[After exchanging A for B black can still live in the same way as before. This isn't wrong, but the exchange doesn't add anything to the solution, so there no moves are provided for this variation.]))
+;W[ns]LB[ns:B][os:A]C[After exchanging A for B Black can still live in the same way as before. This isn't wrong, but the exchange doesn't add anything to the solution, so there no moves are provided for this variation.]))

@@ -63,9 +63,9 @@ http://gogameguru.com/]
 (;B[mp]
 ;W[no]
 ;B[fr]
-(;W[gp]C[White could also tenuki now, if she wants to take sente for example, and black will only be able to capture the number 1 (through shortage of liberties). The rest of the group is already alive.])
-(;W[nn]C[If white tenukis...]
+(;W[gp]C[White could also tenuki now, if she wants to take sente for example, and Black will only be able to capture the number 1 (through shortage of liberties). The rest of the group is already alive.])
+(;W[nn]C[If White tenukis...]
 ;B[eq]
-;W[gp]LB[ep:A][gq:B]C[The rest of white's group is still alive. White shouldn't connect at A because black would atari at B.]))
+;W[gp]LB[ep:A][gq:B]C[The rest of White's group is still alive. White shouldn't connect at A because Black would atari at B.]))
 (;B[no]
 ;W[mp])))

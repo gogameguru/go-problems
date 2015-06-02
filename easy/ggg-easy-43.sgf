@@ -5,13 +5,13 @@ SO[http://gogameguru.com/]AW[bo][bp][bq][br][bs]AB[ck][bl][cm][cn][co][cp][cq][c
 http://gogameguru.com/]
 (;B[ar]C[This is the vital point.]
 (;W[bn]
-(;B[an]C[Good move, this makes white's eyespace as small as possible.]
+(;B[an]C[Good move, this makes White's eyespace as small as possible.]
 (;W[ao]
 (;B[aq]
 ;W[bm]
 ;B[am]
 ;W[al]
-(;B[am]LB[aj:C][bj:B][ak:A]C[Correct. If white plays A, black can just play B (or atari at C in some situations). White can't make two eyes.])
+(;B[am]LB[aj:C][bj:B][ak:A]C[Correct. If White plays A, Black can just play B (or atari at C in some situations). White can't make two eyes.])
 (;B[ak]
 ;W[am]LB[ak:A]C[Black almost had it. There's a better move than A.]))
 (;B[am]
@@ -62,7 +62,7 @@ http://gogameguru.com/]
 (;B[ar]
 ;W[an]))
 (;B[bn]
-;W[ao]LB[aq:B][ar:A]C[White's four in a row eyespace is alive because white A and B are miai (that means if black takes one, white can take the other one).])
+;W[ao]LB[aq:B][ar:A]C[White's four in a row eyespace is alive because White A and B are miai (that means if Black takes one, White can take the other one).])
 (;B[aq]
 ;W[ar])
 (;B[ap]

@@ -70,7 +70,7 @@ http://gogameguru.com/]
 ;B[bc]C[Correct])
 (;W[aa]
 ;B[ab]C[Correct]))
-(;B[pp]LB[qn:A][so:C][pr:B]C[This move is also possible, but exchanging this atari for A is a thank you move. Black should atari at B first, assuming that white will realize what his plan is and will let black live locally (i.e. white won't actually connect the two stones). If black doesn't force white to capture at A, then black still has possible tesujis like C later.]
+(;B[pp]LB[qn:A][so:C][pr:B]C[This move is also possible, but exchanging this atari for A is a thank you move. Black should atari at B first, assuming that White will realize what his plan is and will let Black live locally (i.e. White won't actually connect the two stones). If Black doesn't force White to capture at A, then Black still has possible tesujis like C later.]
 ;W[qn]
 (;B[oo]
 ;W[no]
@@ -171,13 +171,13 @@ http://gogameguru.com/]
 ;B[mo]
 ;W[oo]
 (;B[pr]
-;W[qs]C[Now black has to fight a ko, but black can avoid this ko if black pays attention to move order and liberties.])
+;W[qs]C[Now Black has to fight a ko, but Black can avoid this ko if Black pays attention to move order and liberties.])
 (;B[qs]
 ;W[rs]))
 (;B[mo]
 ;W[nn]
 (;B[pr]
-;W[qs]C[Now black has to fight a ko, but black can avoid this ko if black pays attention to move order and liberties.])
+;W[qs]C[Now Black has to fight a ko, but Black can avoid this ko if Black pays attention to move order and liberties.])
 (;B[qs]
 ;W[rs]))))
 (;B[qs]
@@ -212,16 +212,16 @@ http://gogameguru.com/]
 ;W[lq]))))
 (;B[qs]
 ;W[os]))
-(;B[os]LB[nr:A][ms:B]C[This move works too in this case, but playing at A instead is slightly better. That's because black can hane at B next (for example, if white realizes her mistake and plays elsewhere). The solution to this problem is very long, so it hasn't been duplicated for this move.]))
-(;W[os]C[If white plays something like this,]
+(;B[os]LB[nr:A][ms:B]C[This move works too in this case, but playing at A instead is slightly better. That's because Black can hane at B next (for example, if White realizes her mistake and plays elsewhere). The solution to this problem is very long, so it hasn't been duplicated for this move.]))
+(;W[os]C[If White plays something like this,]
 ;B[ps]
 ;W[or]
 ;B[nr]
 ;W[ns]
 ;B[rs]C[Black can just live locally.]))
-(;B[ch]C[This asking move is also possible. In fact, it's probably slightly better (unless black has some sort of weak group in the lower left that could be threatened by white B11 - which he doesn't in this problem).]
-(;W[bh]C[If white takes the stone,]
-;B[ga]LB[jb:A]C[Now black can live like this, which creates more aji around A.]
+(;B[ch]C[This asking move is also possible. In fact, it's probably slightly better (unless Black has some sort of weak group in the lower left that could be threatened by White B11 - which he doesn't in this problem).]
+(;W[bh]C[If White takes the stone,]
+;B[ga]LB[jb:A]C[Now Black can live like this, which creates more aji around A.]
 ;W[ps]
 ;B[nr]
 ;W[ns]
@@ -276,9 +276,9 @@ http://gogameguru.com/]
 ;B[bi]
 ;W[ch]
 ;B[ah]C[Correct])
-(;W[di]C[If white connects,]
+(;W[di]C[If White connects,]
 ;B[nr]LB[bh:A]C[Black's already alive in the top left, so he can play here. Black could also atari at A first.]
-(;W[ga]C[If white still tries to kill...]
+(;W[ga]C[If White still tries to kill...]
 ;B[ca]
 ;W[ea]
 ;B[fa]
@@ -336,11 +336,11 @@ http://gogameguru.com/]
 ;W[ae]
 ;B[ab]C[Correct])))
 (;B[ga]
-;W[ps]LB[ga:A]C[A is a good move locally, but black's lower right group is dead. Can you find a way to save both groups at the same time?])
+;W[ps]LB[ga:A]C[A is a good move locally, but Black's lower right group is dead. Can you find a way to save both groups at the same time?])
 (;B[ca]
 ;W[ps]
 ;B[bc]
-;W[lp]C[Black's already alive in the top left, so white will just play here now. This ensures that black's lower right group is captured.]
+;W[lp]C[Black's already alive in the top left, so White will just play here now. This ensures that Black's lower right group is captured.]
 ;B[mo]
 ;W[nn])
 (;B[nr]

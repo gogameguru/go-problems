@@ -207,14 +207,14 @@ http://gogameguru.com/]
 (;B[ms]
 ;W[ls]
 ;B[os]
-;W[ps]LB[ns:A]C[Even if black plays at A, white lives in seki.])
+;W[ps]LB[ns:A]C[Even if Black plays at A, White lives in seki.])
 (;B[os]
 ;W[ps]
 ;B[ms]
-;W[ls]LB[ns:A]C[Even if black plays at A, white lives in seki.]))
+;W[ls]LB[ns:A]C[Even if Black plays at A, White lives in seki.]))
 (;B[ls]
 ;W[ms]
 ;B[nr]
 ;W[ks]
 ;B[ir]
-;W[qs]LB[os:A]C[Even if black plays at A, white lives in seki.]))
+;W[qs]LB[os:A]C[Even if Black plays at A, White lives in seki.]))

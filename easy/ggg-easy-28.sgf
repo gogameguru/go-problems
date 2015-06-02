@@ -1,6 +1,6 @@
 (;GM[1]FF[4]CA[UTF-8]AP[CGoban:3]ST[2]
 RU[Japanese]SZ[19]KM[0.00]
-SO[http://gogameguru.com/]AW[rp][oq][pq][rq][or][qr][ps]AB[qm][qo][qp][nq][qq][rr]TR[rp][rq]C[Black to play. Can you find a way to capture white's two stones?
+SO[http://gogameguru.com/]AW[rp][oq][pq][rq][or][qr][ps]AB[qm][qo][qp][nq][qq][rr]TR[rp][rq]C[Black to play. Can you find a way to capture White's two stones?
 
 http://gogameguru.com/]
 (;B[sr]
@@ -8,7 +8,7 @@ http://gogameguru.com/]
 (;B[ro]
 ;W[qs]
 (;B[sp]C[Correct])
-(;B[sq]LB[sp:B][sq:A][ss:C]C[Also correct. Playing A at B is better style though because white might play C as a ko threat later. If you ignore the ko threat, would you rather lose two stones or three?]))
+(;B[sq]LB[sp:B][sq:A][ss:C]C[Also correct. Playing A at B is better style though because White might play C as a ko threat later. If you ignore the ko threat, would you rather lose two stones or three?]))
 (;B[sq]
 ;W[sp])
 (;B[sp]

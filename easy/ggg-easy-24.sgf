@@ -5,10 +5,10 @@ SO[http://gogameguru.com/]AW[oo][po][qo][lp][mp][np][qp][kq][qq][kr][qr]AB[op][p
 http://gogameguru.com/]
 (;B[lr]
 (;W[ks]
-(;B[ls]LB[ks:A][ms:B]C[Correct, if black ignores A, white can play at B.])
+(;B[ls]LB[ks:A][ms:B]C[Correct, if Black ignores A, White can play at B.])
 (;B[mr]
 ;W[ls]
-;B[ms]LB[mr:A][ls:B]C[Correct, black could also play A at B to live with one more point.]))
+;B[ms]LB[mr:A][ls:B]C[Correct, Black could also play A at B to live with one more point.]))
 (;W[mq]
 ;B[mr]C[Correct])
 (;W[ls]

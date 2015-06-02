@@ -6,7 +6,7 @@ http://gogameguru.com/]
 (;B[bs]
 (;W[cq]
 ;B[cr]C[Correct. Ko is the best solution.])
-(;W[as]LB[as:A]C[If white captures at A...]
+(;W[as]LB[as:A]C[If White captures at A...]
 ;B[bq]
 ;W[bp]
 (;B[cp]
@@ -33,7 +33,7 @@ http://gogameguru.com/]
 (;B[cq]
 ;W[cr]
 ;B[aq]
-;W[ar]C[Black 1 is the vital point, but black needs to make some preparations before playing there.])
+;W[ar]C[Black 1 is the vital point, but Black needs to make some preparations before playing there.])
 (;B[bs]
 ;W[cq]
 (;B[cr]
@@ -46,7 +46,7 @@ http://gogameguru.com/]
 ;W[cr]LB[bs:A]C[It's too late to play A now.]
 (;B[cp]
 (;W[aq]LB[co:B][cq:A])
-(;W[co]C[This is a mistake for white...]
+(;W[co]C[This is a mistake for White...]
 ;B[ar]
 ;W[as]LB[co:A]C[White has to fight a ko, because A was a bad move.]))
 (;B[ar]
@@ -62,7 +62,7 @@ http://gogameguru.com/]
 (;B[ap]
 ;W[ao]
 ;B[an]
-;W[aq]LB[ap:A][as:B]C[This is a double ko. If black fights the ko at A, white just plays B and vice versa.]))))
+;W[aq]LB[ap:A][as:B]C[This is a double ko. If Black fights the ko at A, White just plays B and vice versa.]))))
 (;B[cp]
 ;W[bp]
 (;B[cq]
@@ -84,7 +84,7 @@ http://gogameguru.com/]
 (;B[ar]
 ;W[aq]
 ;B[bq]
-;W[as]LB[co:B][cq:A]C[White A and B are miai, so white is alive.])
+;W[as]LB[co:B][cq:A]C[White A and B are miai, so White is alive.])
 (;B[aq]
 ;W[ar]
 (;B[ao]

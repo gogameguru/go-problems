@@ -108,7 +108,7 @@ http://gogameguru.com/]
 ;W[so]))))
 (;W[so]
 ;B[rp]C[Correct]))
-(;B[rp]C[This is how black played in the game, but it didn't work out well.]
+(;B[rp]C[This is how Black played in the game, but it didn't work out well.]
 ;W[sp]
 ;B[rq]
 ;W[rm]
@@ -154,14 +154,14 @@ http://gogameguru.com/]
 ;W[sp])
 (;B[sq]
 ;W[so])))
-(;W[sp]C[This looks like a good move for white, but it's a mistake...]
+(;W[sp]C[This looks like a good move for White, but it's a mistake...]
 ;B[sm]
 ;W[rs]
 ;B[so]
 (;W[rp]
 ;B[rn]
-;W[sn]C[It's a ko. White could have captured black after S3 instead of making a ko.])
-(;W[sn]C[This is also a ko, but white could have captured black after S3 instead of ko.])))
+;W[sn]C[It's a ko. White could have captured Black after S3 instead of making a ko.])
+(;W[sn]C[This is also a ko, but White could have captured Black after S3 instead of ko.])))
 (;B[sq]
 ;W[sp]
 (;B[rq]

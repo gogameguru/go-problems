@@ -16,13 +16,13 @@ http://gogameguru.com]
 ;W[op]
 ;B[pr]C[Correct])
 (;B[pr]
-;W[or]C[It's a ko, but black can do better.])
+;W[or]C[It's a ko, but Black can do better.])
 (;B[pq]
 ;W[op]))
 (;B[pr]
 ;W[rs]
 (;B[os]
-;W[or]C[It's a ko, but black can do better.])
+;W[or]C[It's a ko, but Black can do better.])
 (;B[or]
 ;W[os]))
 (;B[op]
@@ -41,7 +41,7 @@ http://gogameguru.com]
 ;W[ms]
 ;B[os]C[Correct])
 (;B[os]
-;W[or]C[It's a ko, but black can do better.]))
+;W[or]C[It's a ko, but Black can do better.]))
 (;B[ms]
 ;W[pr]))
 (;W[or]
@@ -99,7 +99,7 @@ http://gogameguru.com]
 (;B[op]
 ;W[pq]
 (;B[or]
-;W[ls]LB[ns:A]C[White's alive. Even if Black plays at A next, white's already alive in seki.])
+;W[ls]LB[ns:A]C[White's alive. Even if Black plays at A next, White's already alive in seki.])
 (;B[ls]
 ;W[or])))
 (;B[pr]

@@ -3,11 +3,11 @@ RU[Japanese]SZ[19]KM[0.00]
 SO[http://gogameguru.com/]AW[co][dp][ep][np][pp][bq][cq][iq]AB[ck][qn][gp][rp][dq][eq][cr]LB[ep:A]C[Black to play.
 
 http://gogameguru.com/]
-(;B[gr]LB[fp:B][fq:A][er:D][fr:C]C[Correct. This is the best shape, because it gives black the best potential for making eyes later. A and B are miai for black now. If white tries to play A-C, black D captures white's stones.])
+(;B[gr]LB[fp:B][fq:A][er:D][fr:C]C[Correct. This is the best shape, because it gives Black the best potential for making eyes later. A and B are miai for Black now. If White tries to play A-C, Black D captures White's stones.])
 (;B[fp]
-;W[gr]LB[ep:A][fq:C][gr:B]C[White plays on the vital point and black's group becomes weak. Notice the relationship between A and B - the point at C can only ever become a false eye now.]
+;W[gr]LB[ep:A][fq:C][gr:B]C[White plays on the vital point and Black's group becomes weak. Notice the relationship between A and B - the point at C can only ever become a false eye now.]
 ;B[fr]
-;W[gq]C[If the game continues like this, black doesn't have much room to make eyes, so the whole group may be in trouble later.])
+;W[gq]C[If the game continues like this, Black doesn't have much room to make eyes, so the whole group may be in trouble later.])
 (;B[gq]
 ;W[fr]C[Later on there's still a vital point here...]
 (;B[gr]
@@ -27,6 +27,6 @@ http://gogameguru.com/]
 (;B[fq]
 ;W[gr]))
 (;B[hq]
-;W[ip]LB[fq:B][gr:A]C[Making this exchange helps white. In addition, black still has weaknesses at A and B, so black hasn't developed a good shape and still has to play another move here. In some situations white might choose to play at A or B immediately after black kicks with the diagonal attachment.])
+;W[ip]LB[fq:B][gr:A]C[Making this exchange helps White. In addition, Black still has weaknesses at A and B, so Black hasn't developed a good shape and still has to play another move here. In some situations White might choose to play at A or B immediately after Black kicks with the diagonal attachment.])
 (;B[fq]C[This move is uninspired.]
-;W[gr]C[Later on white can play here and black doesn't have much eyespace, so the group will be weak.]))
+;W[gr]C[Later on White can play here and Black doesn't have much eyespace, so the group will be weak.]))

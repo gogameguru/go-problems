@@ -1,6 +1,6 @@
 (;GM[1]FF[4]CA[UTF-8]AP[CGoban:3]ST[2]
 RU[Japanese]SZ[19]KM[0.00]
-SO[http://gogameguru.com/]AW[qj][ql][rp][mq][nq][pr][qr]AB[qn][np][pp][qq][rr]LB[rp:A]C[Black to play. How can black deal with white A?
+SO[http://gogameguru.com/]AW[qj][ql][rp][mq][nq][pr][qr]AB[qn][np][pp][qq][rr]LB[rp:A]C[Black to play. How can Black deal with White A?
 
 http://gogameguru.com/]
 (;B[ro]
@@ -39,7 +39,7 @@ http://gogameguru.com/]
 (;B[or]
 ;W[op]
 ;B[oq]
-;W[oo]LB[qo:A][nr:B]C[A and B are miai for white. This isn't a good result for black.])
+;W[oo]LB[qo:A][nr:B]C[A and B are miai for White. This isn't a good result for Black.])
 (;B[qo]
 ;W[op]))
 (;B[qo]
@@ -65,15 +65,15 @@ http://gogameguru.com/]
 (;B[rq]
 ;W[qo]
 (;B[po]
-;W[rn]C[Now black's group will have to make eyes in the center.])
+;W[rn]C[Now Black's group will have to make eyes in the center.])
 (;B[rn]
 ;W[po]
 ;B[pn]
 ;W[oo]
 ;B[ro]
-;W[qp]LB[rn:A][qo:B]C[Sometimes playing A is a strong move and in those cases, white B should be at A instead. However, in this case, black's 'resistance' feels pretty tortured. Black can do better.]))
+;W[qp]LB[rn:A][qo:B]C[Sometimes playing A is a strong move and in those cases, White B should be at A instead. However, in this case, Black's 'resistance' feels pretty tortured. Black can do better.]))
 (;B[qm]
-;W[rq]LB[qm:A][rp:C][rr:B]C[Black A is often a good idea, but black has a sharper move in this case. If black wanted to play A, it would have been better to do so before exchanging B for C.])
+;W[rq]LB[qm:A][rp:C][rr:B]C[Black A is often a good idea, but Black has a sharper move in this case. If Black wanted to play A, it would have been better to do so before exchanging B for C.])
 (;B[qp]
 ;W[ro]
 (;B[rn]

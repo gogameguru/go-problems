@@ -8,15 +8,15 @@ http://gogameguru.com/]
 ;B[pr]
 ;W[or]
 ;B[qs]C[Correct])
-(;W[pr]C[This white move is too greedy...]
+(;W[pr]C[This White move is too greedy...]
 ;B[pp]
 (;W[rs]
-(;B[ro]LB[pr:A]C[Correct, white shouldn't play A.])
-(;B[qo]C[Correct, white shouldn't play A.]))
+(;B[ro]LB[pr:A]C[Correct, White shouldn't play A.])
+(;B[qo]C[Correct, White shouldn't play A.]))
 (;W[qr]
 ;B[rs]
 ;W[qs]
-;B[ro]LB[pr:A]C[Correct, white shouldn't play A.])))
+;B[ro]LB[pr:A]C[Correct, White shouldn't play A.])))
 (;B[pp]
 ;W[rr]
 (;B[qr]

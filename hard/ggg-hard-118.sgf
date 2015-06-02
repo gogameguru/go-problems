@@ -27,7 +27,7 @@ AW[lq][nq][oq][kr][pr][ks][ms][qs][rs]AB[oo][qo][jp][kp][lp][mp][pp][pq][ir][jr]
 ;W[or]
 ;B[ss]C[Correct]))
 (;B[or]
-;W[os]C[It's a ko, but black can do better.]))
+;W[os]C[It's a ko, but Black can do better.]))
 (;W[or]
 (;B[kq]
 (;W[ns]
@@ -45,7 +45,7 @@ AW[lq][nq][oq][kr][pr][ks][ms][qs][rs]AB[oo][qo][jp][kp][lp][mp][pp][pq][ir][jr]
 ;W[os]
 ;B[kq]C[Correct])))
 (;B[ns]
-;W[lr]C[It's a ko, but black can do better.])
+;W[lr]C[It's a ko, but Black can do better.])
 (;B[kq]
 ;W[lr])
 (;B[os]
@@ -57,9 +57,9 @@ AW[lq][nq][oq][kr][pr][ks][ms][qs][rs]AB[oo][qo][jp][kp][lp][mp][pp][pq][ir][jr]
 ;B[ps]
 ;W[lr]))
 (;B[or]
-;W[os]C[It's a ko, but black can do better.]))
+;W[os]C[It's a ko, but Black can do better.]))
 (;B[or]
-;W[os]C[It's a ko, but black can do better.])
+;W[os]C[It's a ko, but Black can do better.])
 (;B[ps]
 ;W[os]
 ;B[mr]
@@ -75,13 +75,13 @@ AW[lq][nq][oq][kr][pr][ks][ms][qs][rs]AB[oo][qo][jp][kp][lp][mp][pp][pq][ir][jr]
 (;B[kq]
 ;W[lr]
 ;B[or]
-;W[os]C[It's a ko, but black can do better.])
+;W[os]C[It's a ko, but Black can do better.])
 (;B[lr]
 ;W[kq]
 (;B[ns]
 ;W[ls])
 (;B[or]
-;W[os]C[It's a ko, but black can do better.])))
+;W[os]C[It's a ko, but Black can do better.])))
 (;B[os]
 ;W[or]
 (;B[ps]
@@ -111,6 +111,6 @@ AW[lq][nq][oq][kr][pr][ks][ms][qs][rs]AB[oo][qo][jp][kp][lp][mp][pp][pq][ir][jr]
 (;B[mq]
 ;W[lr]
 ;B[or]
-;W[os]C[It's a ko, but black can do better.])
+;W[os]C[It's a ko, but Black can do better.])
 (;B[or]
-;W[os]C[It's a ko, but black can do better.])))
+;W[os]C[It's a ko, but Black can do better.])))

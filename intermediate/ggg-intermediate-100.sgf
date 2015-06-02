@@ -23,7 +23,7 @@ http://gogameguru.com/]
 ;W[eo]
 (;B[hm]
 ;W[ep]
-;B[gm]C[Black can also live like this, but white captured the number 1! Can you do better?])
+;B[gm]C[Black can also live like this, but White captured the number 1! Can you do better?])
 (;B[ep]
 ;W[cl]
 (;B[hm]
@@ -65,7 +65,7 @@ http://gogameguru.com/]
 (;B[fr]
 ;W[hr]
 (;B[er]
-;W[gr]LB[cr:A]C[Black's dead. Even if black ataris at A now, white can ignore it because black still can't make two eyes.])
+;W[gr]LB[cr:A]C[Black's dead. Even if Black ataris at A now, White can ignore it because Black still can't make two eyes.])
 (;B[gr]
 ;W[er]
 (;B[hs]
@@ -89,7 +89,7 @@ http://gogameguru.com/]
 ;B[jl]
 ;W[kk]
 ;B[ik]
-;W[ij]C[Black only has one eye at best, so black's dead.])
+;W[ij]C[Black only has one eye at best, so Black's dead.])
 (;B[mn]
 ;W[ln]
 ;B[lo]
@@ -127,15 +127,15 @@ http://gogameguru.com/]
 (;B[gs]
 ;W[is]
 ;B[hs]
-;W[es]C[Black can't get enough liberties to capture white's stones.])
+;W[es]C[Black can't get enough liberties to capture White's stones.])
 (;B[is]
-;W[gs]C[Black can't get enough liberties to capture white's stones.]
+;W[gs]C[Black can't get enough liberties to capture White's stones.]
 ;B[fs]
 ;W[es]))
 (;B[gs]
-;W[fr]C[Black can't get enough liberties to capture white's stones.])
+;W[fr]C[Black can't get enough liberties to capture White's stones.])
 (;B[hs]
-;W[gs]C[Black can't get enough liberties to capture white's stones.]
+;W[gs]C[Black can't get enough liberties to capture White's stones.]
 ;B[fr]
 ;W[er]))
 (;B[gr]
@@ -145,13 +145,13 @@ http://gogameguru.com/]
 (;B[hs]
 ;W[fs]
 ;B[gs]
-;W[js]C[Black can't get enough liberties to capture white's stones.])
+;W[js]C[Black can't get enough liberties to capture White's stones.])
 (;B[fs]
 ;W[hs]
 ;B[ep]
 ;W[er]
 ;B[cr]
-;W[br]C[Black still can't get enough liberties to capture white's stones.]
+;W[br]C[Black still can't get enough liberties to capture White's stones.]
 (;B[is]
 ;W[js])
 (;B[gs]
@@ -159,4 +159,4 @@ http://gogameguru.com/]
 (;B[gs]
 ;W[hs]
 ;B[ir]
-;W[jq]C[Black can't get enough liberties to capture white's stones.])))
+;W[jq]C[Black can't get enough liberties to capture White's stones.])))

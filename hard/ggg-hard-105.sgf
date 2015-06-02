@@ -28,11 +28,11 @@ http://gogameguru.com/]
 (;B[ds]
 ;W[es]
 (;B[fq]
-;W[cs]C[It's a ko, but black can do better.])
+;W[cs]C[It's a ko, but Black can do better.])
 (;B[cs]
 ;W[dq])
 (;B[fs]
-;W[cs]C[It's a ko, but black can do better.]))
+;W[cs]C[It's a ko, but Black can do better.]))
 (;B[ao]
 ;W[dq]
 ;B[cs]
@@ -52,9 +52,9 @@ http://gogameguru.com/]
 (;B[bs]
 ;W[ap]
 (;B[fq]
-;W[cs]C[It's a ko, but black can do better.])
+;W[cs]C[It's a ko, but Black can do better.])
 (;B[fs]
-;W[cs]C[It's a ko, but black can do better.])
+;W[cs]C[It's a ko, but Black can do better.])
 (;B[cs]
 ;W[dq])
 (;B[ao]
@@ -62,7 +62,7 @@ http://gogameguru.com/]
 (;B[fq]
 ;W[cs])))
 (;W[ds]
-;B[ap]LB[bs:B][cs:A]C[Correct. A and B are miai black.])
+;B[ap]LB[bs:B][cs:A]C[Correct. A and B are miai Black.])
 (;W[cs]
 ;B[ds]
 ;W[es]
@@ -72,12 +72,12 @@ http://gogameguru.com/]
 ;W[dr]
 (;B[cs]C[Correct])
 (;B[fs]
-;W[cs]C[It's a ko, but black can do better.]))
+;W[cs]C[It's a ko, but Black can do better.]))
 (;B[fs]
 ;W[dr]
 (;B[cs]C[Correct])
 (;B[fq]
-;W[cs]C[It's a ko, but black can do better.]))))
+;W[cs]C[It's a ko, but Black can do better.]))))
 (;B[dr]
 ;W[ds]
 ;B[cs]
@@ -89,18 +89,18 @@ http://gogameguru.com/]
 (;W[ap]
 (;B[cr]C[Correct])
 (;B[br]
-;W[cr]C[It's a ko, but black can do better.])))
+;W[cr]C[It's a ko, but Black can do better.])))
 (;B[br]
 ;W[ap]
 (;B[cq]
-;W[cr]C[It's a ko, but black can do better.])
+;W[cr]C[It's a ko, but Black can do better.])
 (;B[cr]
 ;W[cq]
 ;B[dr]
 ;W[es]
 ;B[bs]
 ;W[ds]
-;B[cs]C[It's a seki, so white's alive.]))
+;B[cs]C[It's a seki, so White's alive.]))
 (;B[dr]
 ;W[cr]
 ;B[es]
@@ -147,7 +147,7 @@ http://gogameguru.com/]
 (;B[es]
 ;W[bs]
 ;B[ar]
-;W[ds]C[It's a ko, but black can do better.]))
+;W[ds]C[It's a ko, but Black can do better.]))
 (;B[cr]
 ;W[cq]
 (;B[es]
@@ -161,7 +161,7 @@ http://gogameguru.com/]
 (;B[bs]
 ;W[ar]
 ;B[cs]
-;W[es]C[It's a seki, so white's alive.]))
+;W[es]C[It's a seki, so White's alive.]))
 (;B[dr]
 ;W[es]
 ;B[ar]
@@ -169,7 +169,7 @@ http://gogameguru.com/]
 ;B[fq]
 ;W[cs]
 ;B[ap]
-;W[bs]LB[fs:A]C[Even if black plays at A, it's only a seki. White's alive.]))
+;W[bs]LB[fs:A]C[Even if Black plays at A, it's only a seki. White's alive.]))
 (;B[cs]
 ;W[cr]
 ;B[dr]
@@ -189,7 +189,7 @@ http://gogameguru.com/]
 (;B[ar]
 ;W[ds]
 (;B[br]
-;W[aq]C[It's a ko, but black can do better.])
+;W[aq]C[It's a ko, but Black can do better.])
 (;B[aq]
 ;W[br]
 ;B[cs]
@@ -217,10 +217,10 @@ http://gogameguru.com/]
 ;B[ar]
 (;W[ds]
 ;B[br]
-;W[aq]C[It's a ko, but black can do better.])
+;W[aq]C[It's a ko, but Black can do better.])
 (;W[dq]
 ;B[br]
-;W[aq]C[It's a ko, but black can do better.])))
+;W[aq]C[It's a ko, but Black can do better.])))
 (;B[ar]
 ;W[aq]
 (;B[cr]
@@ -232,7 +232,7 @@ http://gogameguru.com/]
 ;B[fq]
 ;W[cs]
 ;B[ap]
-;W[bs]LB[fs:A]C[Even if black plays at A, it's only a seki. White's alive.])
+;W[bs]LB[fs:A]C[Even if Black plays at A, it's only a seki. White's alive.])
 (;B[cs]
 ;W[bs]
 (;B[br]

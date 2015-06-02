@@ -21,7 +21,7 @@ http://gogameguru.com/]
 ;B[bk]
 ;W[am]
 ;B[go]
-;W[ao]C[If the ladder favors white, she could also cut at A now.])
+;W[ao]C[If the ladder favors White, she could also cut at A now.])
 (;B[cl]
 ;W[go]
 (;B[ho]
@@ -50,7 +50,7 @@ http://gogameguru.com/]
 ;W[fn]
 ;B[el]
 ;W[cn]
-;B[en]C[Black can create a ko like this, but black doesn't need to fight a ko.
+;B[en]C[Black can create a ko like this, but Black doesn't need to fight a ko.
 ]))
 (;W[en]
 ;B[el]
@@ -64,7 +64,7 @@ http://gogameguru.com/]
 ;W[dn]
 (;B[el]
 ;W[cn]
-;B[en]C[Black can make a ko like this. This is often a good resource for black, but in this case black doesn't need to fight a ko.])
+;B[en]C[Black can make a ko like this. This is often a good resource for Black, but in this case Black doesn't need to fight a ko.])
 (;B[go]
 ;W[en]
 (;B[el]
@@ -92,7 +92,7 @@ http://gogameguru.com/]
 ;B[dl]
 ;W[gm]
 ;B[hm]
-;W[fk]LB[ck:B][hn:A]C[A and B are miai for white.])
+;W[fk]LB[ck:B][hn:A]C[A and B are miai for White.])
 (;B[en]
 ;W[fn]
 ;B[fm]
@@ -104,7 +104,7 @@ http://gogameguru.com/]
 (;B[hm]
 ;W[gl]
 ;B[io]
-;W[hp]LB[ip:D][hq:C][ir:A][jr:B][js:E]C[Black can live in ko with A-E, but this is a terrible result and black's left side group is in trouble too.])
+;W[hp]LB[ip:D][hq:C][ir:A][jr:B][js:E]C[Black can live in ko with A-E, but this is a terrible result and Black's left side group is in trouble too.])
 (;B[io]
 ;W[hm]
 (;B[hp]

@@ -11,7 +11,7 @@ http://gogameguru.com/]
 (;W[op]
 ;B[pr]C[Correct])
 (;W[pr]
-;B[op]TR[no][oo][np][nq][nr][ns]C[White can't stop black from capturing the marked stones.]))
+;B[op]TR[no][oo][np][nq][nr][ns]C[White can't stop Black from capturing the marked stones.]))
 (;W[or]
 ;B[ns]
 (;W[pq]
@@ -25,7 +25,7 @@ http://gogameguru.com/]
 (;B[or]
 ;W[os]
 (;B[pr]
-;W[pq]C[It's a seki, but black can do better.])
+;W[pq]C[It's a seki, but Black can do better.])
 (;B[pq]
 ;W[pr]))
 (;B[ns]
@@ -58,7 +58,7 @@ http://gogameguru.com/]
 ;W[pr]
 (;B[ns]
 ;W[os]
-;B[or]C[It's a ko, but black can do better.])
+;B[or]C[It's a ko, but Black can do better.])
 (;B[os]
 ;W[ns]))
 (;B[ns]

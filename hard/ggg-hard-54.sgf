@@ -63,8 +63,8 @@ http://gogameguru.com/]
 ;B[ks]
 ;W[js]))))
 (;W[jr]
-;B[ls]LB[lq:B][ms:A]C[Correct. A and B are miai for black.])
-(;W[rr]C[White can't kill black like this...]
+;B[ls]LB[lq:B][ms:A]C[Correct. A and B are miai for Black.])
+(;W[rr]C[White can't kill Black like this...]
 (;B[sr]
 ;W[rs]
 (;B[qq]
@@ -72,13 +72,13 @@ http://gogameguru.com/]
 ;B[qs]
 ;W[ss]
 ;B[sr]C[Black lives.])
-(;B[qs]C[This would be a mistake for black.]
+(;B[qs]C[This would be a mistake for Black.]
 ;W[qq]
 ;B[ss]
 ;W[rr]
 ;B[rs]
 ;W[sq]C[Black can't live locally, so now it would be a capturing race.]))
-(;B[qq]C[This would be a mistake for black.]
+(;B[qq]C[This would be a mistake for Black.]
 ;W[sq]
 ;B[pp]
 ;W[qo]C[Black can't live locally, so now it would be a capturing race.]))

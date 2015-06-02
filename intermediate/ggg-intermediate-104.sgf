@@ -9,7 +9,7 @@ http://gogameguru.com/]
 (;W[qr]
 ;B[ns]
 (;W[ps]
-;B[ls]LB[mq:B][js:A]C[Correct. Next A and B are miai for black.])
+;B[ls]LB[mq:B][js:A]C[Correct. Next A and B are miai for Black.])
 (;W[ls]
 ;B[ps]LB[qr:A]C[Correct. White A will be captured.]))
 (;W[os]
@@ -22,7 +22,7 @@ http://gogameguru.com/]
 (;W[qr]
 (;B[nr]
 (;W[ps]
-;B[ls]LB[mq:A][js:B]C[Correct. Next A and B are miai for black.])
+;B[ls]LB[mq:A][js:B]C[Correct. Next A and B are miai for Black.])
 (;W[ls]
 ;B[ps]LB[qr:A]C[Correct. White A will be captured.]))
 (;B[ls]
@@ -31,7 +31,7 @@ http://gogameguru.com/]
 ;W[os]
 ;B[nr]
 ;W[qs]
-;B[ls]C[Also correct. This is possible, but there's a slightly better way for black to play.]))
+;B[ls]C[Also correct. This is possible, but there's a slightly better way for Black to play.]))
 (;W[nr]
 ;B[os]
 ;W[qr]

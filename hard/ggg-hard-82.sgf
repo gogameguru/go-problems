@@ -50,7 +50,7 @@ http://gogameguru.com/]
 (;B[ro]
 ;W[rp]
 (;B[sn]
-;W[sp]LB[so:A]C[White's alive. Even if black plays at A now, it's only a seki.])
+;W[sp]LB[so:A]C[White's alive. Even if Black plays at A now, it's only a seki.])
 (;B[so]
 ;W[sn]
 (;B[sm]
@@ -84,18 +84,18 @@ http://gogameguru.com/]
 (;W[so]
 ;B[rp]C[Correct]))
 (;W[rp]
-;B[qn]LB[rl:B][rn:A]C[Correct. It's a temporary seki between the groups A and B, but black will capture white's surrounding stones and the seki will collapse.])))
+;B[qn]LB[rl:B][rn:A]C[Correct. It's a temporary seki between the groups A and B, but Black will capture White's surrounding stones and the seki will collapse.])))
 (;B[rp]
 ;W[ro]
 ;B[rn]C[This combination often works, but it's not the best approach in this case.]
 (;W[qn]
 (;B[so]
 ;W[sn]C[Black has to fight a ko now.]
-;B[sm]C[Even if black captures like this,]
+;B[sm]C[Even if Black captures like this,]
 ;W[rm]C[Black's short of liberties, so it's still a ko.])
 (;B[sn]C[This is a good idea, but it doesn't quite work in this case either. Black needs to change the move order a bit more.]
 ;W[sp]
-(;B[sq]C[It's still a ko, but black can do better.])
+(;B[sq]C[It's still a ko, but Black can do better.])
 (;B[rq]C[Connecting doesn't work, because...]
 ;W[rm]
 (;B[sq]
@@ -106,10 +106,10 @@ http://gogameguru.com/]
 ;W[sn]C[White just barely manages to make two eyes and lives.])
 (;B[so]
 ;W[sm]))))
-(;W[so]C[Playing here is what black wants, but it's a mistake for white.]
+(;W[so]C[Playing here is what Black wants, but it's a mistake for White.]
 ;B[sp]
 ;W[qn]
-;B[sn]C[Both players made mistakes, but now white's dead. It should have been a ko after black's mistake.]))
+;B[sn]C[Both players made mistakes, but now White's dead. It should have been a ko after Black's mistake.]))
 (;B[ro]
 ;W[rp]
 ;B[rn]
@@ -121,7 +121,7 @@ http://gogameguru.com/]
 (;B[sp]
 ;W[ro]
 ;B[rn]
-;W[sn]LB[rm:A][qn:B]C[A and B are miai for white. If black keeps trying to kill...]
+;W[sn]LB[rm:A][qn:B]C[A and B are miai for White. If Black keeps trying to kill...]
 ;B[so]
 ;W[qn]
 ;B[sm]

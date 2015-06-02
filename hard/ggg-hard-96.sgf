@@ -19,13 +19,13 @@ AW[do][dp][dq][br][er][es]AB[cm][dn][en][bo][co][fo][eq][fq][fr]
 (;B[ds]C[Playing here would be a mistake now.]
 ;W[as]
 (;B[ao]
-;W[aq]C[White lived because black made a mistake.])
+;W[aq]C[White lived because Black made a mistake.])
 (;B[aq]
-;W[ao]C[White lived because black made a mistake.]))
-(;B[ao]C[This is a mistake for black too.]
+;W[ao]C[White lived because Black made a mistake.]))
+(;B[ao]C[This is a mistake for Black too.]
 ;W[aq]
 ;B[bq]
-;W[ds]C[White lived because black made a mistake.])
+;W[ds]C[White lived because Black made a mistake.])
 (;B[dr]
 ;W[aq]
 (;B[bq]
@@ -116,7 +116,7 @@ AW[do][dp][dq][br][er][es]AB[cm][dn][en][bo][co][fo][eq][fq][fr]
 ;B[ar]
 ;W[bp]
 ;B[ap]
-;W[aq]C[It's a ko, but black can do better.])
+;W[aq]C[It's a ko, but Black can do better.])
 (;B[dr]
 ;W[cr]
 ;B[bq]
@@ -124,7 +124,7 @@ AW[do][dp][dq][br][er][es]AB[cm][dn][en][bo][co][fo][eq][fq][fr]
 ;B[ar]
 ;W[bp]
 ;B[ap]
-;W[aq]C[It's a ko, but black can do better.])
+;W[aq]C[It's a ko, but Black can do better.])
 (;B[bs]
 ;W[cr]
 (;B[bq]
@@ -132,7 +132,7 @@ AW[do][dp][dq][br][er][es]AB[cm][dn][en][bo][co][fo][eq][fq][fr]
 ;B[ar]
 ;W[bp]
 ;B[ap]
-;W[aq]C[It's a ko, but black can do better.])
+;W[aq]C[It's a ko, but Black can do better.])
 (;B[ar]
 ;W[bq]))
 (;B[ar]

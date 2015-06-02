@@ -27,7 +27,7 @@ http://gogameguru.com/]
 (;B[qs]
 ;W[ss]))
 (;B[sp]
-(;W[nq]LB[sq:A]C[White can simply live like this, but white can also play A. See the variation.]
+(;W[nq]LB[sq:A]C[White can simply live like this, but White can also play A. See the variation.]
 (;B[qp]
 ;W[qs])
 (;B[or]
@@ -52,7 +52,7 @@ http://gogameguru.com/]
 ;B[qs]
 ;W[so]
 (;B[qp]
-;W[rn]LB[qk:A][pn:B]TR[rr][qs][rs]C[Black can't cut white off from A while also defending against B, so white will capture the marked stones eventually.])
+;W[rn]LB[qk:A][pn:B]TR[rr][qs][rs]C[Black can't cut White off from A while also defending against B, so White will capture the marked stones eventually.])
 (;B[sn]
 ;W[ss]))
 (;B[qp]
@@ -93,7 +93,7 @@ http://gogameguru.com/]
 ;W[sq]LB[nr:A]C[White could also play A to live simply.]
 (;B[so]
 ;W[nr]C[White's already alive and...]
-;B[qp]C[black still can't much here...]
+;B[qp]C[Black still can't much here...]
 ;W[qs]
 ;B[ss]
 ;W[rq]C[Yum!])
@@ -108,7 +108,7 @@ http://gogameguru.com/]
 (;B[qs]
 ;W[so]
 (;B[qp]
-;W[rn]LB[qk:A][pn:B]TR[rr][qs][rs]C[Black can't cut white off from A while also defending against B, so white will capture the marked stones eventually.])
+;W[rn]LB[qk:A][pn:B]TR[rr][qs][rs]C[Black can't cut White off from A while also defending against B, so White will capture the marked stones eventually.])
 (;B[sn]
 ;W[ss]))
 (;B[qp]
@@ -123,7 +123,7 @@ http://gogameguru.com/]
 ;W[qs]C[There's no need to fight a ko...]
 ;B[ss]
 ;W[rq]C[Yum!])
-(;W[qs]C[Too greedy, now white will die...]
+(;W[qs]C[Too greedy, now White will die...]
 ;B[or]
 ;W[ss]
 ;B[pp]C[White made a mistake and died.])))

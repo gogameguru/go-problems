@@ -74,7 +74,7 @@ http://gogameguru.com/]
 ;B[bn]
 ;W[ao]
 ;B[an]
-;W[bp]LB[hs:A]C[If Black plays at A next, it's a seki, but black can do better.])
+;W[bp]LB[hs:A]C[If Black plays at A next, it's a seki, but Black can do better.])
 (;B[bo]
 ;W[ar])
 (;B[bp]
@@ -94,7 +94,7 @@ http://gogameguru.com/]
 (;B[co]
 ;W[ao]
 ;B[an]
-;W[bp]LB[hs:A]C[If Black plays at A next, it's a seki, but black can do better.])
+;W[bp]LB[hs:A]C[If Black plays at A next, it's a seki, but Black can do better.])
 (;B[ao]
 ;W[as]C[Black can do better.]))
 (;B[bo]
@@ -124,7 +124,7 @@ http://gogameguru.com/]
 ;B[bn]
 ;W[ao]
 ;B[an]
-;W[bp]LB[hs:A]C[If Black plays at A next, it's a seki, but black can do better.])
+;W[bp]LB[hs:A]C[If Black plays at A next, it's a seki, but Black can do better.])
 (;B[bo]
 ;W[ar])
 (;B[bp]
@@ -144,7 +144,7 @@ http://gogameguru.com/]
 (;B[co]
 ;W[ao]
 ;B[an]
-;W[bp]LB[hs:A]C[If Black plays at A next, it's a seki, but black can do better.])
+;W[bp]LB[hs:A]C[If Black plays at A next, it's a seki, but Black can do better.])
 (;B[ao]
 ;W[as]))
 (;B[es]
@@ -154,7 +154,7 @@ http://gogameguru.com/]
 ;B[gs]
 ;W[is]
 ;B[co]
-;W[ao]C[It's a seki, but black can do better.]))
+;W[ao]C[It's a seki, but Black can do better.]))
 (;B[bo]
 ;W[bs]
 ;B[as]
@@ -166,7 +166,7 @@ http://gogameguru.com/]
 (;B[bp]
 ;W[cp]
 ;B[aq]
-;W[bo]C[It's a ko, but black can do better.])
+;W[bo]C[It's a ko, but Black can do better.])
 (;B[bs]
 ;W[cp]
 ;B[ds]
@@ -182,6 +182,6 @@ http://gogameguru.com/]
 (;B[co]
 ;W[ao]
 ;B[an]
-;W[bp]LB[hs:A]C[If Black plays at A next, it's a seki, but black can do better.])
+;W[bp]LB[hs:A]C[If Black plays at A next, it's a seki, but Black can do better.])
 (;B[ao]
 ;W[as]C[Black can do better.])))

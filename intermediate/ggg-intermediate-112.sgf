@@ -9,7 +9,7 @@ http://gogameguru.com/]
 ;W[oq]
 (;B[np]C[Correct])
 (;B[mr]C[Correct])
-(;B[mp]C[It's possible, but black can do better.]))
+(;B[mp]C[It's possible, but Black can do better.]))
 (;B[mr]
 ;W[nq]))
 (;W[mr]
@@ -27,13 +27,13 @@ http://gogameguru.com/]
 ;B[qs]
 ;W[rs]
 ;B[sr]
-;W[ps]C[It's a ko, but black can do better.])
+;W[ps]C[It's a ko, but Black can do better.])
 (;B[rs]
 ;W[qs]
 ;B[sr]
 ;W[ss]
 ;B[sq]
-;W[oq]C[It's a ko, but black can do better.]))
+;W[oq]C[It's a ko, but Black can do better.]))
 (;B[sr]
 ;W[or])))
 (;B[oq]
@@ -74,14 +74,14 @@ http://gogameguru.com/]
 ;B[qs]
 ;W[rs]
 ;B[sr]
-;W[ps]C[It's a ko, but black can do better.])
+;W[ps]C[It's a ko, but Black can do better.])
 (;B[rs]
 ;W[qs]
 ;B[sr]
 ;W[ss]
 ;B[sq]
 ;W[nq]
-;B[rs]C[It's a ko, but black can do better.])))
+;B[rs]C[It's a ko, but Black can do better.])))
 (;B[mr]C[Correct]))
 (;W[pr]
 ;B[mr]C[Correct]))
