@@ -59,7 +59,7 @@ You can also search for the problems from a particular week here: https://gogame
 ### Go Problems Online
 If you've mastered all of these problems and are looking for more, we recommend trying [Ulrich Goertz's classical problem collections](http://www.u-go.net/classic/).
 
-You can also find printable versions of several classical Go problem collections on [Tasuki's website](http://tsumego.tasuki.org/) - however, they don't come with solutions. We only recommend working through problems with no solutions if you're already quite strong, otherwise your progress will be slower than it would be otherwise.
+You can also find printable versions of several classical Go problem collections on [Tasuki's website](http://tsumego.tasuki.org/). However, they don't come with solutions. We only recommend working through problems with no solutions if you're already quite strong, otherwise your progress will be slower than it would be otherwise.
 
 You can find a long list of Go problem sites of varying quality at [Sensei's Library](http://senseis.xmp.net/?GoProblemsOnTheInternet).
 
@@ -72,8 +72,7 @@ We sell a curated selection of English language Go books on our website and you 
 
 * [Graded Go Problems for Beginners](https://shop.gogameguru.com/go-books/go-book-series/graded-go-problems-for-beginners/) (for beginners and intermediate players)
 
-* [The Ins and Outs of Life and
-* Death](https://shop.gogameguru.com/ins-and-outs-of-life-and-death/) (for intermediate and advanced players)
+* [The Ins and Outs of Life and Death](https://shop.gogameguru.com/ins-and-outs-of-life-and-death/) (for intermediate and advanced players)
 
 ## What Else Can I Do to Get Better at Go?
 
