@@ -66,7 +66,7 @@ You can find a long list of Go problem sites of varying quality at [Sensei's Lib
 ### Go Problems in Books
 The solutions to many Go problems found on the internet can be hit and miss (or are sometimes non-existent). Because of that, the best study material is often found in Go books (which tend to be edited more carefully).
 
-We sell a curated selection of English language Go books on our website and you can [find books containing Go problems here](https://shop.gogameguru.com/go-books/go-problems/)
+We sell a curated selection of English language Go books on our website and you can [find books containing Go problems here](https://shop.gogameguru.com/go-books/go-problems/).
 
 **We particularly recommend:**
 
