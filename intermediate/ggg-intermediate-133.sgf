@@ -6,7 +6,7 @@ http://gogameguru.com]
 (;B[br]
 (;W[cq]
 (;B[bq]
-;W[jq]
+(;W[jq]
 (;B[eq]
 (;W[dp]
 ;B[dr]
@@ -24,7 +24,7 @@ http://gogameguru.com]
 ;W[cr]
 (;B[eq]
 ;W[er]
-;B[dp]C[Also Correct])
+;B[dp]C[This is also possible, but there's a clearer way for Black.])
 (;B[cs]
 ;W[er]
 ;B[eq]
@@ -36,9 +36,15 @@ http://gogameguru.com]
 ;B[do]
 ;W[dn]
 ;B[bo]
-;W[am]C[It's a ko, but black can do better. ]))
+;W[am]C[It's a ko, but Black can do better. ]))
 (;B[er]
 ;W[dr]C[Black can do better.]))
+(;W[cr]
+;B[kq]
+(;W[cp]
+;B[bs]C[Correct])
+(;W[bs]
+;B[cp]C[Correct])))
 (;B[kq]
 ;W[bq]))
 (;W[cr]
@@ -49,7 +55,7 @@ http://gogameguru.com]
 ;W[er]
 ;B[eq]
 ;W[ds]
-;B[dp]C[Correct]))
+;B[dp]C[Also correct]))
 (;B[kq]
 ;W[bq]
 ;B[aq]
@@ -63,7 +69,10 @@ http://gogameguru.com]
 ;B[aq]
 ;W[cq]))
 (;W[dr]
-;B[kq]C[Correct]))
+(;B[kq]C[Correct])
+(;B[cr]
+;W[jq])
+(;B[kr]C[This is also possible, but Black can do better.])))
 (;B[cq]
 ;W[dr]
 (;B[cr]
@@ -75,7 +84,7 @@ http://gogameguru.com]
 ;B[bq]
 ;W[aq]
 ;B[dp]
-;W[do]C[It's a ko, but black can do better.])
+;W[do]C[It's a ko, but Black can do better.])
 (;B[br]
 ;W[jq]))
 (;B[cr]
@@ -87,7 +96,11 @@ http://gogameguru.com]
 (;B[kq]
 ;W[cq]
 ;B[bq]
-;W[br]))
+;W[br]
+(;B[cp]
+;W[am])
+(;B[aq]
+;W[am])))
 (;B[kq]
 ;W[cq]
 ;B[bq]
@@ -110,8 +123,12 @@ http://gogameguru.com]
 ;W[er]
 ;B[cs]
 ;W[dr]
-;B[bs]
+(;B[bs]
 ;W[jq])
+(;B[kq]
+;W[bs]
+;B[as]
+;W[aq]))
 (;B[dr]
 ;W[cr]
 ;B[es]

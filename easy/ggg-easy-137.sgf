@@ -4,7 +4,7 @@ AW[qk][qn][qo][np][op][pp][lq][mq][qq][qr]AB[rn][mo][ro][mp][qp][rp][nq][oq][pq]
 
 http://gogameguru.com]
 (;B[po]
-;W[oo]
+(;W[oo]
 (;B[on]
 ;W[pn]
 (;B[no]
@@ -12,22 +12,32 @@ http://gogameguru.com]
 (;B[pm]
 ;W[qm]
 ;B[ql]
-;W[rm]
+(;W[rm]
 (;B[rl]C[Correct])
 (;B[sm]
 ;W[rl]))
+(;W[pl]
+;B[rm]C[Correct]))
 (;B[qm]
 ;W[pm]
 ;B[pl]
 ;W[om]
-;B[nm]
+(;B[nm]
 ;W[ol]
 ;B[ok]
 ;W[nl]
 ;B[ml]
 ;W[nk]
 ;B[nj]
-;W[mk]LB[on:A]C[This ladder doesn't work for black, because the stone A is in atari. ])
+;W[mk]LB[on:A]C[This ladder doesn't work for Black, because Black A is in atari. ])
+(;B[ol]
+;W[nm]
+;B[nl]
+;W[mm])
+(;B[nl]
+;W[ql]
+;B[rm]
+;W[ol]))
 (;B[om]
 ;W[qm]
 ;B[ql]
@@ -48,6 +58,9 @@ http://gogameguru.com]
 ;W[on]
 ;B[qm]
 ;W[om]C[Black can do better. ]))
+(;W[nr]
+(;B[no]C[Correct])
+(;B[oo]C[Correct])))
 (;B[on]
 ;W[nr]
 ;B[po]

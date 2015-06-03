@@ -33,7 +33,13 @@ http://gogameguru.com]
 ;B[er]
 ;W[aq]
 (;B[dr]C[Correct])
-(;B[ds]C[Correct])))
+(;B[ds]C[Correct]))
+(;W[er]
+(;B[gr]C[Correct])
+(;B[hr]C[Correct])
+(;B[gs]C[Correct])
+(;B[dr]
+;W[gr])))
 (;B[gr]
 ;W[ap]
 ;B[fr]

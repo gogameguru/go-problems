@@ -11,9 +11,13 @@ http://gogameguru.com]
 ;W[ds]
 ;B[br]C[Correct])
 (;W[cs]
-;B[dr]
+(;B[dr]
 ;W[er]
-;B[ds]C[Correct]))
+(;B[ds]C[Correct])
+(;B[br]
+;W[ds]))
+(;B[ds]
+;W[dr])))
 (;B[cs]
 ;W[ap])
 (;B[dr]
@@ -38,8 +42,6 @@ http://gogameguru.com]
 (;W[ap]
 ;B[bs]C[Correct])
 (;W[bs]
-;B[ap]C[Correct])
-(;W[ds]
 ;B[ap]C[Correct]))
 (;B[ap]
 ;W[cs]
@@ -50,6 +52,8 @@ http://gogameguru.com]
 (;B[dr]
 ;W[br])
 (;B[br]
+;W[dr])
+(;B[aq]
 ;W[dr]))
 (;B[br]
 ;W[dr]

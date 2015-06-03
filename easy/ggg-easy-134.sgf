@@ -11,7 +11,9 @@ http://gogameguru.com]
 ;W[es]
 (;B[ds]
 (;W[dr]
-;B[aq]C[Correct])
+(;B[aq]C[Correct])
+(;B[es]
+;W[gs]))
 (;W[as]
 (;B[gs]C[Correct])
 (;B[es]C[Correct])))
@@ -20,9 +22,11 @@ http://gogameguru.com]
 (;B[es]
 ;W[bo])
 (;B[ao]
-;W[bo]C[It's a ko, but black can do better. ]))
+;W[bo]C[It's a ko, but Black can do better. ]))
 (;B[ap]
-;W[fs])
+;W[fs]
+;B[as]
+;W[ar])
 (;B[as]
 ;W[ar]))
 (;B[eq]

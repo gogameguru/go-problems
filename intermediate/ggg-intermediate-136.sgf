@@ -8,7 +8,7 @@ http://gogameguru.com]
 (;B[fs]
 (;W[gp]
 (;B[hs]
-;W[ho]
+(;W[ho]
 (;B[ip]
 ;W[go]
 (;B[gs]
@@ -30,9 +30,13 @@ http://gogameguru.com]
 ;W[im]
 ;B[hl]
 ;W[in]))
-(;B[in]C[This is also possible, but black can do better. ]))
+(;B[in]C[This is also possible.]))
 (;B[gs]
 ;W[ip]))
+(;W[go]
+;B[gs]
+;W[gq]
+;B[hn]C[Correct]))
 (;B[go]
 ;W[cs]
 ;B[gq]
@@ -48,7 +52,11 @@ http://gogameguru.com]
 (;B[is]
 ;W[gp]
 ;B[go]
-;W[cs]C[It's a ko, but black can do better. ])))
+;W[cs]C[It's a ko, but Black can do better. ]))
+(;W[cs]
+;B[hs]
+;W[gp]
+;B[gs]C[Correct]))
 (;B[hs]
 ;W[fs]
 (;B[gp]
