@@ -1,10 +1,10 @@
 (;GM[1]FF[4]CA[UTF-8]AP[CGoban:3]ST[2]
 RU[Japanese]SZ[19]KM[0.00]
-SO[http://gogameguru.com/]AW[qk][no][ip][nq]AB[qm][pn][lp][pp][oq]C[Black to play.
+SO[https://gogameguru.com/]AW[qk][no][ip][nq]AB[qm][pn][lp][pp][oq]C[Black to play.
 
-How can black connect his all stones?
+How can Black connect his all stones?
 
-http://gogameguru.com/]
+https://gogameguru.com/]
 (;B[mq]
 (;W[np]
 ;B[nr]C[Correct])
@@ -22,7 +22,7 @@ http://gogameguru.com/]
 ;W[lr]
 (;B[nr]
 ;W[kp]C[This is a kind of net, not really a ladder.]
-;B[lo]C[If black tries to escape...]
+;B[lo]C[If Black tries to escape...]
 ;W[ln]
 ;B[ko]
 ;W[jn]
@@ -40,7 +40,7 @@ http://gogameguru.com/]
 ;W[kn]))
 (;B[kp]
 ;W[nr])))
-(;W[mq]C[This is also good for white. ]
+(;W[mq]C[This is also good for White.]
 ;B[mo]
 ;W[lo]
 ;B[mn]
@@ -52,4 +52,4 @@ http://gogameguru.com/]
 ;B[kq]
 ;W[kp]C[White can manage the situation lightly like this. Other moves are possible too.])
 (;B[ko]
-;W[mr]LB[nm:A][kq:B]C[A and B are miai for white next.]))
+;W[mr]LB[nm:A][kq:B]C[A and B are miai for White next.]))

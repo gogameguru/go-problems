@@ -1,8 +1,8 @@
 (;GM[1]FF[4]CA[UTF-8]AP[CGoban:3]ST[2]
 RU[Japanese]SZ[19]KM[0.00]
-SO[http://gogameguru.com/]AW[eo][fo][go][dp][gp][eq][hq][er][hr][hs]AB[en][fn][gn][hn][bo][co][do][ho][fp][hp][cq][fq][iq][cr][ir]C[Black to play.
+SO[https://gogameguru.com/]AW[eo][fo][go][dp][gp][eq][hq][er][hr][hs]AB[en][fn][gn][hn][bo][co][do][ho][fp][hp][cq][fq][iq][cr][ir]C[Black to play.
 
-http://gogameguru.com/]
+https://gogameguru.com/]
 (;B[fs]
 (;W[es]
 (;B[ep]
@@ -12,11 +12,11 @@ http://gogameguru.com/]
 ;B[dq]
 ;W[gs]
 (;B[ep]C[Correct])
-(;B[fr]LB[ep:A]C[This move also kills white, it's second best to the throw in at 'A' though.
+(;B[fr]LB[ep:A]C[This move also kills White, it's second best to the throw in at 'A' though.
 
-Playing this move as the throw in at 'A' would be better style. That's because black stands to lose less if white brings this group back to life (e.g. using a ko elsewhere on the board to get two moves in a row later). Also, white has three ko threats here now, but if black had played A, there would only be two. It's a small difference, but accumulating small advantages can eventually give you a big advantage in Go.]))
+Playing this move as the throw in at 'A' would be better style. That's because Black stands to lose less if White brings this group back to life (e.g. using a ko elsewhere on the board to get two moves in a row later). Also, White has three ko threats here now, but if Black had played A, there would only be two. It's a small difference, but accumulating small advantages can eventually give you a big advantage in Go.]))
 (;W[dq]
-;B[is]TR[dp][dq][eq][er][es]C[Correct. White can't stop black from capturing the marked stones.]))
+;B[is]TR[dp][dq][eq][er][es]C[Correct. White can't stop Black from capturing the marked stones.]))
 (;B[gq]
 ;W[ep])
 (;B[fr]

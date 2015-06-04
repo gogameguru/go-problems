@@ -1,8 +1,8 @@
 (;GM[1]FF[4]CA[UTF-8]AP[CGoban:3]ST[2]
 RU[Japanese]SZ[19]KM[0.00]
-SO[http://gogameguru.com/]AW[rp][oq][pq][rq][rr][sr]AB[oo][qo][ro][np][pp][nq][nr][ns]C[Black to play.
+SO[https://gogameguru.com/]AW[rp][oq][pq][rq][rr][sr]AB[oo][qo][ro][np][pp][nq][nr][ns]C[Black to play.
 
-http://gogameguru.com/]
+https://gogameguru.com/]
 (;B[ps]
 (;W[qs]
 (;B[rs]
@@ -44,10 +44,10 @@ http://gogameguru.com/]
 (;W[rs])
 (;W[qq]LB[qq:A]C[White A is a bad move.]
 ;B[qs]
-;W[or]LB[or:B][pr:D][rs:C]C[B is white's best move now. If white plays C or D instead, black will take the other one (D or C).]
+;W[or]LB[or:B][pr:D][rs:C]C[B is White's best move now. If White plays C or D instead, Black will take the other one (D or C).]
 ;B[os]
 ;W[qr]
-;B[pr]LB[qq:A]C[Black gets a ko because of white's mistake at A.]))
+;B[pr]LB[qq:A]C[Black gets a ko because of White's mistake at A.]))
 (;B[qr]
 ;W[qq]
 ;B[rs]

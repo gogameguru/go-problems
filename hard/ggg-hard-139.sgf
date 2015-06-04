@@ -2,7 +2,7 @@
 RU[Japanese]SZ[19]KM[0.00]
 AW[lm][mm][nm][qm][ln][on][pn][jo][lo][kp][pp][qp][jq][lq][mq][rq][jr][lr][rr][ps][rs]AB[mn][nn][oo][lp][mp][np][op][kq][pq][qq][kr][nr][qr][qs]C[Black to play.
 
-http://gogameguru.com]
+https://gogameguru.com/]
 (;B[mr]
 (;W[ks]
 (;B[oq]
@@ -42,8 +42,10 @@ http://gogameguru.com]
 ;W[oq]
 ;B[pr]
 ;W[nq]
-;B[or]
-;W[ms]))
+(;B[or]
+;W[ms])
+(;B[ms]
+;W[or])))
 (;W[or]
 (;B[oq]
 ;W[mo]
@@ -62,7 +64,7 @@ http://gogameguru.com]
 ;W[ls]
 ;B[nq]
 ;W[ks]
-;B[pr]C[Correct])
+;B[pr]C[Also correct])
 (;B[nq]
 ;W[ks]
 ;B[ms]
@@ -84,9 +86,13 @@ http://gogameguru.com]
 (;W[pr]
 ;B[oq]
 ;W[mo]
-;B[ms]
-;W[ks]
+(;B[ms]
+(;W[ks]
 ;B[os]C[Correct])
+(;W[os]
+;B[ks]C[Correct]))
+(;B[os]
+;W[ms]))
 (;W[oq]
 ;B[nq]
 (;W[pr]
@@ -96,7 +102,9 @@ http://gogameguru.com]
 (;W[ms]
 ;B[nq]
 ;W[ks]
-;B[or]C[Correct])
+(;B[or]C[Correct])
+(;B[os]C[Correct])
+(;B[pr]C[Correct]))
 (;W[mo]
 ;B[nq]
 (;W[ks]
@@ -117,10 +125,12 @@ http://gogameguru.com]
 ;W[ms]))
 (;B[os]
 ;W[pr]
-;B[ms]
+(;B[ms]
 ;W[mr]
 ;B[ks]
-;W[js]))
+;W[js])
+(;B[mr]
+;W[ms])))
 (;B[mo]
 ;W[oq]
 ;B[nq]

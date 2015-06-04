@@ -1,8 +1,8 @@
 (;GM[1]FF[4]CA[UTF-8]AP[CGoban:3]ST[2]
 RU[Japanese]SZ[19]KM[0.00]
-SO[http://gogameguru.com/]AW[eq][fq][gq][hq][cr][dr][hr][ir][cs][js]AB[bp][dp][ep][fp][gp][hp][cq][iq][jq][br][fr][gr][jr][kr][bs]C[Black to play.
+SO[https://gogameguru.com/]AW[eq][fq][gq][hq][cr][dr][hr][ir][cs][js]AB[bp][dp][ep][fp][gp][hp][cq][iq][jq][br][fr][gr][jr][kr][bs]C[Black to play.
 
-http://gogameguru.com/]
+https://gogameguru.com/]
 (;B[er]
 ;W[dq]
 (;B[es]
@@ -19,7 +19,7 @@ http://gogameguru.com/eternal-life/])
 (;B[ks]
 ;W[ds]))
 (;W[hs]
-;B[fs]LB[hs:A]C[White's died, so white shouldn't take the stone at A. ]))
+;B[fs]LB[hs:A]C[White's died, so White shouldn't take the stone at A.]))
 (;B[fs]
 ;W[ds]
 (;B[is]
@@ -35,7 +35,7 @@ http://gogameguru.com/eternal-life/])
 (;B[fs]
 ;W[es]
 ;B[ds]
-;W[hs]LB[ks:A]C[White's alive in double ko. Even if black plays at A now, white can ignore it and is still alive.])
+;W[hs]LB[ks:A]C[White's alive in double ko. Even if Black plays at A now, White can ignore it and is still alive.])
 (;B[gs]
 ;W[es]
 ;B[ks]

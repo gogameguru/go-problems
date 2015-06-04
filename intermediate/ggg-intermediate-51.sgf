@@ -1,14 +1,14 @@
 (;GM[1]FF[4]CA[UTF-8]AP[CGoban:3]ST[2]
 RU[Japanese]SZ[19]KM[0.00]
-SO[http://gogameguru.com/]AW[fk][bl][cl][gl][dm][fm][en][fn][go][gp][hp][eq][fq][gq][iq]AB[bm][cm][gm][im][bn][dn][gn][co][do][fo][ho][io][dp][fp][ip][dq][hq]C[Black to play.
+SO[https://gogameguru.com/]AW[fk][bl][cl][gl][dm][fm][en][fn][go][gp][hp][eq][fq][gq][iq]AB[bm][cm][gm][im][bn][dn][gn][co][do][fo][ho][io][dp][fp][ip][dq][hq]C[Black to play.
 
-http://gogameguru.com/]
+https://gogameguru.com/]
 (;B[ir]
 (;W[hr]
 ;B[jq]
 (;W[jr]
 ;B[hq]C[Correct. Black can make a ko.])
-(;W[hq]LB[jr:A]C[Connecting isn't good for white. White should fight a ko at A instead.]
+(;W[hq]LB[jr:A]C[Connecting isn't good for White. White should fight a ko at A instead.]
 ;B[jr]
 ;W[dr]
 ;B[cr]

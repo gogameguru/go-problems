@@ -1,8 +1,8 @@
 (;GM[1]FF[4]CA[UTF-8]AP[CGoban:3]ST[2]
 RU[Japanese]SZ[19]KM[0.00]
-SO[http://gogameguru.com/]AW[co][cp][cq][dr]AB[cj][cn][dn][do][dp][eq][hq][er]C[Black to play.
+SO[https://gogameguru.com/]AW[co][cp][cq][dr]AB[cj][cn][dn][do][dp][eq][hq][er]C[Black to play.
 
-http://gogameguru.com/]
+https://gogameguru.com/]
 (;B[bo]
 (;W[bp]
 ;B[br]
@@ -13,7 +13,7 @@ http://gogameguru.com/]
 ;W[ap]
 ;B[ds]C[Correct])
 (;B[aq]
-;W[ar]C[It's a ko, but black can do better.])
+;W[ar]C[It's a ko, but Black can do better.])
 (;B[ds]
 ;W[ar]))
 (;W[ar]
@@ -25,9 +25,9 @@ http://gogameguru.com/]
 (;B[bq]
 ;W[ds]))
 (;B[aq]
-;W[bs]C[It's a ko, but black can do better.])))
+;W[bs]C[It's a ko, but Black can do better.])))
 (;B[bm]
-;W[ao]LB[bm:A][ao:B]C[Playing A and letting white atari at B is a big mistake.]
+;W[ao]LB[bm:A][ao:B]C[Playing A and letting White atari at B is a big mistake.]
 ;B[bn]
 ;W[bs]
 (;B[ar]
@@ -41,7 +41,7 @@ http://gogameguru.com/]
 (;B[as]
 ;W[bq]
 ;B[cs]
-;W[ap]C[White doesn't actually have to play here right now, but will play here when black fills a liberty. White's alive in double ko.])
+;W[ap]C[White doesn't actually have to play here right now, but will play here when Black fills a liberty. White's alive in double ko.])
 (;B[ap]
 ;W[bq]
 (;B[an]
@@ -112,7 +112,7 @@ http://gogameguru.com/]
 (;B[ds]
 ;W[bs]
 (;B[aq]
-;W[ar]C[It's a ko, but black can do better.])
+;W[ar]C[It's a ko, but Black can do better.])
 (;B[ar]
 ;W[bn]
 (;B[bm]
@@ -172,12 +172,12 @@ http://gogameguru.com/]
 ;B[aq]
 ;W[ao]
 ;B[as]
-;W[cs]LB[aq:B][ar:A][ds:C]C[This is a 10,000 year ko. Black can do a lot better. If white plays A at B, it would still be a ko in this case because this shape doesn't quite have enough liberties to force a seki (due to the stone at C).])
+;W[cs]LB[aq:B][ar:A][ds:C]C[This is a 10,000 year ko. Black can do a lot better. If White plays A at B, it would still be a ko in this case because this shape doesn't quite have enough liberties to force a seki (due to the stone at C).])
 (;W[aq]
 (;B[ar]
 ;W[ap]
 ;B[an]
-;W[ao]C[White's live in seki. ])
+;W[ao]C[White's live in seki.])
 (;B[ap]
 ;W[ar]
 ;B[as]

@@ -2,7 +2,7 @@
 RU[Japanese]SZ[19]KM[0.00]
 AW[po][pp][nq][oq][qq][lr][mr][nr][qr]AB[qm][nn][pn][mo][qo][np][qp][jq][lq][mq][rq][kr][rr]C[Black to play.
 
-http://gogameguru.com]
+https://gogameguru.com/]
 (;B[qs]
 (;W[ps]
 (;B[ls]
@@ -16,13 +16,13 @@ http://gogameguru.com]
 ;W[op]
 ;B[pr]C[Correct])
 (;B[pr]
-;W[or]C[It's a ko, but black can do better.])
+;W[or]C[It's a ko, but Black can do better.])
 (;B[pq]
 ;W[op]))
 (;B[pr]
 ;W[rs]
 (;B[os]
-;W[or]C[It's a ko, but black can do better.])
+;W[or]C[It's a ko, but Black can do better.])
 (;B[or]
 ;W[os]))
 (;B[op]
@@ -41,7 +41,7 @@ http://gogameguru.com]
 ;W[ms]
 ;B[os]C[Correct])
 (;B[os]
-;W[or]C[It's a ko, but black can do better.]))
+;W[or]C[It's a ko, but Black can do better.]))
 (;B[ms]
 ;W[pr]))
 (;W[or]
@@ -63,6 +63,18 @@ http://gogameguru.com]
 (;B[or]
 ;W[ls])
 (;B[ls]
+;W[or]))
+(;B[os]
+;W[rs]
+(;B[op]
+;W[pq]
+;B[or]
+;W[ls]LB[ns:A]C[White's alive. Even if Black plays A next, White is already alive in seki.])
+(;B[pr]
+;W[qs]
+;B[or]
+;W[ls])
+(;B[ls]
 ;W[or])))
 (;W[pr]
 ;B[os]
@@ -78,12 +90,14 @@ http://gogameguru.com]
 ;W[or])
 (;B[rs]
 ;W[or]
-;B[qs]
+(;B[qs]
 ;W[ns]
 ;B[pq]
 ;W[pr]
 ;B[op]
 ;W[ls])
+(;B[ls]
+;W[op]))
 (;B[pr]
 ;W[qs]
 ;B[or]
@@ -99,7 +113,7 @@ http://gogameguru.com]
 (;B[op]
 ;W[pq]
 (;B[or]
-;W[ls]LB[ns:A]C[White's alive. Even if Black plays at A next, white's already alive in seki.])
+;W[ls]LB[ns:A]C[White's alive. Even if Black plays A next, White is already alive in seki.])
 (;B[ls]
 ;W[or])))
 (;B[pr]

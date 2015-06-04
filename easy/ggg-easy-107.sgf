@@ -12,7 +12,7 @@ AW[on][pn][qn][op][qp][rp][pq][pr]AB[po][lp][pp][nq][qq][qr][rr]
 ;B[os]C[Correct])
 (;W[po]
 ;B[or]C[Correct]))
-(;B[or]C[There's a better move for this. ]))
+(;B[or]C[There's a better move for this.]))
 (;W[or]
 ;B[nr]
 ;W[qo]
@@ -38,19 +38,19 @@ AW[on][pn][qn][op][qp][rp][pq][pr]AB[po][lp][pp][nq][qq][qr][rr]
 (;B[os]
 ;W[qo]
 (;B[pp]C[Correct])
-(;B[ps]C[There's a better move for this. ]))
+(;B[ps]C[There's a better move for this.]))
 (;B[ps]
 ;W[qo]
 (;B[pp]C[Correct])
-(;B[os]C[There's a better move for this. ]))))
+(;B[os]C[There's a better move for this.]))))
 (;B[ps]
 ;W[oq]
 (;B[or]
 ;W[nr]
 ;B[os]
 ;W[np]
-;B[mq]LB[ps:A]C[This is also possible, but there was a better move for A. ])
-(;B[ns]LB[ps:A]C[This is also possible, but there was a better move for A. ])
+;B[mq]LB[ps:A]C[This is also possible, but there was a better move for A.])
+(;B[ns]LB[ps:A]C[This is also possible, but there was a better move for A.])
 (;B[nr]
 ;W[os]))
 (;B[or]

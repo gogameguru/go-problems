@@ -1,18 +1,18 @@
 (;GM[1]FF[4]CA[UTF-8]AP[CGoban:3]ST[2]
 RU[Japanese]SZ[19]KM[0.00]
-SO[http://gogameguru.com/]AW[pq][qq][or][rr][ps]AB[po][op][qp][rp][mq][oq][nr]C[Black to play.
+SO[https://gogameguru.com/]AW[pq][qq][or][rr][ps]AB[po][op][qp][rp][mq][oq][nr]C[Black to play.
 
-http://gogameguru.com/]
+https://gogameguru.com/]
 (;B[sr]
 ;W[sq]
 ;B[rq]
 ;W[qr]
 (;B[rs]
-;W[ss]C[Correct. It's a ko. ])
+;W[ss]C[Correct. It's a ko.])
 (;B[ns]
 ;W[os]
 ;B[rs]
-;W[ss]LB[ns:A][os:B]C[Correct. It's a ko, but black should exchange of A for B as a ko threat. ]))
+;W[ss]LB[ns:A][os:B]C[Correct. It's a ko, but Black should exchange of A for B as a ko threat.]))
 (;B[rq]
 ;W[sr]
 ;B[qs]

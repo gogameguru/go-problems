@@ -1,8 +1,8 @@
 (;GM[1]FF[4]CA[UTF-8]AP[CGoban:3]ST[2]
 RU[Japanese]SZ[19]KM[0.00]
-SO[http://gogameguru.com/]AW[em][en][gn][co][do][jp][dq][hq]AB[dk][el][dm][dn][eo][fo][fq]C[Black to play.
+SO[https://gogameguru.com/]AW[em][en][gn][co][do][jp][dq][hq]AB[dk][el][dm][dn][eo][fo][fq]C[Black to play.
 
-http://gogameguru.com/]
+https://gogameguru.com/]
 (;B[hp]
 (;W[ip]
 (;B[gm]
@@ -34,7 +34,7 @@ http://gogameguru.com/]
 ;W[cr]
 ;B[iq]LB[cq:A]C[Correct
 
-Locally black has lots more ko threats, starting with A. After black wins the ko, white's outside stones will be very thin.])
+Locally Black has lots more ko threats, starting with A. After Black wins the ko, White's outside stones will be very thin.])
 (;B[ho]
 ;W[jn]
 ;B[iq]
@@ -50,7 +50,7 @@ Locally black has lots more ko threats, starting with A. After black wins the ko
 ;W[ir]
 ;B[hn]LB[jr:A]C[Correct
 
-It's not easy for white to answer this move. Black can still start a ko at A after forcing here.]))
+It's not easy for White to answer this move. Black can still start a ko at A after forcing here.]))
 (;B[go]
 ;W[hn]
 ;B[ho]
@@ -76,7 +76,7 @@ It's not easy for white to answer this move. Black can still start a ko at A aft
 ;B[hr]
 ;W[jq]
 ;B[gq]
-;W[ir]C[This is ok too, but white's center stones are a bit stronger than in other variations.])
+;W[ir]C[This is ok too, but White's center stones are a bit stronger than in other variations.])
 (;B[hn]
 ;W[go]
 (;B[ho]

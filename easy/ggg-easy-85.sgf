@@ -1,8 +1,8 @@
 (;GM[1]FF[4]CA[UTF-8]AP[CGoban:3]ST[2]
 RU[Japanese]SZ[19]KM[0.00]
-SO[http://gogameguru.com/]AW[qn][rn][sn][qo][np][pp][rp][pq][nr][pr][qr][os]AB[qm][rm][pn][po][qp][qq][rq][rr][ps][qs][rs]C[Black to play.
+SO[https://gogameguru.com/]AW[qn][rn][sn][qo][np][pp][rp][pq][nr][pr][qr][os]AB[qm][rm][pn][po][qp][qq][rq][rr][ps][qs][rs]C[Black to play.
 
-http://gogameguru.com/]
+https://gogameguru.com/]
 (;B[so]
 (;W[sq]
 (;B[sm]
@@ -38,13 +38,13 @@ http://gogameguru.com/]
 (;B[sm]
 ;W[so]
 (;B[sq]
-;W[sr]LB[pm:A]C[This is a seki, but now black has to worry about the cutting point at A.])
+;W[sr]LB[pm:A]C[This is a seki, but now Black has to worry about the cutting point at A.])
 (;B[sp]
 ;W[sq]
 ;B[sr]
 ;W[ss])
 (;B[sr]
-;W[sp]LB[pm:A][sq:B]C[This is a seki, but now black has to worry about the cutting point at A. White could also have chosen to fight a ko at B.]))
+;W[sp]LB[pm:A][sq:B]C[This is a seki, but now Black has to worry about the cutting point at A. White could also have chosen to fight a ko at B.]))
 (;B[ro]
 ;W[so]
 ;B[sq]

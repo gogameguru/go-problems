@@ -1,8 +1,8 @@
 (;GM[1]FF[4]CA[UTF-8]AP[CGoban:3]ST[2]
 RU[Japanese]SZ[19]KM[0.00]
-SO[http://gogameguru.com/]AW[bn][jn][ln][cp][jp][kp][cq][dq][fq][lq][mq][nq][oq][pq][gr][lr][pr][qr]AB[dn][go][io][dp][ep][ip][lp][mp][np][op][pp][qp][iq][kq][qq][kr][rr]C[Black to play.
+SO[https://gogameguru.com/]AW[bn][jn][ln][cp][jp][kp][cq][dq][fq][lq][mq][nq][oq][pq][gr][lr][pr][qr]AB[dn][go][io][dp][ep][ip][lp][mp][np][op][pp][qp][iq][kq][qq][kr][rr]C[Black to play.
 
-http://gogameguru.com/]
+https://gogameguru.com/]
 (;B[ms]
 (;W[ks]
 (;B[ir]
@@ -207,14 +207,14 @@ http://gogameguru.com/]
 (;B[ms]
 ;W[ls]
 ;B[os]
-;W[ps]LB[ns:A]C[Even if black plays at A, white lives in seki.])
+;W[ps]LB[ns:A]C[Even if Black plays at A, White lives in seki.])
 (;B[os]
 ;W[ps]
 ;B[ms]
-;W[ls]LB[ns:A]C[Even if black plays at A, white lives in seki.]))
+;W[ls]LB[ns:A]C[Even if Black plays at A, White lives in seki.]))
 (;B[ls]
 ;W[ms]
 ;B[nr]
 ;W[ks]
 ;B[ir]
-;W[qs]LB[os:A]C[Even if black plays at A, white lives in seki.]))
+;W[qs]LB[os:A]C[Even if Black plays at A, White lives in seki.]))

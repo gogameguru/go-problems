@@ -1,8 +1,8 @@
 (;GM[1]FF[4]CA[UTF-8]AP[CGoban:3]ST[2]
 RU[Japanese]SZ[19]KM[0.00]
-SO[http://gogameguru.com/]AW[ik][gl][fm][im][dn][fn][in][co][jo][cp][jp][cq][fq][gq][jq][lq]AB[gn][hn][jn][dp][fp][gp][ip][hq][iq]C[Black to play.
+SO[https://gogameguru.com/]AW[ik][gl][fm][im][dn][fn][in][co][jo][cp][jp][cq][fq][gq][jq][lq]AB[gn][hn][jn][dp][fp][gp][ip][hq][iq]C[Black to play.
 
-http://gogameguru.com/]
+https://gogameguru.com/]
 (;B[gr]
 ;W[fr]
 (;B[gs]
@@ -25,7 +25,7 @@ http://gogameguru.com/]
 (;B[lr]C[Correct]))
 (;B[hr]
 ;W[io]
-(;B[mr]C[Correct. This is also possible. ])
+(;B[mr]C[Correct. This is also possible.])
 (;B[kq]
 ;W[kp]
 (;B[kr]
@@ -69,7 +69,7 @@ http://gogameguru.com/]
 ;B[ls]
 ;W[js])))
 (;W[kr]
-;B[is]LB[io:A][hr:B]C[Correct. A and B are miai for black.]))
+;B[is]LB[io:A][hr:B]C[Correct. A and B are miai for Black.]))
 (;B[ir]
 ;W[io])
 (;B[is]
@@ -111,7 +111,7 @@ http://gogameguru.com/]
 ;B[fs]
 ;W[es]
 ;B[ep]
-;W[gs]C[Ko, but black can do better.]))
+;W[gs]C[Ko, but Black can do better.]))
 (;B[fr]
 ;W[gr]
 (;B[eq]
@@ -235,4 +235,4 @@ http://gogameguru.com/]
 (;B[hr]
 ;W[fr]
 ;B[jr]
-;W[kr]LB[io:A][js:B]C[A and B are miai for white.]))
+;W[kr]LB[io:A][js:B]C[A and B are miai for White.]))

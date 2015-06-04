@@ -1,8 +1,8 @@
 (;GM[1]FF[4]CA[UTF-8]AP[CGoban:3]ST[2]
 RU[Japanese]SZ[19]KM[0.00]
-SO[http://gogameguru.com/]AW[ol][ql][mm][pm][mn][qn][rn][no][ro][np][mq][oq][pq][mr]AB[qm][nn][on][oo][qo][op][qp][nq][qq][nr]C[Black to play.
+SO[https://gogameguru.com/]AW[ol][ql][mm][pm][mn][qn][rn][no][ro][np][mq][oq][pq][mr]AB[qm][nn][on][oo][qo][op][qp][nq][qq][nr]C[Black to play.
 
-http://gogameguru.com/]
+https://gogameguru.com/]
 (;B[pr]
 ;W[or]
 (;B[ps]
@@ -247,7 +247,7 @@ http://gogameguru.com/]
 (;B[rr]
 ;W[ps]
 (;B[qs]
-;W[qr]C[Ko, but black can do better.])
+;W[qr]C[Ko, but Black can do better.])
 (;B[rp]
 ;W[rs]
 (;B[qr]

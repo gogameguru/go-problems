@@ -4,12 +4,12 @@ AW[qm][on][qo][lp][mp][np][qp][jq][lq][rq][kr][rr]AB[pp][mq][oq][qq][lr][mr][qr]
 (;B[qs]
 (;W[op]
 (;B[os]
-;W[pr]
+(;W[pr]
 (;B[pq]
 ;W[ls]
 (;B[ms]
 ;W[nr]
-;B[nq]LB[or:A]C[Correct. Even if white plays at A, black's already alive in seki. ])
+;B[nq]LB[or:A]C[Correct. Even if White plays A, Black is already alive in seki.])
 (;B[nq]
 ;W[ms]
 ;B[ns]
@@ -18,12 +18,19 @@ AW[qm][on][qo][lp][mp][np][qp][jq][lq][rq][kr][rr]AB[pp][mq][oq][qq][lr][mr][qr]
 ;W[pq]
 ;B[ps]
 ;W[pq]))
+(;W[ls]
+(;B[ms]
+;W[pr]
+;B[pq]
+;W[nr]
+;B[nq]C[Correct. Even if White plays A, Black is already alive in seki.])
+(;B[pr]C[Correct])))
 (;B[ls]
-;W[nq]
+(;W[nq]
 ;B[nr]
 ;W[or]
 (;B[pr]
-;W[pq]C[It's a ko, but black can do better.])
+;W[pq]C[It's a ko, but Black can do better.])
 (;B[pq]
 ;W[ns]
 ;B[os]
@@ -32,6 +39,11 @@ AW[qm][on][qo][lp][mp][np][qp][jq][lq][rq][kr][rr]AB[pp][mq][oq][qq][lr][mr][qr]
 ;W[os]
 ;B[ms]
 ;W[os]))
+(;W[or]
+;B[pr]
+;W[nq]
+;B[nr]
+;W[pq]C[It's a ko, but Black can do better.]))
 (;B[nq]
 ;W[ls]
 (;B[ms]
@@ -43,10 +55,16 @@ AW[qm][on][qo][lp][mp][np][qp][jq][lq][rq][kr][rr]AB[pp][mq][oq][qq][lr][mr][qr]
 ;B[ms]
 ;W[pq]
 ;B[pr]
-;W[os]))
+;W[os])
+(;B[os]
+;W[pr]
+;B[pq]
+;W[ms]
+;B[ns]
+;W[or]))
 (;B[pq]
 ;W[ls]
-;B[os]
+(;B[os]
 ;W[ms]
 (;B[pr]
 ;W[nr]
@@ -57,7 +75,11 @@ AW[qm][on][qo][lp][mp][np][qp][jq][lq][rq][kr][rr]AB[pp][mq][oq][qq][lr][mr][qr]
 ;B[ns]
 ;W[or]
 ;B[ks]
-;W[ls])))
+;W[ls]))
+(;B[nq]
+;W[ms]
+;B[ns]
+;W[or])))
 (;W[ls]
 (;B[os]
 (;W[pr]
@@ -71,7 +93,11 @@ AW[qm][on][qo][lp][mp][np][qp][jq][lq][rq][kr][rr]AB[pp][mq][oq][qq][lr][mr][qr]
 (;W[pq]
 (;B[op]C[Correct])
 (;B[or]
-;W[op])))
+;W[op]))
+(;W[nr]
+;B[nq]
+;W[or]
+;B[pq]C[Correct. Black is alive in seki.]))
 (;B[nq]
 ;W[ms]
 ;B[ns]
@@ -126,7 +152,7 @@ AW[qm][on][qo][lp][mp][np][qp][jq][lq][rq][kr][rr]AB[pp][mq][oq][qq][lr][mr][qr]
 ;W[op]
 (;B[pq]
 (;W[ps]
-;B[ls]LB[ns:A]C[Correct. Even if white plays at A, black's already alive in seki. ])
+;B[ls]LB[ns:A]C[Correct. Even if White plays A, Black is already alive in seki.])
 (;W[ls]
 ;B[ps]C[Correct]))
 (;B[ls]
@@ -135,7 +161,7 @@ AW[qm][on][qo][lp][mp][np][qp][jq][lq][rq][kr][rr]AB[pp][mq][oq][qq][lr][mr][qr]
 ;W[po]
 ;B[pr]C[Correct])
 (;W[ns]
-;B[pq]LB[ps:A]C[Correct. Even if white plays at A, black's already alive in seki. ])))
+;B[pq]LB[ps:A]C[Correct. Even if White plays A, Black is already alive in seki.])))
 (;W[or]
 ;B[os]
 ;W[ns]
@@ -164,8 +190,10 @@ AW[qm][on][qo][lp][mp][np][qp][jq][lq][rq][kr][rr]AB[pp][mq][oq][qq][lr][mr][qr]
 ;W[os])
 (;B[ms]
 ;W[pq]
-;B[pr]
-;W[os]))
+(;B[pr]
+;W[os])
+(;B[or]
+;W[ns])))
 (;B[or]
 ;W[ns]
 ;B[ms]
@@ -188,8 +216,10 @@ AW[qm][on][qo][lp][mp][np][qp][jq][lq][rq][kr][rr]AB[pp][mq][oq][qq][lr][mr][qr]
 ;W[qs]
 ;B[ps]
 ;W[pq]
-;B[pr]
+(;B[pr]
 ;W[ns])
+(;B[ns]
+;W[pr]))
 (;B[os]
 ;W[qs]
 (;B[nr]
@@ -204,10 +234,14 @@ AW[qm][on][qo][lp][mp][np][qp][jq][lq][rq][kr][rr]AB[pp][mq][oq][qq][lr][mr][qr]
 ;W[qs]
 (;B[pr]
 ;W[op]
-;B[ns]
+(;B[ns]
 ;W[nq]
 ;B[nr]
 ;W[ps])
+(;B[os]
+;W[nr]
+;B[nq]
+;W[ns]))
 (;B[ps]
 ;W[ns]
 ;B[op]
@@ -224,6 +258,18 @@ AW[qm][on][qo][lp][mp][np][qp][jq][lq][rq][kr][rr]AB[pp][mq][oq][qq][lr][mr][qr]
 ;W[os]
 ;B[pq]
 ;W[or])))
+(;B[os]
+;W[qs]
+(;B[pr]
+;W[nr]
+;B[nq]
+;W[op])
+(;B[ps]
+;W[nr]
+;B[nq]
+;W[pq]
+;B[pr]
+;W[op]))
 (;B[or]
 ;W[nq]
 ;B[nr]
@@ -242,6 +288,26 @@ AW[qm][on][qo][lp][mp][np][qp][jq][lq][rq][kr][rr]AB[pp][mq][oq][qq][lr][mr][qr]
 ;W[ls]
 ;B[ms]
 ;W[os]))
+(;B[op]
+;W[pr]
+(;B[or]
+;W[qs]
+;B[pq]
+;W[ps])
+(;B[qs]
+;W[nq]
+;B[nr]
+;W[ls]
+;B[or]
+;W[ms]
+;B[ns]
+;W[ps])
+(;B[ps]
+;W[os]
+;B[qs]
+;W[or]
+;B[nr]
+;W[ls]))
 (;B[pr]
 ;W[op]
 (;B[os]
@@ -257,38 +323,4 @@ AW[qm][on][qo][lp][mp][np][qp][jq][lq][rq][kr][rr]AB[pp][mq][oq][qq][lr][mr][qr]
 (;B[qs]
 ;W[nq]
 ;B[nr]
-;W[os]))
-(;B[op]
-;W[pr]
-(;B[or]
-;W[qs]
-;B[pq]
-;W[ps])
-(;B[qs]
-;W[nq]
-;B[nr]
-;W[or]
-(;B[os]
-;W[ls])
-(;B[ls]
-;W[ns]
-;B[os]
-;W[ks]))
-(;B[ps]
-;W[os]
-;B[qs]
-;W[or]
-;B[nr]
-;W[ls]))
-(;B[os]
-;W[qs]
-(;B[pr]
-;W[nr]
-;B[nq]
-;W[op])
-(;B[ps]
-;W[nr]
-;B[nq]
-;W[pq]
-;B[pr]
-;W[op])))
+;W[os])))

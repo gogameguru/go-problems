@@ -2,7 +2,7 @@
 RU[Japanese]SZ[19]KM[0.00]
 AW[bo][dp][aq][bq][dq][eq][cr][fr]AB[cm][bn][co][do][bp][ep][cq][fq][gq][br][gr]C[Black to play.
 
-http://gogameguru.com]
+https://gogameguru.com/]
 (;B[cp]
 (;W[bs]
 (;B[ar]
@@ -41,6 +41,8 @@ http://gogameguru.com]
 ;B[ds]
 ;W[cs]))
 (;B[dr]
+;W[ar])
+(;B[ds]
 ;W[ar]))
 (;W[ar]
 (;B[bs]
@@ -52,9 +54,7 @@ http://gogameguru.com]
 (;B[as]
 ;W[es]))
 (;B[fs]
-;W[es]
-;B[gs]
-;W[cs]C[It's a ko, but black can do better.]))
+;W[es]C[It's a ko, but Black can do better.]))
 (;B[dr]
 ;W[bs])))
 (;B[dr]
@@ -62,12 +62,10 @@ http://gogameguru.com]
 (;B[er]
 (;W[ap]
 ;B[cs]
-;W[bs]C[It's a ko, but black can do better. ]
-;B[as]
-;W[cq])
+;W[bs]C[It's a ko, but Black can do better.])
 (;W[bs]
 ;B[cq]
-;W[ar]C[White can also play like this. ]))
+;W[ar]C[White can also live like this.]))
 (;B[ao]
 ;W[er]))
 (;B[ar]

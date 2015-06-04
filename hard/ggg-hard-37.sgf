@@ -1,8 +1,8 @@
 (;GM[1]FF[4]CA[UTF-8]AP[CGoban:3]ST[2]
 RU[Japanese]SZ[19]KM[0.00]
-SO[http://gogameguru.com/]AW[bn][fn][gn][co][do][go][ep][fp][dq][cr][fr][ir][cs]AB[bm][cm][em][fm][gm][im][an][bo][eo][fo][io][cp][dp][gp][bq][gq][iq][jq][br][jr][bs]C[Black to play.
+SO[https://gogameguru.com/]AW[bn][fn][gn][co][do][go][ep][fp][dq][cr][fr][ir][cs]AB[bm][cm][em][fm][gm][im][an][bo][eo][fo][io][cp][dp][gp][bq][gq][iq][jq][br][jr][bs]C[Black to play.
 
-http://gogameguru.com/]
+https://gogameguru.com/]
 (;B[cq]
 (;W[dr]
 (;B[es]
@@ -163,7 +163,7 @@ http://gogameguru.com/]
 ;W[gs])
 (;B[gr]
 ;W[en])))
-(;W[eq]LB[eq:A]C[This move is a mistake for white.]
+(;W[eq]LB[eq:A]C[This move is a mistake for White.]
 ;B[es]LB[en:B][eq:A][fq:C]C[Now B and C are miai. White dies because A was a bad move.]))
 (;B[dr]
 ;W[cq]

@@ -1,8 +1,8 @@
 (;GM[1]FF[4]CA[UTF-8]AP[CGoban:3]ST[2]
 RU[Japanese]SZ[19]KM[0.00]
-SO[http://gogameguru.com/]AW[bo][co][dp][cq][cr]AB[bl][bn][cn][dn][eo][ep][dq][dr][fr]C[Black to play.
+SO[https://gogameguru.com/]AW[bo][co][dp][cq][cr]AB[bl][bn][cn][dn][eo][ep][dq][dr][fr]C[Black to play.
 
-http://gogameguru.com/]
+https://gogameguru.com/]
 (;B[br]
 ;W[bs]
 (;B[ar]
@@ -39,7 +39,7 @@ http://gogameguru.com/]
 ;B[ap]
 ;W[ao]
 ;B[do]
-;W[aq]C[It's a ko, but black can do better.])
+;W[aq]C[It's a ko, but Black can do better.])
 (;B[ao]
 (;W[bp]
 ;B[do]C[Correct])
@@ -55,7 +55,7 @@ http://gogameguru.com/]
 (;B[bq]
 ;W[an]
 ;B[am]
-;W[ao]C[It's a seki, so white's alive.]))
+;W[ao]C[It's a seki, so White's alive.]))
 (;B[bq]
 ;W[an]
 ;B[cp]
@@ -68,7 +68,7 @@ http://gogameguru.com/]
 ;W[ao]
 ;B[bq]C[Correct])
 (;W[ao]
-;B[bq]LB[ap:B][cp:A][aq:C]C[Correct. Even if white connects at A, her stones are already dead because B and C are miai.])
+;B[bq]LB[ap:B][cp:A][aq:C]C[Correct. Even if White connects at A, her stones are already dead because B and C are miai.])
 (;W[bq]
 ;B[ao]
 ;W[cp]
@@ -77,13 +77,13 @@ http://gogameguru.com/]
 ;W[ap]
 ;B[bp]
 ;W[an]
-;B[bq]LB[cp:A][aq:B]C[Correct. Even if white connects at A, her stones are already dead because Black can play at B at anytime.])
+;B[bq]LB[cp:A][aq:B]C[Correct. Even if White connects at A, her stones are already dead because Black can play at B at anytime.])
 (;B[ap]
 ;W[ao]
 ;B[bq]
 ;W[bp]
 ;B[an]
-;W[aq]C[It's a ko, but black can do better.])))
+;W[aq]C[It's a ko, but Black can do better.])))
 (;B[bq]
 (;W[ar]
 ;B[aq]
@@ -101,7 +101,7 @@ http://gogameguru.com/]
 ;W[cp]C[It's a ten thousand year ko, so Black can do better. 
 http://senseis.xmp.net/?TenThousandYearKo])
 (;B[ar]
-;W[cp]C[It's a seki, so white's alive.]))
+;W[cp]C[It's a seki, so White's alive.]))
 (;B[do]
 ;W[cp]C[It's a ten thousand year ko, so Black can do better. 
 http://senseis.xmp.net/?TenThousandYearKo])

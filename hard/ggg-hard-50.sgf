@@ -1,8 +1,8 @@
 (;GM[1]FF[4]CA[UTF-8]AP[CGoban:3]ST[2]
 RU[Japanese]SZ[19]KM[0.00]
-SO[http://gogameguru.com/]AW[cj][dk][cl][el][fl][fm][im][bn][gn][bo][go][dp][gp][dq][fq][dr]AB[ej][gj][ij][ek][dl][dm][em][co][do][fo][jo][bp][cp][cq][jq]C[Black to play.
+SO[https://gogameguru.com/]AW[cj][dk][cl][el][fl][fm][im][bn][gn][bo][go][dp][gp][dq][fq][dr]AB[ej][gj][ij][ek][dl][dm][em][co][do][fo][jo][bp][cp][cq][jq]C[Black to play.
 
-http://gogameguru.com/]
+https://gogameguru.com/]
 (;B[bm]
 ;W[cm]
 ;B[cn]
@@ -72,7 +72,7 @@ http://gogameguru.com/]
 ;W[as]
 ;B[cs]
 ;W[ds]
-;B[ar]C[It's a ko, but black can do better. ])
+;B[ar]C[It's a ko, but Black can do better.])
 (;W[ap]
 (;B[ar]
 ;W[br]
@@ -100,14 +100,14 @@ http://gogameguru.com/]
 ;B[cr]
 ;W[as]
 ;B[cs]
-;W[en]C[Now black has a ko for life in the corner, but black was able to live without ko earlier.]))
+;W[en]C[Now Black has a ko for life in the corner, but Black was able to live without ko earlier.]))
 (;B[ap]
 ;W[en]
 (;B[ar]
 ;W[br]
 (;B[cr]
-;W[as]C[It's a ko, but black can do better.]
-;B[bq]C[Even if black plays here...]
+;W[as]C[It's a ko, but Black can do better.]
+;B[bq]C[Even if Black plays here...]
 ;W[cs]C[It's still a ko. Black should try to live without ko.])
 (;B[bq]
 ;W[cr]))
@@ -120,10 +120,10 @@ http://gogameguru.com/]
 ;B[cr]
 ;W[as]
 ;B[cs]
-;W[en]C[Now black has a ko for life in the corner, but black was able to live without ko earlier.]))
+;W[en]C[Now Black has a ko for life in the corner, but Black was able to live without ko earlier.]))
 (;W[en]
 ;B[dn]
-;W[eo]C[In a real game, white would probably want to play like this to strengthen her own group in sente. The main line, while probably white's strongest attempt at resistance, would be reckless in actual play.]
+;W[eo]C[In a real game, White would probably want to play like this to strengthen her own group in sente. The main line, while probably White's strongest attempt at resistance, would be reckless in actual play.]
 ;B[ao]
 ;W[am]
 ;B[ar]
@@ -134,7 +134,7 @@ http://gogameguru.com/]
 ;W[am]
 ;B[en]C[Correct]))
 (;B[ao]
-;W[br]LB[cj:B][ao:A]C[If white's group at B is strong enough, white can answer A like this. Black has a better way to live locally.]
+;W[br]LB[cj:B][ao:A]C[If White's group at B is strong enough, White can answer A like this. Black has a better way to live locally.]
 (;B[an]
 ;W[en]
 ;B[cr]
@@ -202,7 +202,7 @@ http://gogameguru.com/]
 (;B[br]
 ;W[aq])))
 (;B[cr]
-;W[en]C[The shape (L-group http://senseis.xmp.net/?LGroup) that black made in the corner can only make one eye.]
+;W[en]C[The shape (L-group http://senseis.xmp.net/?LGroup) that Black made in the corner can only make one eye.]
 (;B[eo]
 ;W[fn])
 (;B[fn]
@@ -274,7 +274,7 @@ http://gogameguru.com/]
 ;B[cs]
 ;W[cr])))
 (;B[cr]
-;W[cn]C[The shape (L-group http://senseis.xmp.net/?LGroup) that black made in the corner can only make one eye. Black is dead. See the solution files for details.])
+;W[cn]C[The shape (L-group http://senseis.xmp.net/?LGroup) that Black made in the corner can only make one eye. Black is dead. See the solution files for details.])
 (;B[bs]
 ;W[cn]
 (;B[cm]

@@ -1,8 +1,8 @@
 (;GM[1]FF[4]CA[UTF-8]AP[CGoban:3]ST[2]
 RU[Japanese]SZ[19]KM[0.00]
-SO[http://gogameguru.com/]AW[ap][bp][cq][dr][ds]AB[bo][co][cp][ep][eq][er][es]C[Black to play.
+SO[https://gogameguru.com/]AW[ap][bp][cq][dr][ds]AB[bo][co][cp][ep][eq][er][es]C[Black to play.
 
-http://gogameguru.com/]
+https://gogameguru.com/]
 (;B[dq]
 (;W[br]
 (;B[bs]
@@ -35,14 +35,14 @@ http://gogameguru.com/]
 ;W[aq]
 ;B[ao]LB[dp:A]C[Ko is the best solution, but there's a slightly better move order that doesn't leave a cutting point at A.])
 (;B[ao]
-;W[bq]LB[cs:A]C[Even if black plays A next, white lives in seki.]))
+;W[bq]LB[cs:A]C[Even if Black plays A next, White lives in seki.]))
 (;W[bs]LB[bs:A]C[White can't play here in this case.]
 ;B[bq]
 ;W[br]
 ;B[ao]
 ;W[aq]
 ;B[bq]LB[bs:A]C[White died because 2 (A) was a bad move.])
-(;W[bq]LB[bq:B]C[This doesn't work for white either.]
+(;W[bq]LB[bq:B]C[This doesn't work for White either.]
 ;B[dq]
 (;W[cr]
 ;B[bs]LB[bq:B]C[White died because 2 (B) was a bad move.])
@@ -87,7 +87,7 @@ http://gogameguru.com/]
 (;B[ar]
 ;W[bq]
 (;B[bs]
-;W[dq]LB[cs:A]C[Even if black plays A next, white lives in seki.])
+;W[dq]LB[cs:A]C[Even if Black plays A next, White lives in seki.])
 (;B[dq]
 ;W[bs]))
 (;B[bs]
@@ -125,12 +125,12 @@ http://gogameguru.com/]
 ;B[ar]
 ;W[aq]
 ;B[bs]
-;W[as]C[It's a one step ko, but black can do better. ])
+;W[as]C[It's a one step ko, but Black can do better.])
 (;W[aq]
 ;B[bs]
 ;W[cr]
 ;B[ar]
-;W[as]C[It's a one step ko, but black can do better. ])))
+;W[as]C[It's a one step ko, but Black can do better.])))
 (;B[cr]
 ;W[br]
 (;B[bs]

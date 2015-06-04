@@ -1,8 +1,8 @@
 (;GM[1]FF[4]CA[UTF-8]AP[CGoban:3]ST[2]
 RU[Japanese]SZ[19]KM[0.00]
-SO[http://gogameguru.com/]AW[cm][dn][en][co][go][ho][fp][bq][cq][hq][iq][br][ir]AB[do][dp][gp][dq][gq][cr][dr][gr][hr]C[Black to play.
+SO[https://gogameguru.com/]AW[cm][dn][en][co][go][ho][fp][bq][cq][hq][iq][br][ir]AB[do][dp][gp][dq][gq][cr][dr][gr][hr]C[Black to play.
 
-http://gogameguru.com/]
+https://gogameguru.com/]
 (;B[es]
 (;W[fq]
 ;B[fr]
@@ -16,7 +16,7 @@ http://gogameguru.com/]
 (;W[cs]
 ;B[fr]
 ;W[eq]
-;B[ep]LB[fo:B][fq:A]C[Correct. A and B are miai, so black's alive.]))
+;B[ep]LB[fo:B][fq:A]C[Correct. A and B are miai, so Black's alive.]))
 (;B[fq]
 ;W[ep]
 ;B[fs]
@@ -36,13 +36,13 @@ http://gogameguru.com/]
 ;B[es]
 ;W[fs]
 ;B[cs]
-;W[ds]C[It's a ko, but black can do better.])
+;W[ds]C[It's a ko, but Black can do better.])
 (;B[hs]
 ;W[fs]
 ;B[es]
 ;W[er]
 ;B[cs]
-;W[ds]C[It's a ko, but black can do better.])
+;W[ds]C[It's a ko, but Black can do better.])
 (;B[cs]
 ;W[fq]
 ;B[fr]

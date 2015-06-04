@@ -1,15 +1,15 @@
 (;GM[1]FF[4]CA[UTF-8]AP[CGoban:3]ST[2]
 RU[Japanese]SZ[19]KM[0.00]
-SO[http://gogameguru.com/]AW[kk][ll][nl][ol][km][om][kn][mn][nn][on][ko][mo][ro][kp][np][rp][kq][nq][pq][rq][kr][nr]AB[pj][qk][im][lm][mm][nm][ln][qn][rn][jo][lo][no][oo][qo][jp][lp][mp][op][qp][jq][mq][jr][mr]C[Black to play.
+SO[https://gogameguru.com/]AW[kk][ll][nl][ol][km][om][kn][mn][nn][on][ko][mo][ro][kp][np][rp][kq][nq][pq][rq][kr][nr]AB[pj][qk][im][lm][mm][nm][ln][qn][rn][jo][lo][no][oo][qo][jp][lp][mp][op][qp][jq][mq][jr][mr]C[Black to play.
 
-http://gogameguru.com/]
+https://gogameguru.com/]
 (;B[ms]
 (;W[ls]
 (;B[pr]
 (;W[qr]
-;B[os]LB[oq:A][qq:B]C[Correct. A and B are miai for black.])
+;B[os]LB[oq:A][qq:B]C[Correct. A and B are miai for Black.])
 (;W[or]
-;B[os]LB[oq:A][qq:B]C[Correct. A and B are miai for black.])
+;B[os]LB[oq:A][qq:B]C[Correct. A and B are miai for Black.])
 (;W[qq]
 ;B[oq]C[Correct])
 (;W[oq]
@@ -47,11 +47,11 @@ http://gogameguru.com/]
 (;B[pr]
 ;W[os]
 ;B[or]
-;W[rr]LB[rs:A]C[Black can't win this capturing race. If black plays at A, white will take sente.])
+;W[rr]LB[rs:A]C[Black can't win this capturing race. If Black plays at A, White will take sente.])
 (;B[ps]
 ;W[os]
 ;B[or]
-;W[rr]LB[rs:A]C[Black can't win this capturing race. If black plays at A, white will take sente.])
+;W[rr]LB[rs:A]C[Black can't win this capturing race. If Black plays at A, White will take sente.])
 (;B[rr]
 ;W[os]
 (;B[ps]
@@ -79,9 +79,9 @@ http://gogameguru.com/]
 (;B[ms]
 ;W[ml])
 (;B[or]
-;W[ms]LB[oq:B][ms:A]C[A could also be at B, but this demonstrates more clearly that white captures black's stones.]))
+;W[ms]LB[oq:B][ms:A]C[A could also be at B, but this demonstrates more clearly that White captures Black's stones.]))
 (;W[ls]LB[ls:A]C[White A is a bad response.]
-;B[os]LB[ls:A]C[White A was a bad move and black turned the tables.]))
+;B[os]LB[ls:A]C[White A was a bad move and Black turned the tables.]))
 (;B[oq]
 ;W[ls]))
 (;B[oq]
@@ -121,7 +121,7 @@ http://gogameguru.com/]
 (;B[rr]
 ;W[pr]
 (;B[sr]
-;W[rs]LB[so:A]C[Black can capture some stones with A now, but white's already winning the capturing race at the bottom.])
+;W[rs]LB[so:A]C[Black can capture some stones with A now, but White's already winning the capturing race at the bottom.])
 (;B[rs]
 ;W[sr]))
 (;B[pr]
@@ -129,7 +129,7 @@ http://gogameguru.com/]
 (;B[rr]
 ;W[ps]
 (;B[sr]
-;W[rs]LB[so:A]C[Black can capture some stones with A now, but white's already winning the capturing race at the bottom.])
+;W[rs]LB[so:A]C[Black can capture some stones with A now, but White's already winning the capturing race at the bottom.])
 (;B[rs]
 ;W[sr]))
 (;B[ps]

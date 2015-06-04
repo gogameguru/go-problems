@@ -2,7 +2,7 @@
 RU[Japanese]SZ[19]KM[0.00]
 AW[kk][pl][mm][mo][po][np][op][pp][kq][lq][mq][pq][rq][qr][rr]AB[pm][ln][qn][lo][qo][lp][mp][qp][nq][oq][qq][or][pr]TR[po][np][op][pp][pq]C[Black to play.
 
-http://gogameguru.com]
+https://gogameguru.com/]
 (;B[pn]
 (;W[on]
 (;B[nm]
@@ -15,15 +15,31 @@ http://gogameguru.com]
 ;W[ok]
 ;B[oo]C[Correct])
 (;B[ok]
+;W[no])
+(;B[oo]
 ;W[no]))
 (;B[no]
 ;W[oo]
 ;B[mn]
 ;W[nl])
 (;B[nl]
-;W[mn]))
+;W[mn]
+;B[ll]
+;W[ml]
+;B[mk]
+;W[nk]
+;B[ok]
+;W[lk]
+;B[nj]
+;W[lm]))
 (;B[nn]
-;W[ol]))
+;W[ol])
+(;B[no]
+;W[oo]
+;B[ol]
+;W[nn]
+;B[nl]
+;W[mn]))
 (;W[nn]
 (;B[mn]
 ;W[om]
@@ -65,7 +81,7 @@ http://gogameguru.com]
 ;B[ml]
 ;W[lm]
 ;B[km]
-;W[ll]LB[kk:A]C[This ladder doesn't work because of A. ])))
+;W[ll]LB[kk:A]C[This ladder doesn't work for Black because of A.])))
 (;B[no]
 ;W[on]
 (;B[nm]
@@ -125,4 +141,4 @@ http://gogameguru.com]
 ;B[ml]
 ;W[lm]
 ;B[km]
-;W[ll]LB[kk:A]C[This ladder doesn't work because of A. ]))
+;W[ll]LB[kk:A]C[This ladder doesn't work for Black because of A.]))

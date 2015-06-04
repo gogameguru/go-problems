@@ -1,8 +1,8 @@
 (;GM[1]FF[4]CA[UTF-8]AP[CGoban:3]ST[2]
 RU[Japanese]SZ[19]KM[0.00]
-SO[http://gogameguru.com/]AW[pl][pm][nn][on][no][jp][op][pq]AB[om][pn][qn][oo][qo][pp][rp]C[Black to play.
+SO[https://gogameguru.com/]AW[pl][pm][nn][on][no][jp][op][pq]AB[om][pn][qn][oo][qo][pp][rp]C[Black to play.
 
-http://gogameguru.com/]
+https://gogameguru.com/]
 (;B[oq]
 (;W[po]
 (;B[pr]
@@ -53,17 +53,17 @@ http://gogameguru.com/]
 ;W[nq]
 ;B[or]
 ;W[mr]
-;B[qr]C[This is possible, but black can do better.])
+;B[qr]C[This is possible, but Black can do better.])
 (;B[or]
 ;W[po]
 ;B[qp]
 ;W[nr]
-;B[qr]C[This is possible, but black can do better.]))
+;B[qr]C[This is possible, but Black can do better.]))
 (;B[qp]
 ;W[nq]
 ;B[or]
 ;W[nr]
-;B[pr]C[This is possible, but black can do better.])
+;B[pr]C[This is possible, but Black can do better.])
 (;B[nq]
 ;W[qp]
 ;B[qq]
@@ -82,17 +82,17 @@ http://gogameguru.com/]
 ;W[nq]
 ;B[or]
 ;W[mr]
-;B[qr]C[This is possible, but black can do better.])
+;B[qr]C[This is possible, but Black can do better.])
 (;B[or]
 ;W[po]
 ;B[qp]
 ;W[nr]
-;B[qr]C[This is possible, but black can do better.])
+;B[qr]C[This is possible, but Black can do better.])
 (;B[qr]
 ;W[or]))))
 (;B[qq]
 ;W[pr]
 (;B[oq]
-;W[po]C[It's a ko, but black can do better.])
+;W[po]C[It's a ko, but Black can do better.])
 (;B[po]
 ;W[nq])))

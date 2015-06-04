@@ -1,8 +1,8 @@
 (;GM[1]FF[4]CA[UTF-8]AP[CGoban:3]ST[2]
 RU[Japanese]SZ[19]KM[0.00]
-SO[http://gogameguru.com/]AW[bo][co][eo][cq][dq][er][fr]AB[bp][bq][cr][dr][es]C[Black to play.
+SO[https://gogameguru.com/]AW[bo][co][eo][cq][dq][er][fr]AB[bp][bq][cr][dr][es]C[Black to play.
 
-http://gogameguru.com/]
+https://gogameguru.com/]
 (;B[bs]
 ;W[ar]
 (;B[ds]
@@ -45,9 +45,9 @@ http://gogameguru.com/]
 (;B[br]
 ;W[ap]))
 (;B[ds]
-;W[bs]LB[ap:B][ar:C][br:A]C[Even if black plays at A now, it will almost never be sente, because B and C are miai. See: http://senseis.xmp.net/?BentFourInTheCorner])
+;W[bs]LB[ap:B][ar:C][br:A]C[Even if Black plays at A now, it will almost never be sente, because B and C are miai. See: http://senseis.xmp.net/?BentFourInTheCorner])
 (;B[ap]
-;W[ar]LB[br:A][bs:C][ds:B]C[Even if black plays at A now, it will almost never be sente, because B and C are miai. See: http://senseis.xmp.net/?BentFourInTheCorner])
+;W[ar]LB[br:A][bs:C][ds:B]C[Even if Black plays at A now, it will almost never be sente, because B and C are miai. See: http://senseis.xmp.net/?BentFourInTheCorner])
 (;B[br]
 ;W[ap]
 (;B[aq]
@@ -60,7 +60,7 @@ http://gogameguru.com/]
 ;W[aq]
 ;B[ar]
 ;W[bs]
-(;B[fs]C[Some players worry that black can escape like this. However, unless there's a stone nearby on the bottom side, there's no way to escape. For example...]
+(;B[fs]C[Some players worry that Black can escape like this. However, unless there's a stone nearby on the bottom side, there's no way to escape. For example...]
 ;W[gr]
 ;B[gs]
 (;W[ir]
@@ -84,9 +84,9 @@ http://gogameguru.com/]
 ;W[fp]
 ;B[dp]
 ;W[cp]))
-(;W[hr]C[If there's nothing for black to connect to, white can also just keep extending.]
+(;W[hr]C[If there's nothing for Black to connect to, White can also just keep extending.]
 ;B[hs]
-;W[ir]C[White will make as many of these exchanges as black likes.]))
+;W[ir]C[White will make as many of these exchanges as Black likes.]))
 (;B[ao]C[Black can't escape like this either. For example...]
 ;W[ap]
 ;B[an]

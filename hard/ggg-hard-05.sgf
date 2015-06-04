@@ -1,8 +1,8 @@
 (;GM[1]FF[4]CA[UTF-8]AP[CGoban:3]ST[2]
 RU[Japanese]SZ[19]KM[0.00]
-SO[http://gogameguru.com/]AW[bp][cp][ep][dq][eq][er][fr]AB[bm][bo][co][do][eo][fo][dp][fp][hp][fq][gr][hr]C[Black to play.
+SO[https://gogameguru.com/]AW[bp][cp][ep][dq][eq][er][fr]AB[bm][bo][co][do][eo][fo][dp][fp][hp][fq][gr][hr]C[Black to play.
 
-http://gogameguru.com/]
+https://gogameguru.com/]
 (;B[br]
 (;W[cq]
 (;B[ar]
@@ -15,7 +15,7 @@ http://gogameguru.com/]
 ;W[es]
 (;B[cs]C[Correct])
 (;B[ao]
-;W[cs]C[White's alive in seki. ]))
+;W[cs]C[White's alive in seki.]))
 (;B[cs]
 ;W[dr]
 (;B[ao]
@@ -41,19 +41,19 @@ http://gogameguru.com/]
 (;B[aq]
 ;W[bq]
 ;B[as]
-;W[ap]C[It's a ko, but black can do better. ])
+;W[ap]C[It's a ko, but Black can do better.])
 (;B[bq]
 ;W[aq]
 (;B[fs]
 ;W[es]
 (;B[bs]
-;W[ds]C[White's alive in seki. ])
+;W[ds]C[White's alive in seki.])
 (;B[ds]
 ;W[bs]
-;B[gs]C[White's alive in seki. ]))
+;B[gs]C[White's alive in seki.]))
 (;B[bs]
 ;W[ds]
-;B[fs]C[White's alive in seki. ]))
+;B[fs]C[White's alive in seki.]))
 (;B[ap]
 ;W[aq]
 ;B[ao]

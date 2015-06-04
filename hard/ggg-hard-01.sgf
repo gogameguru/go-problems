@@ -1,8 +1,8 @@
 (;GM[1]FF[4]CA[UTF-8]AP[CGoban:3]ST[2]
 RU[Japanese]SZ[19]KM[0.00]
-SO[http://gogameguru.com/]AW[cp][dp][ep][fp][gp][hp][ip][cq][fq][jq][dr][jr][lr][ds]AB[dq][eq][gq][hq][iq][er][fr][ir][js]C[Black to play.
+SO[https://gogameguru.com/]AW[cp][dp][ep][fp][gp][hp][ip][cq][fq][jq][dr][jr][lr][ds]AB[dq][eq][gq][hq][iq][er][fr][ir][js]C[Black to play.
 
-http://gogameguru.com/]
+https://gogameguru.com/]
 (;B[cr]
 ;W[br]
 (;B[bs]
@@ -15,7 +15,7 @@ http://gogameguru.com/]
 (;W[hr]
 ;B[bq]
 ;W[bp]
-;B[ar]LB[jp:B][gr:A]C[This way black also lives. Compared to the main variation, white has lost 3 points by continuing to attack with A, even with the capture of 5 stones! However, if black's cut at B would cause trouble for white later, then playing this way could be better for white.])
+;B[ar]LB[jp:B][gr:A]C[This way Black also lives. Compared to the main variation, White has lost 3 points by continuing to attack with A, even with the capture of 5 stones! However, if Black's cut at B would cause trouble for White later, then playing this way could be better for White.])
 (;W[bq]
 ;B[gs])))
 (;W[gr]
@@ -52,7 +52,7 @@ http://gogameguru.com/]
 ;W[hr])))
 (;B[hs]
 ;W[gr]
-;B[gs]C[Black's already died. ])
+;B[gs]C[Black's already died.])
 (;B[gr]
 ;W[hs]
 (;B[es]

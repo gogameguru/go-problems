@@ -1,8 +1,8 @@
 (;GM[1]FF[4]CA[UTF-8]AP[CGoban:3]ST[2]
 RU[Japanese]SZ[19]KM[0.00]
-SO[http://gogameguru.com/]AW[pq][qq][rq][mr][nr][or][rs]AB[pp][qp][rp][sp][lq][mq][nq][oq][lr][ls][ms]C[Black to play.
+SO[https://gogameguru.com/]AW[pq][qq][rq][mr][nr][or][rs]AB[pp][qp][rp][sp][lq][mq][nq][oq][lr][ls][ms]C[Black to play.
 
-http://gogameguru.com/]
+https://gogameguru.com/]
 (;B[sr]
 ;W[sq]
 (;B[rr]
@@ -114,7 +114,7 @@ http://gogameguru.com/]
 ;W[ns]
 ;B[qs]
 ;W[ps]
-;B[ss]C[It's a seki, so white's alive.])))
+;B[ss]C[It's a seki, so White's alive.])))
 (;B[rr]
 ;W[sr])
 (;B[ps]

@@ -1,15 +1,15 @@
 (;GM[1]FF[4]CA[UTF-8]AP[CGoban:3]ST[2]
 RU[Japanese]SZ[19]KM[0.00]
-SO[http://gogameguru.com/]AW[jl][fm][hm][en][do][cp][lp][cq][hq][jq][oq][dr][er][fr][hr][gs]AB[dk][cm][jn][go][io][hp][qp][dq][eq][fq][gq][br][cr][gr]C[Black to play.
+SO[https://gogameguru.com/]AW[jl][fm][hm][en][do][cp][lp][cq][hq][jq][oq][dr][er][fr][hr][gs]AB[dk][cm][jn][go][io][hp][qp][dq][eq][fq][gq][br][cr][gr]C[Black to play.
 
-http://gogameguru.com/]
+https://gogameguru.com/]
 (;B[fs]
 (;W[es]
 (;B[iq]
 (;W[ir]
 (;B[hs]
 (;W[cs]
-;B[fs]LB[bs:B][ds:D][gs:A][is:C]C[Correct. After white recaptures the ko at A (ko threat first), black can play B, white C, black D. It's a one step ko in black's favor.])
+;B[fs]LB[bs:B][ds:D][gs:A][is:C]C[Correct. After White recaptures the ko at A (ko threat first), Black can play B, White C, Black D. It's a one step ko in Black's favor.])
 (;W[is]
 (;B[cs]
 ;W[hs]
@@ -40,7 +40,7 @@ http://gogameguru.com/]
 ;W[mr]))
 (;B[ds]
 ;W[cs]
-;B[bs]C[It's a ko, but black can do better. ])))
+;B[bs]C[It's a ko, but Black can do better.])))
 (;B[ip]
 ;W[kr])
 (;B[cs]

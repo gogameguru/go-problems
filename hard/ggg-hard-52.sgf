@@ -1,20 +1,20 @@
 (;GM[1]FF[4]CA[UTF-8]AP[CGoban:3]ST[2]
 RU[Japanese]SZ[19]KM[0.00]
-SO[http://gogameguru.com/]AW[cj][fj][hj][bk][dk][cl][dl][il][ml][ol][pl][ql][em][hm][im][km][nm][rm][en][in][kn][ln][sn][bo][co][eo][go][lo][mo][no][po][qo][ro][ep][op][pp][rp][cq][fq][hq][iq][jq][kq][nq][ar][cr][er][fr][kr][lr]AB[nj][hk][ik][mk][pk][qk][rk][bl][el][fl][gl][hl][jl][kl][ll][bm][dm][lm][mm][bn][dn][mn][nn][on][pn][qn][rn][do][dp][fp][ip][jp][kp][lp][qp][dq][eq][lq][mq][oq][pq][qq][rq][dr][mr][nr][ds]C[Black to play.
+SO[https://gogameguru.com/]AW[cj][fj][hj][bk][dk][cl][dl][il][ml][ol][pl][ql][em][hm][im][km][nm][rm][en][in][kn][ln][sn][bo][co][eo][go][lo][mo][no][po][qo][ro][ep][op][pp][rp][cq][fq][hq][iq][jq][kq][nq][ar][cr][er][fr][kr][lr]AB[nj][hk][ik][mk][pk][qk][rk][bl][el][fl][gl][hl][jl][kl][ll][bm][dm][lm][mm][bn][dn][mn][nn][on][pn][qn][rn][do][dp][fp][ip][jp][kp][lp][qp][dq][eq][lq][mq][oq][pq][qq][rq][dr][mr][nr][ds]C[Black to play.
 
-http://gogameguru.com/]
+https://gogameguru.com/]
 (;B[gn]
-(;W[ho]C[This is white's best response.]
-;B[fo]C[Correct. Black captures white's four cutting stones.])
-(;W[hn]C[This isn't white's best response, but it is the trickiest way to play.]
+(;W[ho]C[This is White's best response.]
+;B[fo]C[Correct. Black captures White's four cutting stones.])
+(;W[hn]C[This isn't White's best response, but it is the trickiest way to play.]
 (;B[fo]
 ;W[gm]
 ;B[fm]
 ;W[fn]
-;B[gn]LB[ho:B][gp:A]C[Correct. White still has to play one more move here, so black keeps sente or cuts with A next. White should have just played at B instead of the stone above it.])
+;B[gn]LB[ho:B][gp:A]C[Correct. White still has to play one more move here, so Black keeps sente or cuts with A next. White should have just played at B instead of the stone above it.])
 (;B[gp]C[This move is greedy.]
-(;W[gm]C[Black managed to cut white's group in two, but now white's cutting stones are safe and it's a capturing race. White has enough liberties to capture black's group in the lower left.])
-(;W[fo]C[This would be a mistake for white...]
+(;W[gm]C[Black managed to cut White's group in two, but now White's cutting stones are safe and it's a capturing race. White has enough liberties to capture Black's group in the lower left.])
+(;W[fo]C[This would be a mistake for White...]
 ;B[ho]
 ;W[hp]
 ;B[io]
@@ -22,10 +22,10 @@ http://gogameguru.com/]
 ;B[fm]
 (;W[gq]
 ;B[fn]C[Both players made mistakes and captured a group. Black comes out better because the lower right group is bigger.])
-(;W[fn]C[White can't capture black's cutting stone.]
-;B[gn]C[Both players made mistakes, but white is crushed. The lower right group is dead.])))
+(;W[fn]C[White can't capture Black's cutting stone.]
+;B[gn]C[Both players made mistakes, but White is crushed. The lower right group is dead.])))
 (;B[ho]C[This move is also greedy.]
-;W[gm]C[Black managed to cut white's group in two, but now white's cutting stones are safe and it's a capturing race. White has enough liberties to capture black's group in the lower left.])
+;W[gm]C[Black managed to cut White's group in two, but now White's cutting stones are safe and it's a capturing race. White has enough liberties to capture Black's group in the lower left.])
 (;B[fn]
 ;W[hp]
 ;B[fo]C[Black captures the cutting stones and ends in gote. This ok, but it isn't the best way to play.])
@@ -35,8 +35,8 @@ http://gogameguru.com/]
 (;B[gm]
 ;W[hp]
 ;B[fo]C[Black captures the cutting stones and ends in gote. This ok, but it isn't the best way to play.]))
-(;W[fo]C[If white plays here...]
-;B[ho]LB[fm:B][gm:A][gp:C]C[Correct. Black's group in the lower left is dead, but it doesn't matter because black traded it for the bigger group in the lower right, which is also dead now. If white plays A, black can just answer at B, then white has to worry about C.]))
+(;W[fo]C[If White plays here...]
+;B[ho]LB[fm:B][gm:A][gp:C]C[Correct. Black's group in the lower left is dead, but it doesn't matter because Black traded it for the bigger group in the lower right, which is also dead now. If White plays A, Black can just answer at B, then White has to worry about C.]))
 (;B[gp]
 ;W[hp]
 (;B[gn]

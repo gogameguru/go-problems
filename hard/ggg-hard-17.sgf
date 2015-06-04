@@ -1,8 +1,8 @@
 (;GM[1]FF[4]CA[UTF-8]AP[CGoban:3]ST[2]
 RU[Japanese]SZ[19]KM[0.00]
-SO[http://gogameguru.com/]AW[do][eo][fo][dp][gp][dq][eq][gq][hq][ir][hs]AB[dn][en][fn][gn][co][go][cp][fp][hp][ip][cq][iq][kq][br][dr][jr]C[Black to play.
+SO[https://gogameguru.com/]AW[do][eo][fo][dp][gp][dq][eq][gq][hq][ir][hs]AB[dn][en][fn][gn][co][go][cp][fp][hp][ip][cq][iq][kq][br][dr][jr]C[Black to play.
 
-http://gogameguru.com/]
+https://gogameguru.com/]
 (;B[fr]
 ;W[er]
 (;B[gr]
@@ -19,11 +19,11 @@ http://gogameguru.com/]
 ;B[cr]C[Correct]))
 (;B[es]
 (;W[fq]
-;B[cs]TR[es]C[E1 also kills white. ])
+;B[cs]TR[es]C[E1 also kills White.])
 (;W[cr]
-;B[fq]C[E1 also kills white.]))
+;B[fq]C[E1 also kills White.]))
 (;B[cr]
-;W[fq]TR[cr]C[Black can't connect at C2, white lives.]))
+;W[fq]TR[cr]C[Black can't connect at C2, White lives.]))
 (;W[fq]
 ;B[es]C[Correct]))
 (;B[es]

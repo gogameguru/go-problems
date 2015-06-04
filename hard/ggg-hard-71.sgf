@@ -1,8 +1,8 @@
 (;GM[1]FF[4]CA[UTF-8]AP[CGoban:3]ST[2]
 RU[Japanese]SZ[19]KM[0.00]
-SO[http://gogameguru.com/]AW[om][jn][kn][ln][mn][nn][io][oo][po][ip][iq][lq][oq][pq][ir][jr][lr][or]AB[qn][jo][ko][lo][mo][no][qo][jp][lp][jq][kq][qq][kr][pr][qr][ks]C[Black to play.
+SO[https://gogameguru.com/]AW[om][jn][kn][ln][mn][nn][io][oo][po][ip][iq][lq][oq][pq][ir][jr][lr][or]AB[qn][jo][ko][lo][mo][no][qo][jp][lp][jq][kq][qq][kr][pr][qr][ks]C[Black to play.
 
-http://gogameguru.com/]
+https://gogameguru.com/]
 (;B[nq]
 (;W[np]
 (;B[nr]
@@ -14,7 +14,7 @@ http://gogameguru.com/]
 (;B[ns]C[Correct])
 (;B[ls]
 ;W[ns]
-;B[nr]C[Also correct, but giving up black's two stones is unnecessary and loses about 5-6 points compared to the main variation.]))
+;B[nr]C[Also correct, but giving up Black's two stones is unnecessary and loses about 5-6 points compared to the main variation.]))
 (;B[mr]
 ;W[ls]))
 (;B[mp]
@@ -36,7 +36,7 @@ http://gogameguru.com/]
 (;B[op]
 ;W[mq]
 ;B[pp]
-;W[np]LB[qp:A]C[It's a ko, but if black loses this ko the lower right corner will also be destroyed when white captures at A, so this ko is very heavy for black. Can black do better?])
+;W[np]LB[qp:A]C[It's a ko, but if Black loses this ko the lower right corner will also be destroyed when White captures at A, so this ko is very heavy for Black. Can Black do better?])
 (;B[mq]
 ;W[mr]))
 (;B[mq]

@@ -1,15 +1,15 @@
 (;GM[1]FF[4]CA[UTF-8]AP[CGoban:3]ST[2]
 RU[Japanese]SZ[19]KM[0.00]
-SO[http://gogameguru.com/]AW[hj][lj][pj][gk][ik][kk][mk][ok][qk][fl][nl][rl][em][nm][en][hn][kn][ln][pn][qn][do][go][ho][jo][mo][oo][ro][dp][hp][jp][mp][op][rp][eq][hq][jq][mq][oq][rq][dr][fr][hr][kr][lr][pr][qr]AB[gm][hm][im][km][lm][mm][om][pm][qm][rm][fn][gn][in][jn][rn][eo][fo][so][ep][gp][sp][fq][gq][iq][sq][gr][ir][jr][mr][nr][or][rr][hs][ks][ls][ps][qs]C[Black to play.
+SO[https://gogameguru.com/]AW[hj][lj][pj][gk][ik][kk][mk][ok][qk][fl][nl][rl][em][nm][en][hn][kn][ln][pn][qn][do][go][ho][jo][mo][oo][ro][dp][hp][jp][mp][op][rp][eq][hq][jq][mq][oq][rq][dr][fr][hr][kr][lr][pr][qr]AB[gm][hm][im][km][lm][mm][om][pm][qm][rm][fn][gn][in][jn][rn][eo][fo][so][ep][gp][sp][fq][gq][iq][sq][gr][ir][jr][mr][nr][or][rr][hs][ks][ls][ps][qs]C[Black to play.
 
-http://gogameguru.com/]
+https://gogameguru.com/]
 (;B[on]
 ;W[qo]
 (;B[mn]
 (;W[lo]
-;B[nn]C[Correct. It may look like black's group only has false eyes. But black's stones are all connected, so there's no way for white to atari black to make him close the apparently 'false' eyes.
+;B[nn]C[Correct. It may look like Black's group only has false eyes. But Black's stones are all connected, so there's no way for White to atari Black to make him close the apparently 'false' eyes.
 
-In fact, since an eye is really just a liberty inside a group of stones that are all connected around the outside, black actually has plenty of eyes, and lives with at least 9 points in this special case.])
+In fact, since an eye is really just a liberty inside a group of stones that are all connected around the outside, Black actually has plenty of eyes, and lives with at least 9 points in this special case.])
 (;W[nn]
 (;B[ip]
 ;W[io]
@@ -28,7 +28,7 @@ In fact, since an eye is really just a liberty inside a group of stones that are
 ;W[ko]
 ;B[ip]C[Correct])
 (;B[ko]
-(;W[lq]LB[lo:A]C[Even if black captures at A next, black only has one eye, so he's dead.])
+(;W[lq]LB[lo:A]C[Even if Black captures at A next, Black only has one eye, so he's dead.])
 (;W[lo]
 ;B[kp]
 ;W[kq]

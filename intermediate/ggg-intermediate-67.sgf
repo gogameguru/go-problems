@@ -1,8 +1,8 @@
 (;GM[1]FF[4]CA[UTF-8]AP[CGoban:3]ST[2]
 RU[Japanese]SZ[19]KM[0.00]
-SO[http://gogameguru.com/]AW[go][ho][fp][hp][dq][fq][jq][dr][fr][ir][es][fs]AB[hm][fn][fo][dp][ep][gp][eq][gq][er][gr][hr]C[Black to play.
+SO[https://gogameguru.com/]AW[go][ho][fp][hp][dq][fq][jq][dr][fr][ir][es][fs]AB[hm][fn][fo][dp][ep][gp][eq][gq][er][gr][hr]C[Black to play.
 
-http://gogameguru.com/]
+https://gogameguru.com/]
 (;B[cs]
 (;W[cr]
 (;B[gs]
@@ -21,9 +21,9 @@ http://gogameguru.com/]
 (;B[bo]
 ;W[ap]
 (;B[ao]
-;W[bs]C[Almost correct, but black can't atari now, so white lives. Be careful towards the end of the ladder.])
+;W[bs]C[Almost correct, but Black can't atari now, so White lives. Be careful towards the end of the ladder.])
 (;B[aq]
-;W[bs]C[Almost correct, but black's stones are in atari now. Is there a better way to play out the ladder?])))
+;W[bs]C[Almost correct, but Black's stones are in atari now. Is there a better way to play out the ladder?])))
 (;B[bp]
 ;W[co]))
 (;B[cp]
@@ -81,9 +81,9 @@ http://gogameguru.com/]
 (;B[cs]
 ;W[hs]LB[gm:D][eo:C][cr:B][cs:A]C[Not bad. Can you find a way to win the capturing race though?
 
-Sometimes black's move at C1 (A) is tesuji - for example, if everything was moved one point to the left. 
+Sometimes Black's move at C1 (A) is tesuji - for example, if everything was moved one point to the left. 
 
-In this case though, the atari at B is slightly better, because it lets black remove the two stones from the board in sente later. There are still cutting points around C and D, so black would prefer not to leave any forcing moves here. This detail is quite minor, and sometimes decisive.]))
+In this case though, the atari at B is slightly better, because it lets Black remove the two stones from the board in sente later. There are still cutting points around C and D, so Black would prefer not to leave any forcing moves here. This detail is quite minor, and sometimes decisive.]))
 (;B[gs]
 ;W[ds]
 ;B[cq]

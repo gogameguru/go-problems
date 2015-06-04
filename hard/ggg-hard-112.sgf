@@ -1,8 +1,8 @@
 (;GM[1]FF[4]CA[UTF-8]AP[CGoban:3]ST[2]
 RU[Japanese]SZ[19]KM[0.00]
-SO[http://gogameguru.com/]AW[cn][dn][fn][hn][cp][dp][lp][eq][fq][hq][iq][lq][nq][gr][hr][jr][hs][is]AB[cl][bn][bo][jo][bp][ep][fp][gp][hp][ip][bq][cq][dq][gq][jq][kq][kr][lr]C[Black to play.
+SO[https://gogameguru.com/]AW[cn][dn][fn][hn][cp][dp][lp][eq][fq][hq][iq][lq][nq][gr][hr][jr][hs][is]AB[cl][bn][bo][jo][bp][ep][fp][gp][hp][ip][bq][cq][dq][gq][jq][kq][kr][lr]C[Black to play.
 
-http://gogameguru.com/]
+https://gogameguru.com/]
 (;B[fs]
 (;W[er]
 (;B[ks]
@@ -41,7 +41,7 @@ http://gogameguru.com/]
 ;B[ar]
 ;W[bs]
 (;B[ds]
-;W[fr]C[It's a seki. ])
+;W[fr]C[It's a seki.])
 (;B[fr]
 ;W[ds]))))
 (;B[ds]
@@ -51,7 +51,7 @@ http://gogameguru.com/]
 ;B[ar]
 ;W[bs]
 (;B[js]
-;W[fr]C[It's a seki. ])
+;W[fr]C[It's a seki.])
 (;B[fr]
 ;W[gs]
 ;B[js]
@@ -86,13 +86,13 @@ http://gogameguru.com/]
 (;B[er]
 ;W[fr]
 ;B[ds]
-;W[es]C[It's a ko, black can do better. ])))
+;W[es]C[It's a ko, Black can do better.])))
 (;B[er]
 ;W[fr]
 (;B[fs]
 ;W[dr]
 ;B[ds]
-;W[es]C[It's a ko, black can do better. ])
+;W[es]C[It's a ko, Black can do better.])
 (;B[dr]
 ;W[fs])
 (;B[ds]

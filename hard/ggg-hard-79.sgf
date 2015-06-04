@@ -1,8 +1,8 @@
 (;GM[1]FF[4]CA[UTF-8]AP[CGoban:3]ST[2]
 RU[Japanese]SZ[19]KM[0.00]
-SO[http://gogameguru.com/]AW[kl][ll][nl][ol][rl][mm][nm][qm][rm][ln][rn][fo][ho][po][qo][kp][op][fq][gq][iq][lq][nq][oq][pq][qq][lr][nr][rr][sr][ms][qs]AB[lj][oj][qj][mk][ml][im][jn][on][qn][sn][mo][no][oo][ro][cp][ep][fp][jp][mp][np][pp][qp][rp][eq][jq][mq][rq][er][jr][mr][qr]C[Black to play.
+SO[https://gogameguru.com/]AW[kl][ll][nl][ol][rl][mm][nm][qm][rm][ln][rn][fo][ho][po][qo][kp][op][fq][gq][iq][lq][nq][oq][pq][qq][lr][nr][rr][sr][ms][qs]AB[lj][oj][qj][mk][ml][im][jn][on][qn][sn][mo][no][oo][ro][cp][ep][fp][jp][mp][np][pp][qp][rp][eq][jq][mq][rq][er][jr][mr][qr]C[Black to play.
 
-http://gogameguru.com/]
+https://gogameguru.com/]
 (;B[ko]
 (;W[lo]
 (;B[pm]
@@ -40,7 +40,7 @@ http://gogameguru.com/]
 ;W[pr]
 ;B[sq]
 ;W[so]))
-(;B[ns]LB[kr:A]C[Also correct. The variations aren't duplicated for this branch. In the main variation, black plays A first instead.]))
+(;B[ns]LB[kr:A]C[Also correct. The variations aren't duplicated for this branch. In the main variation, Black plays A first instead.]))
 (;B[kr]
 ;W[ls]
 (;B[pr]

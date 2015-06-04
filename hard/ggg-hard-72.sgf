@@ -1,8 +1,8 @@
 (;GM[1]FF[4]CA[UTF-8]AP[CGoban:3]ST[2]
 RU[Japanese]SZ[19]KM[0.00]
-SO[http://gogameguru.com/]AW[nn][pn][rn][sn][po][qo][ro][np][op][sp][pq][mr][pr][ps]AB[qj][qm][rm][qn][pp][qp][rp][oq][or][qr][os]C[Black to play.
+SO[https://gogameguru.com/]AW[nn][pn][rn][sn][po][qo][ro][np][op][sp][pq][mr][pr][ps]AB[qj][qm][rm][qn][pp][qp][rp][oq][or][qr][os]C[Black to play.
 
-http://gogameguru.com/]
+https://gogameguru.com/]
 (;B[sr]
 (;W[rq]
 (;B[qq]
@@ -28,11 +28,11 @@ http://gogameguru.com/]
 (;B[sq]
 ;W[rr]LB[so:A]C[Black has to fight a ko at A now.])
 (;B[rr]
-;W[sq]LB[nq:B][qq:D][qs:C][rs:A]C[Even if black plays at A now, white can start filling liberties at B at any time and black will have to play at C and D, so black only has a three space eye and white can capture this group.]))
+;W[sq]LB[nq:B][qq:D][qs:C][rs:A]C[Even if Black plays at A now, White can start filling liberties at B at any time and Black will have to play at C and D, so Black only has a three space eye and White can capture this group.]))
 (;B[rr]
 ;W[sr]
 ;B[rq]
-;W[sq]C[Eventually black will have to capture white's three stones, and black will die.])
+;W[sq]C[Eventually Black will have to capture White's three stones, and Black will die.])
 (;B[sq]
 ;W[rq]
 (;B[qq]
@@ -50,6 +50,6 @@ http://gogameguru.com/]
 ;B[qs]
 ;W[pr])
 (;B[rs]
-;W[sr]LB[rq:A][sq:B][rr:C]C[Even if black plays A-C now, the shape is still dead.])
+;W[sr]LB[rq:A][sq:B][rr:C]C[Even if Black plays A-C now, the shape is still dead.])
 (;B[qs]
 ;W[sr]))

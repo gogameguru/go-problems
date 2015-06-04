@@ -1,8 +1,8 @@
 (;GM[1]FF[4]CA[UTF-8]AP[CGoban:3]ST[2]
 RU[Japanese]SZ[19]KM[0.00]
-SO[http://gogameguru.com/]AW[cj][dj][bk][cl][dl][hl][bm][dm][gm][an][cn][dn][hn][mn][fo][go][io][po][cp][ep][gp][lp][cq][dq][eq][gq][pq][hr][ir]AB[ej][hj][jj][ck][dk][fk][el][fl][bn][en][fn][gn][kn][bo][co][do][eo][bp][dp][fp][ip][jp][hq][nq][fr][gr]C[Black to play.
+SO[https://gogameguru.com/]AW[cj][dj][bk][cl][dl][hl][bm][dm][gm][an][cn][dn][hn][mn][fo][go][io][po][cp][ep][gp][lp][cq][dq][eq][gq][pq][hr][ir]AB[ej][hj][jj][ck][dk][fk][el][fl][bn][en][fn][gn][kn][bo][co][do][eo][bp][dp][fp][ip][jp][hq][nq][fr][gr]C[Black to play.
 
-http://gogameguru.com/]
+https://gogameguru.com/]
 (;B[jr]
 (;W[fq]
 ;B[iq]
@@ -16,7 +16,7 @@ http://gogameguru.com/]
 (;W[kr]
 (;B[ho]
 ;W[fq]
-;B[kp]LB[iq:A][nq:B]C[Correct. Black took control of the center because white struggled with A. Whatever white does next, there's still some life in black B.]
+;B[kp]LB[iq:A][nq:B]C[Correct. Black took control of the center because White struggled with A. Whatever White does next, there's still some life in Black B.]
 ;W[lq]
 ;B[lr]
 ;W[js]
@@ -25,7 +25,7 @@ http://gogameguru.com/]
 ;B[mo]
 ;W[np]
 ;B[no]
-;W[op]C[This result is playable for black. ])
+;W[op]C[This result is playable for Black.])
 (;B[kp]
 ;W[ho]))
 (;W[kp]
@@ -35,25 +35,25 @@ http://gogameguru.com/]
 (;W[jo]
 ;B[hs]
 ;W[fq]
-;B[ho]LB[ko:A][er:B]C[Correct. Now A and B (killing the corner) are miai for black.])))
+;B[ho]LB[ko:A][er:B]C[Correct. Now A and B (killing the corner) are miai for Black.])))
 (;B[jq]
 ;W[hp]))
-(;W[kr]C[If white's happy to give up the center stones, white can also think about this move. It's not really better, but black has to be careful.]
+(;W[kr]C[If White's happy to give up the center stones, White can also think about this move. It's not really better, but Black has to be careful.]
 (;B[js]
 (;W[iq]
 ;B[hp]
 ;W[jq]
 ;B[ho]
 ;W[fq]
-;B[jo]C[Correct. Black takes the center, so white doesn't play L2. This is a solid and clear way to play.])
+;B[jo]C[Correct. Black takes the center, so White doesn't play L2. This is a solid and clear way to play.])
 (;W[jq]
 ;B[iq]LB[kq:A][hs:B]C[Correct. A and B are miai.]))
 (;B[jq]C[This move feels forced.]
-(;W[fq]C[Even if white just proceeds like this...]
+(;W[fq]C[Even if White just proceeds like this...]
 ;B[is]
 ;W[er]
-;B[hs]LB[jq:B][kr:A]C[Exchanging A for B was good for white.])
-(;W[js]C[Playing like this isn't really better for white, but it's a lot more complicated.]
+;B[hs]LB[jq:B][kr:A]C[Exchanging A for B was good for White.])
+(;W[js]C[Playing like this isn't really better for White, but it's a lot more complicated.]
 ;B[kq]
 ;W[lr]
 ;B[lq]
@@ -62,7 +62,7 @@ http://gogameguru.com/]
 ;W[is]
 ;B[nr]
 ;W[fq]
-;B[mq]C[The result is good for black. ])
+;B[mq]C[The result is good for Black.])
 (;B[is]
 ;W[ks]
 (;B[nr]
@@ -71,7 +71,7 @@ http://gogameguru.com/]
 ;W[er]
 ;B[ms]
 ;W[hs]
-;B[ns]LB[qr:A][ls:B]C[A and B are miai next, and it's playable for black. ])
+;B[ns]LB[qr:A][ls:B]C[A and B are miai next, and it's playable for Black.])
 (;B[iq]
 ;W[hs]
 ;B[gs]
@@ -85,7 +85,7 @@ http://gogameguru.com/]
 (;B[iq]
 ;W[js]
 ;B[kq]
-;W[jq]C[It's a ko. ])))
+;W[jq]C[It's a ko.])))
 (;B[fq]
 ;W[ho]
 (;B[er]
@@ -93,7 +93,7 @@ http://gogameguru.com/]
 (;B[ds]
 ;W[cs]
 (;B[fs]
-;W[es]C[Black gets a difficult ko. What if black doesn't have enough ko threats?])
+;W[es]C[Black gets a difficult ko. What if Black doesn't have enough ko threats?])
 (;B[bq]
 ;W[es]
 ;B[br]
@@ -106,10 +106,10 @@ http://gogameguru.com/]
 (;W[gs]
 ;B[ar]
 ;W[fs])
-(;W[cs]C[This is a mistake for white. White should just play at G1.]
+(;W[cs]C[This is a mistake for White. White should just play at G1.]
 ;B[ar]
 ;W[gs]
-;B[cr]LB[cs:A]C[Black found a ko because of white's mistake at A.]))
+;B[cr]LB[cs:A]C[Black found a ko because of White's mistake at A.]))
 (;B[cs]
 ;W[br]
 (;B[es]
@@ -137,7 +137,7 @@ http://gogameguru.com/]
 (;B[jr]
 ;W[fq]
 ;B[iq]
-;W[jo]LB[hp:A]C[This is the right idea, but A was crude and lost liberties. Now this white move is annoying.]
+;W[jo]LB[hp:A]C[This is the right idea, but A was crude and lost liberties. Now this White move is annoying.]
 (;B[ko]
 ;W[kp]
 ;B[jq]

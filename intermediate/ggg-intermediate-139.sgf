@@ -2,16 +2,18 @@
 RU[Japanese]SZ[19]KM[0.00]
 AW[ck][ek][dm][fm][gn][eq][fq][gq][hq][iq][dr][er][hr]AB[bo][ho][jo][cp][gp][ip][bq][cq][jq][cr][ir][jr]C[Black to play.
 
-http://gogameguru.com]
+https://gogameguru.com/]
 (;B[fp]
 ;W[ep]
 (;B[eo]
 ;W[do]
 (;B[dn]
 (;W[en]
-;B[fo]
+(;B[fo]
 ;W[cn]
 ;B[dp]C[Correct])
+(;B[cn]
+;W[fo]))
 (;W[cn]
 (;B[dp]
 ;W[en]
@@ -23,7 +25,7 @@ http://gogameguru.com]
 (;B[fo]
 ;W[ao]
 ;B[ap]
-;W[bp]C[It's a ko, but black can do better.])
+;W[bp]C[It's a ko, but Black can do better.])
 (;B[an]
 ;W[fo])
 (;B[ao]
@@ -85,8 +87,10 @@ http://gogameguru.com]
 ;W[go]
 ;B[hp]
 ;W[dp]
-;B[en]
+(;B[en]
 ;W[cn])
+(;B[cn]
+;W[en]))
 (;B[en]
 ;W[dn]
 (;B[dp]
@@ -105,8 +109,14 @@ http://gogameguru.com]
 ;W[eo]
 (;B[ep]
 ;W[fp]
-;B[go]
+(;B[go]
 ;W[dp])
+(;B[en]
+;W[do]
+(;B[go]
+;W[dp])
+(;B[dp]
+;W[go])))
 (;B[en]
 ;W[do]
 (;B[dn]
@@ -152,6 +162,6 @@ http://gogameguru.com]
 ;B[eo]
 ;W[do]
 ;B[gm]
-;W[em]
-;B[hn]
-;W[dp])))
+;W[hn]
+;B[em]
+;W[fl])))

@@ -1,8 +1,8 @@
 (;GM[1]FF[4]CA[UTF-8]AP[CGoban:3]ST[2]
 RU[Japanese]SZ[19]KM[0.00]
-SO[http://gogameguru.com/]AW[cm][cn][en][bo][bp][cp][cq][cr][dr]AB[cl][bm][bn][co][do][dp][dq][eq][er]C[Black to play.
+SO[https://gogameguru.com/]AW[cm][cn][en][bo][bp][cp][cq][cr][dr]AB[cl][bm][bn][co][do][dp][dq][eq][er]C[Black to play.
 
-http://gogameguru.com/]
+https://gogameguru.com/]
 (;B[em]
 (;W[dn]
 (;B[fn]
@@ -23,7 +23,7 @@ http://gogameguru.com/]
 (;B[fm]
 ;W[fn]
 ;B[gn]
-;W[dl]LB[ck:C][bl:B][dm:A][go:D]C[Next if black cuts at A, white can atari at B and capture two stones. If black plays C instead, white can keep fighting at D, or just connect at A. Black had a way to capture the cutting stones instead.]))
+;W[dl]LB[ck:C][bl:B][dm:A][go:D]C[Next if Black cuts at A, White can atari at B and capture two stones. If Black plays C instead, White can keep fighting at D, or just connect at A. Black had a way to capture the cutting stones instead.]))
 (;W[dl]
 ;B[dm]
 ;W[dn]

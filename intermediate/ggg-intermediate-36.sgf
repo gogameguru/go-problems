@@ -1,10 +1,10 @@
 (;GM[1]FF[4]CA[UTF-8]AP[CGoban:3]ST[2]
 RU[Japanese]SZ[19]KM[0.00]
-SO[http://gogameguru.com/]AW[ol][ql][rl][qm][pn][oo][so][mp][np][pq][qq][nr][rr]AB[lm][rm][nn][qn][rn][lo][no][qo][op][qp][rp][rq]LB[so:A]C[Black to play.
+SO[https://gogameguru.com/]AW[ol][ql][rl][qm][pn][oo][so][mp][np][pq][qq][nr][rr]AB[lm][rm][nn][qn][rn][lo][no][qo][op][qp][rp][rq]LB[so:A]C[Black to play.
 
 White A was an overplay. Why?
 
-http://gogameguru.com/]
+https://gogameguru.com/]
 (;B[pm]
 (;W[om]
 ;B[on]C[Correct.])
@@ -27,12 +27,12 @@ http://gogameguru.com/]
 ;B[ps]
 ;W[or]
 ;B[sq]
-;W[qs]LB[or:B][qr:A]C[Black has a ko at A, but black can do better. White plays this way to take the ko first. White doesn't care if she loses the ko.
+;W[qs]LB[or:B][qr:A]C[Black has a ko at A, but Black can do better. White plays this way to take the ko first. White doesn't care if she loses the ko.
 
-Note that, in a real game, white would take the ko once at 12 before playing B, to make black spend an extra ko threat.])
+Note that, in a real game, White would take the ko once at 12 before playing B, to make Black spend an extra ko threat.])
 (;W[qs]
 ;B[sr]
-;W[or]LB[qr:A]C[Black has a ko at A, but black can do better.]))
+;W[or]LB[qr:A]C[Black has a ko at A, but Black can do better.]))
 (;B[or]
 ;W[pr]
 (;B[ps]

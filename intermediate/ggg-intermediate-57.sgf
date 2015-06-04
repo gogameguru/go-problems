@@ -1,13 +1,13 @@
 (;GM[1]FF[4]CA[UTF-8]AP[CGoban:3]ST[2]
 RU[Japanese]SZ[19]KM[0.00]
-SO[http://gogameguru.com/]AW[qj][qm][dn][en][fn][co][hp][fq][gq][kq]AB[dk][eo][go][bp][cp][ep][gp][qp][eq][oq]C[Black to play.
+SO[https://gogameguru.com/]AW[qj][qm][dn][en][fn][co][hp][fq][gq][kq]AB[dk][eo][go][bp][cp][ep][gp][qp][eq][oq]C[Black to play.
 
-http://gogameguru.com/]
+https://gogameguru.com/]
 (;B[ip]
 (;W[hq]
 (;B[ho]
 ;W[jq]
-;B[gl]LB[dk:A]C[Correct. If white struggles like an octopus in a kettle, black's loose enclosure will be solidified naturally. You should note the relationship between black's stones (A, 3 and 5).])
+;B[gl]LB[dk:A]C[Correct. If White struggles like an octopus in a kettle, Black's loose enclosure will be solidified naturally. You should note the relationship between Black's stones (A, 3 and 5).])
 (;B[iq]
 ;W[io]
 (;B[jp]
@@ -27,7 +27,7 @@ http://gogameguru.com/]
 ;B[ir]
 ;W[kr]
 ;B[fr]
-;W[hm]LB[ks:A]C[White was able to play lightly and manage both weak groups. White's very thick, so black has to worry about white invading the lower right corner now. Note that A is still sente.])
+;W[hm]LB[ks:A]C[White was able to play lightly and manage both weak groups. White's very thick, so Black has to worry about White invading the lower right corner now. Note that A is still sente.])
 (;B[ho]
 ;W[jo])
 (;B[js]
@@ -41,7 +41,7 @@ http://gogameguru.com/]
 ;B[ir]
 ;W[kr]
 ;B[fr]
-;W[hm]C[White was able to play lightly and manage both weak groups. White's very thick, so black has to worry about white invading the lower right corner now. Note that A is still sente.]))
+;W[hm]C[White was able to play lightly and manage both weak groups. White's very thick, so Black has to worry about White invading the lower right corner now. Note that A is still sente.]))
 (;B[jo]
 ;W[jp]
 ;B[ho]
@@ -75,14 +75,14 @@ http://gogameguru.com/]
 (;W[fl]
 ;B[iq]
 ;W[hq]
-;B[jo]LB[im:B][lp:A]C[Correct. White's stones are split in two and black A and B are miai next.])
+;B[jo]LB[im:B][lp:A]C[Correct. White's stones are split in two and Black A and B are miai next.])
 (;W[iq]
-;B[fl]C[Correct. This is even better for black than the main variation, because it's harder for white to make eyes now.]))
-(;W[ir]C[White can try to oppose black's plan by crouching down here.]
-;B[fl]LB[ho:A][jr:B]C[But now black will switch back to attacking like this and the exchange at the bottom is still profitable for black. If black gets to play A in the flow of fighting, he can aim at B next.]))
+;B[fl]C[Correct. This is even better for Black than the main variation, because it's harder for White to make eyes now.]))
+(;W[ir]C[White can try to oppose Black's plan by crouching down here.]
+;B[fl]LB[ho:A][jr:B]C[But now Black will switch back to attacking like this and the exchange at the bottom is still profitable for Black. If Black gets to play A in the flow of fighting, he can aim at B next.]))
 (;B[ho]
 (;W[ip]
-;B[gl]LB[fk:A]C[Also correct. Compared to the main variation, this one is second best. White will think about playing at A when black plays 1 (see the variation).])
+;B[gl]LB[fk:A]C[Also correct. Compared to the main variation, this one is second best. White will think about playing at A when Black plays 1 (see the variation).])
 (;W[fk]C[It's also possible to play like this.]
 ;B[ip]
 ;W[ir]LB[jr:A]C[Black A will be a strong move now, but...]
@@ -91,7 +91,7 @@ http://gogameguru.com/]
 ;B[hr]
 ;W[kr]
 ;B[hq]
-;W[mq]C[Black's corner group was already strong, so white can sacrifice a few stones and make eyeshape at the bottom. White already got to play first on the left side, so white may be satisfied.]))
+;W[mq]C[Black's corner group was already strong, so White can sacrifice a few stones and make eyeshape at the bottom. White already got to play first on the left side, so White may be satisfied.]))
 (;B[iq]
 ;W[ip]
 ;B[jq]
@@ -125,6 +125,6 @@ http://gogameguru.com/]
 (;B[ip]
 ;W[fk]))
 (;B[fk]
-;W[hm]LB[el:A]C[White moves out lightly. White can sacrifice the four stones if she needs to. If white really needs to reinforce the connection later she can peep at A.])
+;W[hm]LB[el:A]C[White moves out lightly. White can sacrifice the four stones if she needs to. If White really needs to reinforce the connection later she can peep at A.])
 (;B[fl]
-;W[gm]LB[gl:A]C[Attacking directly draws white's attention to the problem and lets her focus all her energy on defending. This isn't bad, because it's an ideal situation for attacking anyway. Black could try to create something at the bottom before deciding whether to play at 1 or A though.]))
+;W[gm]LB[gl:A]C[Attacking directly draws White's attention to the problem and lets her focus all her energy on defending. This isn't bad, because it's an ideal situation for attacking anyway. Black could try to create something at the bottom before deciding whether to play at 1 or A though.]))

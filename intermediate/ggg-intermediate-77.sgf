@@ -1,8 +1,8 @@
 (;GM[1]FF[4]CA[UTF-8]AP[CGoban:3]ST[2]
 RU[Japanese]SZ[19]KM[0.00]
-SO[http://gogameguru.com/]AW[ek][bm][cm][dn][co][cp][dp][cq]AB[bn][cn][bo][do][eo][ep][eq][iq]C[Black to play.
+SO[https://gogameguru.com/]AW[ek][bm][cm][dn][co][cp][dp][cq]AB[bn][cn][bo][do][eo][ep][eq][iq]C[Black to play.
 
-http://gogameguru.com/]
+https://gogameguru.com/]
 (;B[dm]
 ;W[en]
 (;B[cl]
@@ -25,7 +25,7 @@ http://gogameguru.com/]
 (;W[bp]
 ;B[fn]
 ;W[ao]
-;B[em]LB[dk:C][an:A][dn:B]C[Correct. White will continue with A or B, but this result is satisfactory for black. Later black can push through with C.]))
+;B[em]LB[dk:C][an:A][dn:B]C[Correct. White will continue with A or B, but this result is satisfactory for Black. Later Black can push through with C.]))
 (;B[dk]
 ;W[bp]
 (;B[cj]
@@ -39,7 +39,7 @@ http://gogameguru.com/]
 ;B[fo]
 ;W[gl]
 ;B[hm]
-;W[ej]C[Black can try to squeeze, but he can't hold white in.])
+;W[ej]C[Black can try to squeeze, but he can't hold White in.])
 (;B[ak]
 ;W[ao]))
 (;B[am]
@@ -48,7 +48,7 @@ http://gogameguru.com/]
 ;W[bp]
 ;B[fn]
 ;W[ao]
-;B[em]LB[dk:B][al:A]C[Correct, but note that white can still connect under by playing A next, so black shouldn't have ataried on the first line. Black would prefer to atari at B later instead.]))
+;B[em]LB[dk:B][al:A]C[Correct, but note that White can still connect under by playing A next, so Black shouldn't have ataried on the first line. Black would prefer to atari at B later instead.]))
 (;W[dl]
 ;B[em]
 ;W[fn]
@@ -73,7 +73,7 @@ http://gogameguru.com/]
 (;W[bp]
 ;B[fn]
 ;W[an]
-;B[em]LB[dn:B][ao:A]C[Correct. White will continue with A or B, but this result is satisfactory for black.]))
+;B[em]LB[dn:B][ao:A]C[Correct. White will continue with A or B, but this result is satisfactory for Black.]))
 (;W[dl]
 ;B[em]
 ;W[fn]
@@ -121,9 +121,9 @@ http://gogameguru.com/]
 ;B[bj]
 ;W[an]
 (;B[ak]
-;W[bp]C[Black can escape along the edge with a heavy group, but white can still live easily in the corner and attack black's group.])
+;W[bp]C[Black can escape along the edge with a heavy group, but White can still live easily in the corner and attack Black's group.])
 (;B[ao]C[Capturing like this is nearly always a mistake.]
-;W[ak]C[Now white can throw in here too. Unless black has some stones that can help in the top left (unlikely), black's cutting stones will be captured now.])))
+;W[ak]C[Now White can throw in here too. Unless Black has some stones that can help in the top left (unlikely), Black's cutting stones will be captured now.])))
 (;B[fm]
 ;W[em]
 ;B[dl]

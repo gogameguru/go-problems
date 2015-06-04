@@ -1,19 +1,19 @@
 (;GM[1]FF[4]CA[UTF-8]AP[CGoban:3]ST[2]
 RU[Japanese]SZ[19]KM[0.00]
-SO[http://gogameguru.com/]AW[qk][pn][dp][op][pp][qq][rq][pr][qs]AB[qo][np][qp][lq][oq][pq][or]C[Black to play.
+SO[https://gogameguru.com/]AW[qk][pn][dp][op][pp][qq][rq][pr][qs]AB[qo][np][qp][lq][oq][pq][or]C[Black to play.
 
-http://gogameguru.com/]
+https://gogameguru.com/]
 (;B[pm]C[This move is tesuji in this sort of situation.]
 (;W[on]
-;B[qn]LB[ql:D][rl:F][om:B][qm:A][rm:E][nn:C]C[Correct. If white plays A next, black B through F is good for black. White's cutting stones are very short on liberties so black can fight.])
-(;W[qn]C[If white insists on playing like this...]
+;B[qn]LB[ql:D][rl:F][om:B][qm:A][rm:E][nn:C]C[Correct. If White plays A next, Black B through F is good for Black. White's cutting stones are very short on liberties so Black can fight.])
+(;W[qn]C[If White insists on playing like this...]
 ;B[po]
 ;W[oo]
 ;B[on]
 ;W[no]
 ;B[rn]
 (;W[nn]
-;B[om]LB[mp:A]C[Correct. White can still attack like this (starting with A), but black's forced white to sacrifice two stones, so black's right side group has become a lot stronger. It nearly has two eyes already.])
+;B[om]LB[mp:A]C[Correct. White can still attack like this (starting with A), but Black's forced White to sacrifice two stones, so Black's right side group has become a lot stronger. It nearly has two eyes already.])
 (;W[qm]C[White can't save these stones...]
 ;B[ql]
 ;W[rm]
@@ -28,16 +28,16 @@ http://gogameguru.com/]
 ;B[ql]
 ;W[rm]
 ;B[rl]C[Correct])
-(;W[qm]C[It's an overplay for white to try to cut like this.]
-;B[on]LB[qn:B][po:A]C[Black plays tesuji here and white can't save the cutting stones. No matter what white does next, A and B are miai for black.]
+(;W[qm]C[It's an overplay for White to try to cut like this.]
+;B[on]LB[qn:B][po:A]C[Black plays tesuji here and White can't save the cutting stones. No matter what White does next, A and B are miai for Black.]
 ;W[om]C[For example...]
 ;B[pl]
 (;W[oo]
 ;B[nn]LB[qn:B][po:A]C[Correct. A and B are still miai.])
 (;W[nn]
 ;B[oo]LB[qn:B][po:A]C[Correct. A and B are still miai.]))
-(;W[om]C[This move is an overplay for white.]
-;B[on]LB[qn:B][po:A]C[Correct. A and B are miai for black.]))
+(;W[om]C[This move is an overplay for White.]
+;B[on]LB[qn:B][po:A]C[Correct. A and B are miai for Black.]))
 (;B[po]
 ;W[oo]
 ;B[on]
@@ -45,14 +45,14 @@ http://gogameguru.com/]
 ;B[pm]
 ;W[nn]
 ;B[om]
-;W[mp]LB[nm:C][rm:D][iq:E][jq:B][nq:A][nr:F][os:G]C[Pushing and cutting helps white find a nice rhythm. Now black has two weak groups to look after. If black connects at A next, white can attack with B and can aim at moves like C and D, depending on black's responses. If black plays lightly with E next, white F is a tesuji to capture the four cutting stones. Black G (instead of A or E) is conceivable, but the shape is incredibly thin.])
+;W[mp]LB[nm:C][rm:D][iq:E][jq:B][nq:A][nr:F][os:G]C[Pushing and cutting helps White find a nice rhythm. Now Black has two weak groups to look after. If Black connects at A next, White can attack with B and can aim at moves like C and D, depending on Black's responses. If Black plays lightly with E next, White F is a tesuji to capture the four cutting stones. Black G (instead of A or E) is conceivable, but the shape is incredibly thin.])
 (;B[qn]
-;W[pm]LB[jq:A]C[This is what white wants. Even if black can make life for the three stones, white's surrounding stones will become strong naturally, while black struggles to make two eyes. White's aiming to attack at A afterwards.])
+;W[pm]LB[jq:A]C[This is what White wants. Even if Black can make life for the three stones, White's surrounding stones will become strong naturally, while Black struggles to make two eyes. White's aiming to attack at A afterwards.])
 (;B[on]
 ;W[po]
 ;B[pm]
 ;W[qn]
 ;B[qm]
-;W[rn]LB[om:B][rm:A]C[Sacrificing is often a good way to deal with problems, but here black has a better option. A and B are miai for white now.])
+;W[rn]LB[om:B][rm:A]C[Sacrificing is often a good way to deal with problems, but here Black has a better option. A and B are miai for White now.])
 (;B[no]
-;W[on]C[This is too good for white.]))
+;W[on]C[This is too good for White.]))

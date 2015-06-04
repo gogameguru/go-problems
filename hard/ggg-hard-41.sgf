@@ -1,13 +1,13 @@
 (;GM[1]FF[4]CA[UTF-8]AP[CGoban:3]ST[2]
 RU[Japanese]SZ[19]KM[0.00]
-SO[http://gogameguru.com/]AW[dj][jj][qo][cp][ip][jp][kp][mp][pp][qp][dq][iq][lq][qq][lr]AB[po][lp][np][op][fq][hq][jq][kq][pq][ir][jr][nr]C[Black to play.
+SO[https://gogameguru.com/]AW[dj][jj][qo][cp][ip][jp][kp][mp][pp][qp][dq][iq][lq][qq][lr]AB[po][lp][np][op][fq][hq][jq][kq][pq][ir][jr][nr]C[Black to play.
 
-http://gogameguru.com/]
+https://gogameguru.com/]
 (;B[lo]
 ;W[mo]
 (;B[ln]
 (;W[mq]
-(;B[nm]C[Correct. White can't escape. ])
+(;B[nm]C[Correct. White can't escape.])
 (;B[nn]
 ;W[mn]
 ;B[mm]
@@ -73,7 +73,7 @@ http://gogameguru.com/]
 (;W[mn]C[White can't fix things by playing here...]
 ;B[mq]
 ;W[lm]
-;B[kn]C[Black is fine, white only has three liberties at the bottom and is too thin to fight anyway.]))
+;B[kn]C[Black is fine, White only has three liberties at the bottom and is too thin to fight anyway.]))
 (;B[mn]
 ;W[ln]
 ;B[ko]
@@ -81,7 +81,7 @@ http://gogameguru.com/]
 ;B[jo]
 ;W[io]
 ;B[jn]
-;W[jm]C[The ladder works for white.])
+;W[jm]C[The ladder works for White.])
 (;B[mq]
 ;W[ln]
 ;B[ko]
@@ -89,7 +89,7 @@ http://gogameguru.com/]
 ;B[jo]
 ;W[io]
 ;B[jn]
-;W[jm]C[The ladder works for white.])
+;W[jm]C[The ladder works for White.])
 (;B[ko]
 ;W[mq]))
 (;B[hp]

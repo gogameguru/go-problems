@@ -1,8 +1,8 @@
 (;GM[1]FF[4]CA[UTF-8]AP[CGoban:3]ST[2]
 RU[Japanese]SZ[19]KM[0.00]
-SO[http://gogameguru.com/]AW[cj][bm][cm][dm][dn][ao][do][bp][dp][dq][dr][fr]AB[cn][co][ap][cp][cq][cr]C[Black to play.
+SO[https://gogameguru.com/]AW[cj][bm][cm][dm][dn][ao][do][bp][dp][dq][dr][fr]AB[cn][co][ap][cp][cq][cr]C[Black to play.
 
-http://gogameguru.com/]
+https://gogameguru.com/]
 (;B[an]
 ;W[aq]
 (;B[bs]
@@ -13,21 +13,21 @@ http://gogameguru.com/]
 
 This is the best result for both players.])
 (;B[bo]
-;W[bn]C[It's a direct ko, but black can do better.]))
-(;W[bn]C[This looks like a good move for white, but it's not in this case.]
+;W[bn]C[It's a direct ko, but Black can do better.]))
+(;W[bn]C[This looks like a good move for White, but it's not in this case.]
 ;B[ar]
 (;W[bq]
 ;B[bo]
 ;W[am]
-;B[br]LB[bn:A]C[Correct. Black's unconditionally alive because white made a mistake with A.])
+;B[br]LB[bn:A]C[Correct. Black's unconditionally alive because White made a mistake with A.])
 (;W[bo]
-;B[bq]LB[bn:A]C[Correct. Black's unconditionally alive because white made a mistake with A.])))
+;B[bq]LB[bn:A]C[Correct. Black's unconditionally alive because White made a mistake with A.])))
 (;B[ar]
 ;W[bs]
 (;B[cs]
 ;W[bn]
 ;B[bo]
-;W[br]LB[ap:A][bq:B][ds:C]C[Now black can fight a direct ko at A, but black could do better. If black ataris at B, white will capture black's stones with C, so black has to fight the ko.])
+;W[br]LB[ap:A][bq:B][ds:C]C[Now Black can fight a direct ko at A, but Black could do better. If Black ataris at B, White will capture Black's stones with C, so Black has to fight the ko.])
 (;B[bo]
 ;W[cs]
 (;B[bq]
@@ -75,7 +75,7 @@ This is the best result for both players.])
 (;B[br]
 ;W[as]))
 (;B[cs]
-;W[br]LB[ap:A][bq:B][ds:C]C[Now black can fight a direct ko at A, but black could do better. If black ataris at B, white will capture black's stones with C, so white has to fight the ko.])))
+;W[br]LB[ap:A][bq:B][ds:C]C[Now Black can fight a direct ko at A, but Black could do better. If Black ataris at B, White will capture Black's stones with C, so White has to fight the ko.])))
 (;B[bq]
 ;W[bn]
 (;B[ar]
@@ -95,7 +95,7 @@ This is the best result for both players.])
 (;B[bq]
 ;W[ar]
 (;B[bo]
-;W[aq]C[It's a direct ko, but black can do better. ])
+;W[aq]C[It's a direct ko, but Black can do better.])
 (;B[aq]
 ;W[bo]))
 (;B[ar]
@@ -155,7 +155,7 @@ This is the best result for both players.])
 (;B[bo]
 ;W[bs]
 (;B[cs]
-;W[an]C[It's a direct ko, but black can do a bit better.])
+;W[an]C[It's a direct ko, but Black can do a bit better.])
 (;B[an]
 ;W[cs]
 (;B[ap]
@@ -205,7 +205,7 @@ This is the best result for both players.])
 ;B[bq]
 ;W[bs]
 (;B[cs]
-;W[an]C[It's a direct ko, but black can do a bit better.])
+;W[an]C[It's a direct ko, but Black can do a bit better.])
 (;B[an]
 ;W[cs]
 (;B[ap]

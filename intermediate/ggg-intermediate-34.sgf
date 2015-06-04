@@ -1,8 +1,8 @@
 (;GM[1]FF[4]CA[UTF-8]AP[CGoban:3]ST[2]
 RU[Japanese]SZ[19]KM[0.00]
-SO[http://gogameguru.com/]AW[cj][fj][cl][bm][en][gn][in][co][eo][jo][bp][cp][dp][fp][hp][ip][fq][er][fr]AB[dm][dn][do][fo][go][ho][ep][cq][dq][eq][br][dr]C[Black to play.
+SO[https://gogameguru.com/]AW[cj][fj][cl][bm][en][gn][in][co][eo][jo][bp][cp][dp][fp][hp][ip][fq][er][fr]AB[dm][dn][do][fo][go][ho][ep][cq][dq][eq][br][dr]C[Black to play.
 
-http://gogameguru.com/]
+https://gogameguru.com/]
 (;B[gm]
 (;W[fm]
 (;B[fl]
@@ -49,7 +49,7 @@ http://gogameguru.com/]
 ;W[em]
 ;B[el]C[Correct])
 (;W[em]
-;B[el]C[Correct, white's three stones are paralysed.]))
+;B[el]C[Correct, White's three stones are paralysed.]))
 (;B[bq]
 ;W[em]
 (;B[bn]

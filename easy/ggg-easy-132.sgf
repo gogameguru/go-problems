@@ -2,12 +2,17 @@
 RU[Japanese]SZ[19]KM[0.00]
 AW[bp][aq][bq][cq][dq][cr][er][es]AB[bm][cn][bo][ap][cp][dp][ep][eq][gq][ar][dr][fr]C[Black to play.
 
-http://gogameguru.com]
+https://gogameguru.com/]
 (;B[cs]
 ;W[ds]
 (;B[bs]
+<<<<<<< HEAD
 (;W[ao]
 (;B[fs]LB[dr:A]C[Correct. Even if White connects at A next, they're already captured as 'one eye vs no eye'. ])
+=======
+;W[ao]
+(;B[fs]LB[dr:A]C[Correct. Even if White connect at A next, they're already captured by 'one vs no eye'.])
+>>>>>>> origin/master
 (;B[an]
 ;W[br]
 (;B[fs]
@@ -23,7 +28,11 @@ http://gogameguru.com]
 (;B[bs]
 ;W[cs]
 ;B[fs]
+<<<<<<< HEAD
 ;W[ds]LB[ao:A]C[Even if Black connects at A next, White is already alive in seki. ])
+=======
+;W[ds]LB[ao:A]C[Even if Black connects at A next, this White group is already alive in seki.])
+>>>>>>> origin/master
 (;B[br]
 ;W[ds])
 (;B[fs]

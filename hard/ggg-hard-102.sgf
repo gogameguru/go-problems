@@ -1,25 +1,25 @@
 (;GM[1]FF[4]CA[UTF-8]AP[CGoban:3]ST[2]
 RU[Japanese]SZ[19]KM[0.00]
-SO[http://gogameguru.com/]AW[qn][qo][ro][op][pp][qp][oq][rq][pr]AB[pm][qm][rm][pn][rn][no][so][np][rp][sp][nq][pq][nr][or]C[Black to play.
+SO[https://gogameguru.com/]AW[qn][qo][ro][op][pp][qp][oq][rq][pr]AB[pm][qm][rm][pn][rn][no][so][np][rp][sp][nq][pq][nr][or]C[Black to play.
 
-http://gogameguru.com/]
+https://gogameguru.com/]
 (;B[rr]
 (;W[sr]
 (;B[ps]
 (;W[qq]
 (;B[rs]
 ;W[sq]
-(;B[qs]LB[sn:A][qr:B]C[Correct. A and B are miai for black.])
+(;B[qs]LB[sn:A][qr:B]C[Correct. A and B are miai for Black.])
 (;B[sn]
 ;W[qs]
 ;B[qr]
-;W[ss]C[It's a ko, but black can do better.])
+;W[ss]C[It's a ko, but Black can do better.])
 (;B[qr]
-;W[ss]C[It's a ko, but black can do better.]))
+;W[ss]C[It's a ko, but Black can do better.]))
 (;B[qr]
-;W[rs]C[It's a ko, but black can do better.])
+;W[rs]C[It's a ko, but Black can do better.])
 (;B[qs]
-;W[rs]C[It's a ko, but black can do better.]))
+;W[rs]C[It's a ko, but Black can do better.]))
 (;W[qr]
 ;B[rs]C[Correct]))
 (;B[qr]
@@ -30,11 +30,11 @@ http://gogameguru.com/]
 ;W[qs]C[This is also a ko. Perhaps you can change your plan slightly?])
 (;W[qq]
 ;B[ps]
-;W[rs]C[It's a ko, but black can do better.])))
+;W[rs]C[It's a ko, but Black can do better.])))
 (;W[sq]
 ;B[qr]
 ;W[qq]
-;B[ps]LB[sn:A]C[Correct. Even if white captures at A, she can only make one eye by doing so.])
+;B[ps]LB[sn:A]C[Correct. Even if White captures at A, she can only make one eye by doing so.])
 (;W[qr]
 ;B[sq]C[Correct])
 (;W[qq]
@@ -52,13 +52,13 @@ http://gogameguru.com/]
 (;B[qq]
 ;W[rs]
 ;B[sq]
-;W[qs]C[It's a ko, but black can do better.])
+;W[qs]C[It's a ko, but Black can do better.])
 (;B[sq]
 ;W[sn])
 (;B[sn]
 ;W[qq]
 ;B[sq]
-;W[rs]C[It's a ko, but black can do better.])
+;W[rs]C[It's a ko, but Black can do better.])
 (;B[rs]
 ;W[qq]))
 (;B[qs]
@@ -135,7 +135,7 @@ http://gogameguru.com/]
 ;W[qq]
 ;B[ps]
 ;W[rr]
-;B[pq]C[It's a ko, but black can do better.])
+;B[pq]C[It's a ko, but Black can do better.])
 (;B[rr]
 ;W[qq]
 ;B[qr]

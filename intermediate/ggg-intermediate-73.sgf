@@ -1,8 +1,8 @@
 (;GM[1]FF[4]CA[UTF-8]AP[CGoban:3]ST[2]
 RU[Japanese]SZ[19]KM[0.00]
-SO[http://gogameguru.com/]AW[cl][el][bm][bn][co][do][go][ep][dq]AB[cn][dn][en][bo][eo][fp][fq]C[Black to play.
+SO[https://gogameguru.com/]AW[cl][el][bm][bn][co][do][go][ep][dq]AB[cn][dn][en][bo][eo][fp][fq]C[Black to play.
 
-http://gogameguru.com/]
+https://gogameguru.com/]
 (;B[cq]
 (;W[bp]
 (;B[dr]
@@ -44,7 +44,7 @@ http://gogameguru.com/]
 ;B[ar]
 ;W[cr]
 ;B[eq]
-;W[er]LB[ep:B][fr:A]C[If black answers at A, white can play elsewhere and still win the capturing race in the corner. White doesn't need to save the stone at B because it's not that important.])
+;W[er]LB[ep:B][fr:A]C[If Black answers at A, White can play elsewhere and still win the capturing race in the corner. White doesn't need to save the stone at B because it's not that important.])
 (;B[eq]
 ;W[cq]
 ;B[dp]

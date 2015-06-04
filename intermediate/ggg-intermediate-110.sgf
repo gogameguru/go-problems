@@ -1,8 +1,8 @@
 (;GM[1]FF[4]CA[UTF-8]AP[CGoban:3]ST[2]
 RU[Japanese]SZ[19]KM[0.00]
-SO[http://gogameguru.com/]AW[pl][on][oo][np][pp][pq][pr]AB[qn][po][op][qp][oq][qq]C[Black to play.
+SO[https://gogameguru.com/]AW[pl][on][oo][np][pp][pq][pr]AB[qn][po][op][qp][oq][qq]C[Black to play.
 
-http://gogameguru.com/]
+https://gogameguru.com/]
 (;B[nr]
 (;W[lq]
 (;B[or]C[Correct])
@@ -10,12 +10,12 @@ http://gogameguru.com/]
 ;W[mq]
 (;B[mr]
 ;W[lr]
-;B[qr]C[It's also possible, but black can do better. ])
-(;B[qr]C[It's also possible, but black can do better. ])))
+;B[qr]C[It's also possible, but Black can do better.])
+(;B[qr]C[It's also possible, but Black can do better.])))
 (;W[nq]
 ;B[or]
 ;W[mr]
-;B[qr]C[Correct. White needs one more move at M3. ])
+;B[qr]C[Correct. White needs one more move at M3.])
 (;W[pn]
 ;B[qo]
 (;W[lq]
@@ -23,10 +23,10 @@ http://gogameguru.com/]
 (;W[nq]
 ;B[or]
 ;W[mr]
-;B[qr]C[Correct. White needs one more move at M3. ]))
+;B[qr]C[Correct. White needs one more move at M3.]))
 (;W[mr]
 ;B[or]C[Correct]
-;W[mq]C[Correct. Black has sente. ]))
+;W[mq]C[Correct. Black has sente.]))
 (;B[nq]
 ;W[mq]
 ;B[mp]
@@ -34,14 +34,14 @@ http://gogameguru.com/]
 ;B[no]
 ;W[or]
 ;B[np]
-;W[lq]C[It's bad for black. ])
+;W[lq]C[It's bad for Black.])
 (;B[or]
 ;W[pn]
 ;B[qo]
 ;W[nr]
 ;B[qr]
 ;W[nq]
-;B[ps]C[It's possible, but black can do better. ])
+;B[ps]C[It's possible, but Black can do better.])
 (;B[qr]
 ;W[or]
 ;B[nq]

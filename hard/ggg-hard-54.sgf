@@ -1,8 +1,8 @@
 (;GM[1]FF[4]CA[UTF-8]AP[CGoban:3]ST[2]
 RU[Japanese]SZ[19]KM[0.00]
-SO[http://gogameguru.com/]AW[ej][dl][ql][cm][dm][gm][pm][dn][pn][eo][jo][ko][lo][oo][bp][ep][jp][lp][op][qp][rp][sp][bq][cq][dq][iq][kq][mq][nq][pq][cr][er][fr][ir][mr][ds]AB[cj][ck][cl][bm][cn][in][jn][kn][ln][mn][qn][bo][co][go][io][mo][cp][dp][ip][mp][np][eq][fq][gq][oq][rq][gr][nr][or][pr][qr][bs][fs][gs][ns]C[Black to play.
+SO[https://gogameguru.com/]AW[ej][dl][ql][cm][dm][gm][pm][dn][pn][eo][jo][ko][lo][oo][bp][ep][jp][lp][op][qp][rp][sp][bq][cq][dq][iq][kq][mq][nq][pq][cr][er][fr][ir][mr][ds]AB[cj][ck][cl][bm][cn][in][jn][kn][ln][mn][qn][bo][co][go][io][mo][cp][dp][ip][mp][np][eq][fq][gq][oq][rq][gr][nr][or][pr][qr][bs][fs][gs][ns]C[Black to play.
 
-http://gogameguru.com/]
+https://gogameguru.com/]
 (;B[kr]
 (;W[ms]
 (;B[is]
@@ -63,8 +63,8 @@ http://gogameguru.com/]
 ;B[ks]
 ;W[js]))))
 (;W[jr]
-;B[ls]LB[lq:B][ms:A]C[Correct. A and B are miai for black.])
-(;W[rr]C[White can't kill black like this...]
+;B[ls]LB[lq:B][ms:A]C[Correct. A and B are miai for Black.])
+(;W[rr]C[White can't kill Black like this...]
 (;B[sr]
 ;W[rs]
 (;B[qq]
@@ -72,13 +72,13 @@ http://gogameguru.com/]
 ;B[qs]
 ;W[ss]
 ;B[sr]C[Black lives.])
-(;B[qs]C[This would be a mistake for black.]
+(;B[qs]C[This would be a mistake for Black.]
 ;W[qq]
 ;B[ss]
 ;W[rr]
 ;B[rs]
 ;W[sq]C[Black can't live locally, so now it would be a capturing race.]))
-(;B[qq]C[This would be a mistake for black.]
+(;B[qq]C[This would be a mistake for Black.]
 ;W[sq]
 ;B[pp]
 ;W[qo]C[Black can't live locally, so now it would be a capturing race.]))

@@ -1,8 +1,8 @@
 (;GM[1]FF[4]CA[UTF-8]AP[CGoban:3]ST[2]
 RU[Japanese]SZ[19]KM[0.00]
-SO[http://gogameguru.com/]AW[jj][bm][co][cp][ep][dq][br][dr]AB[dn][do][dp][eq][er]LB[ep:A]C[Black to play. Can you capture white's cutting stone at A?
+SO[https://gogameguru.com/]AW[jj][bm][co][cp][ep][dq][br][dr]AB[dn][do][dp][eq][er]LB[ep:A]C[Black to play. Can you capture White's cutting stone at A?
 
-http://gogameguru.com/]
+https://gogameguru.com/]
 (;B[fp]
 ;W[eo]
 (;B[fn]C[Correct])
@@ -88,7 +88,7 @@ http://gogameguru.com/]
 ;B[gq]
 ;W[fo]
 ;B[fn]
-;W[hp]C[Now black's in trouble.])
+;W[hp]C[Now Black's in trouble.])
 (;B[gp]
 ;W[fp]
 ;B[gq]

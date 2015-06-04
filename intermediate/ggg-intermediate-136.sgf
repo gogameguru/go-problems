@@ -2,7 +2,7 @@
 RU[Japanese]SZ[19]KM[0.00]
 AW[co][eo][bp][ep][cq][dq][fq][hq][br][fr][hr]AB[en][fn][fo][fp][hp][eq][iq][cr][dr][er][ir]C[Black to play.
 
-http://gogameguru.com]
+https://gogameguru.com/]
 (;B[gq]
 (;W[gr]
 (;B[fs]
@@ -13,7 +13,7 @@ http://gogameguru.com]
 ;W[go]
 (;B[gs]
 ;W[gq]
-(;B[in]C[Correct. It's a net. ])
+(;B[in]C[Correct. It's a net.])
 (;B[io]
 ;W[gm])
 (;B[hm]
@@ -30,7 +30,11 @@ http://gogameguru.com]
 ;W[im]
 ;B[hl]
 ;W[in]))
+<<<<<<< HEAD
 (;B[in]C[This is also possible.]))
+=======
+(;B[in]C[This is also possible, but Black can do better.]))
+>>>>>>> origin/master
 (;B[gs]
 ;W[ip]))
 (;W[go]
@@ -52,11 +56,15 @@ http://gogameguru.com]
 (;B[is]
 ;W[gp]
 ;B[go]
+<<<<<<< HEAD
 ;W[cs]C[It's a ko, but Black can do better. ]))
 (;W[cs]
 ;B[hs]
 ;W[gp]
 ;B[gs]C[Correct]))
+=======
+;W[cs]C[It's a ko, but Black can do better.])))
+>>>>>>> origin/master
 (;B[hs]
 ;W[fs]
 (;B[gp]

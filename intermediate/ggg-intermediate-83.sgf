@@ -1,8 +1,8 @@
 (;GM[1]FF[4]CA[UTF-8]AP[CGoban:3]ST[2]
 RU[Japanese]SZ[19]KM[0.00]
-SO[http://gogameguru.com/]AW[jo][ko][kp][pp][fq][gq][jq][nq][qq][cr][dr][er][ir][jr]AB[dk][qk][qn][fp][gp][hp][ip][jp][rp][bq][cq][dq][eq][iq][br]C[Black to play.
+SO[https://gogameguru.com/]AW[jo][ko][kp][pp][fq][gq][jq][nq][qq][cr][dr][er][ir][jr]AB[dk][qk][qn][fp][gp][hp][ip][jp][rp][bq][cq][dq][eq][iq][br]C[Black to play.
 
-http://gogameguru.com/]
+https://gogameguru.com/]
 (;B[hr]
 (;W[gs]
 (;B[hs]
@@ -19,11 +19,11 @@ http://gogameguru.com/]
 (;W[hq]
 ;B[fr]C[Correct]))
 (;B[hq]
-;W[fs]C[Not bad, but white managed to live. Can you do better?])
+;W[fs]C[Not bad, but White managed to live. Can you do better?])
 (;B[es]
 ;W[hq]))
 (;W[hq]
-;B[fr]LB[gr:A][fs:B]C[Correct. A and B are miai for black, so white's cutting stones are captured.]))
+;B[fr]LB[gr:A][fs:B]C[Correct. A and B are miai for Black, so White's cutting stones are captured.]))
 (;B[gr]
 ;W[fr]
 (;B[hq]

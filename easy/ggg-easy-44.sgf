@@ -1,15 +1,15 @@
 (;GM[1]FF[4]CA[UTF-8]AP[CGoban:3]ST[2]
 RU[Japanese]SZ[19]KM[0.00]
-SO[http://gogameguru.com/]AW[cl][dl][el][bm][fm][gm][bn][gn][do][eo][go][dp][gp][bq][fq][br][cr][dr][er][fr]AB[dm][em][cn][fn][bo][co][fo][bp][ep][fp][cq][dq][eq]C[Black to play.
+SO[https://gogameguru.com/]AW[cl][dl][el][bm][fm][gm][bn][gn][do][eo][go][dp][gp][bq][fq][br][cr][dr][er][fr]AB[dm][em][cn][fn][bo][co][fo][bp][ep][fp][cq][dq][eq]C[Black to play.
 
-http://gogameguru.com/]
-(;B[dn]LB[en:A][cp:B]C[Correct. Now black's alive in seki. If white tries to play A or B, black can capture and make two eyes.])
+https://gogameguru.com/]
+(;B[dn]LB[en:A][cp:B]C[Correct. Now Black's alive in seki. If White tries to play A or B, Black can capture and make two eyes.])
 (;B[cm]
-;W[dn]LB[en:B][do:A]C[The shape of white's four stones is called a 'bulky four'. If black captures white's four stones, white will immediately play at A, and black won't be able to make two eyes.
+;W[dn]LB[en:B][do:A]C[The shape of White's four stones is called a 'bulky four'. If Black captures White's four stones, White will immediately play at A, and Black won't be able to make two eyes.
 
-If black does nothing, white can atari at B, making a 'bulky five' shape. If black then captures, white A still works.]
+If Black does nothing, White can atari at B, making a 'bulky five' shape. If Black then captures, White A still works.]
 (;B[en]
-;W[]C[Even if white passes...]
+;W[]C[Even if White passes...]
 ;B[cp]
 ;W[do]C[Black can't make two eyes.])
 (;B[]C[Black passes. Black's already dead, but for the sake of demonstration...]
@@ -20,11 +20,11 @@ If black does nothing, white can atari at B, making a 'bulky five' shape. If bla
 ;W[dn]C[Black can't make two eyes.])
 (;B[dn]
 ;W[eo]C[Black can't make two eyes.])))
-(;B[en]C[It's already a dead shape. ]
+(;B[en]C[It's already a dead shape.]
 ;W[dn]
 ;B[cp]
 ;W[do])
-(;B[cp]C[It's already a dead shape. ]
+(;B[cp]C[It's already a dead shape.]
 ;W[dn]
 ;B[en]
 ;W[do]))

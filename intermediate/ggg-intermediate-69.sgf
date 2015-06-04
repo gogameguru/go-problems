@@ -1,8 +1,8 @@
 (;GM[1]FF[4]CA[UTF-8]AP[CGoban:3]ST[2]
 RU[Japanese]SZ[19]KM[0.00]
-SO[http://gogameguru.com/]AW[cn][co][cp][cq][cr]AB[el][bm][cm][dn][do][dp][dq][gq][dr]C[Black to play.
+SO[https://gogameguru.com/]AW[cn][co][cp][cq][cr]AB[el][bm][cm][dn][do][dp][dq][gq][dr]C[Black to play.
 
-http://gogameguru.com/]
+https://gogameguru.com/]
 (;B[ao]
 ;W[ap]
 (;B[an]
@@ -11,7 +11,7 @@ http://gogameguru.com/]
 (;W[br]
 (;B[cs]
 ;W[bs]
-(;B[ar]LB[bp:A][aq:B]C[Correct. A and B are miai for black. White's is dead.])
+(;B[ar]LB[bp:A][aq:B]C[Correct. A and B are miai for Black. White's is dead.])
 (;B[aq]
 ;W[ar]))
 (;B[ar]
@@ -25,12 +25,12 @@ http://gogameguru.com/]
 (;W[ar]
 ;B[bs]
 ;W[cs]
-;B[br]LB[bp:A][aq:B]C[Correct. It looks like white has a lot of eyespace, but white will eventually be forced to connect at A and B, so it's only a three point eye. White's dead.]))
+;B[br]LB[bp:A][aq:B]C[Correct. It looks like White has a lot of eyespace, but White will eventually be forced to connect at A and B, so it's only a three point eye. White's dead.]))
 (;B[cs]
 ;W[bs]
 (;B[ar]
 ;W[bq]
-;B[aq]C[It's a ko, but black can do better. ])
+;B[aq]C[It's a ko, but Black can do better.])
 (;B[bq]
 ;W[ar]
 (;B[ds]
@@ -42,11 +42,11 @@ http://gogameguru.com/]
 (;B[ar]
 ;W[bq]
 (;B[aq]
-;W[br]C[It's a ko, but black can do better.])
+;W[br]C[It's a ko, but Black can do better.])
 (;B[bs]
 ;W[cs]
 ;B[aq]
-;W[br]C[It's a ko, but black can do better.]))
+;W[br]C[It's a ko, but Black can do better.]))
 (;B[br]
 ;W[bs]
 (;B[aq]
@@ -144,7 +144,7 @@ Black can do better.])
 ;B[bo]
 ;W[bp]
 (;B[aq]
-;W[ao]C[It' a ko, but black can do better.])
+;W[ao]C[It' a ko, but Black can do better.])
 (;B[ao]
 ;W[aq]
 (;B[br]
@@ -153,7 +153,7 @@ Black can do better.])
 ;W[am])
 (;B[am]
 ;W[ar]))
-(;W[am]LB[bl:A][cs:B]C[White could also play here now. Even though white doesn't strictly have two eyes, white would be able to make a second eye on the outside starting with A (if black plays B), in most cases. If doing that isn't possible, white can still live with the previous variation.]))
+(;W[am]LB[bl:A][cs:B]C[White could also play here now. Even though White doesn't strictly have two eyes, White would be able to make a second eye on the outside starting with A (if Black plays B), in most cases. If doing that isn't possible, White can still live with the previous variation.]))
 (;B[am]
 ;W[br])))
 (;B[br]

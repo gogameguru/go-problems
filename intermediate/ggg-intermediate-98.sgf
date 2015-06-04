@@ -1,8 +1,8 @@
 (;GM[1]FF[4]CA[UTF-8]AP[CGoban:3]ST[2]
 RU[Japanese]SZ[19]KM[0.00]
-SO[http://gogameguru.com/]AW[jj][bk][bl][bm][cm][dm][en][fn][qn][co][do][cp][dp][gp][pp][cq][br][cr]AB[ck][dl][em][bn][cn][dn][bo][eo][fo][go][bp][jp][bq][dq][eq][fq][nq]C[Black to play.
+SO[https://gogameguru.com/]AW[jj][bk][bl][bm][cm][dm][en][fn][qn][co][do][cp][dp][gp][pp][cq][br][cr]AB[ck][dl][em][bn][cn][dn][bo][eo][fo][go][bp][jp][bq][dq][eq][fq][nq]C[Black to play.
 
-http://gogameguru.com/]
+https://gogameguru.com/]
 (;B[gl]
 ;W[gm]
 (;B[fm]
@@ -21,7 +21,7 @@ http://gogameguru.com/]
 ;B[hk]
 ;W[il]
 ;B[jl]
-;W[ik]C[This ladder doesn't work for black.])
+;W[ik]C[This ladder doesn't work for Black.])
 (;B[hl]
 ;W[hn]
 ;B[in]
@@ -47,7 +47,7 @@ http://gogameguru.com/]
 ;B[hk]
 ;W[il]
 ;B[jl]
-;W[ik]C[This ladder doesn't work for black.])
+;W[ik]C[This ladder doesn't work for Black.])
 (;B[hm]
 ;W[hn]
 ;B[in]
@@ -71,7 +71,7 @@ http://gogameguru.com/]
 (;B[fl]
 ;W[el]
 ;B[gn]
-;W[em]C[Sometimes black plays something like this, but black can do much better in this situation.]))
+;W[em]C[Sometimes Black plays something like this, but Black can do much better in this situation.]))
 (;B[hm]
 ;W[fm]
 ;B[el]

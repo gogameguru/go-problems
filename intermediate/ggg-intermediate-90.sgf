@@ -1,8 +1,8 @@
 (;GM[1]FF[4]CA[UTF-8]AP[CGoban:3]ST[2]
 RU[Japanese]SZ[19]KM[0.00]
-SO[http://gogameguru.com/]AW[ao][co][bp][bq][cq][dq][eq][dr]AB[bn][cn][bo][fo][cp][dp][ep][fq][gq][er][fs]C[Black to play.
+SO[https://gogameguru.com/]AW[ao][co][bp][bq][cq][dq][eq][dr]AB[bn][cn][bo][fo][cp][dp][ep][fq][gq][er][fs]C[Black to play.
 
-http://gogameguru.com/]
+https://gogameguru.com/]
 (;B[bs]
 (;W[br]
 (;B[cs]
@@ -11,14 +11,14 @@ http://gogameguru.com/]
 ;W[aq]
 (;B[as]C[Correct. It's a bent four in the corner (http://senseis.xmp.net/?BentFourInTheCorner).])
 (;B[es]
-;W[as]C[It's a ko, but black can do better.]))
+;W[as]C[It's a ko, but Black can do better.]))
 (;B[ar]
 ;W[ap]C[It's a seki.])
 (;B[an]
 ;W[ap]
 ;B[ar]C[It's a seki.]))
 (;B[ds]
-;W[cs]C[It's a ko, but black can do better.]))
+;W[cs]C[It's a ko, but Black can do better.]))
 (;W[cs]
 ;B[br]
 (;W[ar]
@@ -53,7 +53,7 @@ http://gogameguru.com/]
 (;B[es]
 ;W[aq])))
 (;B[cs]
-;W[ar]C[It's a ko, but black can do better.]))
+;W[ar]C[It's a ko, but Black can do better.]))
 (;B[ap]
 ;W[bs]
 ;B[ar]
@@ -69,7 +69,7 @@ http://gogameguru.com/]
 (;B[cs]
 ;W[bs]
 (;B[br]
-;W[ar]C[It's a ko, but black can do better.])
+;W[ar]C[It's a ko, but Black can do better.])
 (;B[ds]
 ;W[ar]
 (;B[cr]
@@ -81,4 +81,4 @@ http://gogameguru.com/]
 (;B[ds]
 ;W[cs]
 ;B[bs]
-;W[es]C[It's a ko, but black can do better.]))
+;W[es]C[It's a ko, but Black can do better.]))

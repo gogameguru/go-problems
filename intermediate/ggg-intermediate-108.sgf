@@ -1,13 +1,13 @@
 (;GM[1]FF[4]CA[UTF-8]AP[CGoban:3]ST[2]
 RU[Japanese]SZ[19]KM[0.00]
-SO[http://gogameguru.com/]AW[pm][pn][rn][po][pp][mq][nq][qq][rq][or][pr]AB[ok][qk][nl][rl][nn][qo][np][op][qp][rp][sp][oq][pq]C[Black to play.
+SO[https://gogameguru.com/]AW[pm][pn][rn][po][pp][mq][nq][qq][rq][or][pr]AB[ok][qk][nl][rl][nn][qo][np][op][qp][rp][sp][oq][pq]C[Black to play.
 
-http://gogameguru.com/]
+https://gogameguru.com/]
 (;B[sm]
 (;W[sn]
 ;B[qn]
 ;W[qm]
-;B[rm]LB[qn:B][rn:C][sq:A]C[Correct. Even if white plays at A now, the groups at A and B are in a temporary seki, but because white's outside stones will eventually be captured, white's dead.])
+;B[rm]LB[qn:B][rn:C][sq:A]C[Correct. Even if White plays at A now, the groups at A and B are in a temporary seki, but because White's outside stones will eventually be captured, White's dead.])
 (;W[rm]
 ;B[sn]
 ;W[so]

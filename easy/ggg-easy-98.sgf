@@ -1,8 +1,8 @@
 (;GM[1]FF[4]CA[UTF-8]AP[CGoban:3]ST[2]
 RU[Japanese]SZ[19]KM[0.00]
-SO[http://gogameguru.com/]AW[dk][gk][dn][bo][do][bp][cp][cq][br][cr][dr]AB[cm][bn][cn][co][eo][dp][dq][fq][er][ds]C[Black to play.
+SO[https://gogameguru.com/]AW[dk][gk][dn][bo][do][bp][cp][cq][br][cr][dr]AB[cm][bn][cn][co][eo][dp][dq][fq][er][ds]C[Black to play.
 
-http://gogameguru.com/]
+https://gogameguru.com/]
 (;B[em]
 ;W[ep]
 (;B[eq]
@@ -35,13 +35,13 @@ http://gogameguru.com/]
 ;B[dl]
 ;W[em]
 ;B[fm]
-;W[el]C[This ladder doesn't work for black.])
+;W[el]C[This ladder doesn't work for Black.])
 (;B[dm]
 ;W[en]
 ;B[fn]
 ;W[em]
 ;B[el]
-;W[fm]C[This ladder doesn't work for black.])
+;W[fm]C[This ladder doesn't work for Black.])
 (;B[el]
 ;W[en]
 ;B[fn]

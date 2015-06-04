@@ -1,8 +1,8 @@
 (;GM[1]FF[4]CA[UTF-8]AP[CGoban:3]ST[2]
 RU[Japanese]SZ[19]KM[0.00]
-SO[http://gogameguru.com/]AW[cn][co][dp][dq][dr][fr]AB[do][cp][ep][fp][cq][cr]C[Black to play.
+SO[https://gogameguru.com/]AW[cn][co][dp][dq][dr][fr]AB[do][cp][ep][fp][cq][cr]C[Black to play.
 
-http://gogameguru.com/]
+https://gogameguru.com/]
 (;B[fq]
 (;W[er]
 ;B[gr]
@@ -142,7 +142,7 @@ http://gogameguru.com/]
 (;B[hq]
 ;W[ir]
 (;B[iq]
-;W[jr]C[There's no way to capture white now.])
+;W[jr]C[There's no way to capture White now.])
 (;B[jq]
 ;W[iq]
 ;B[ip]
@@ -150,13 +150,13 @@ http://gogameguru.com/]
 (;B[jr]
 ;W[hp]
 ;B[io]
-;W[eo]LB[dn:A][fo:B]C[A and B are miai for white.])
+;W[eo]LB[dn:A][fo:B]C[A and B are miai for White.])
 (;B[io]
 ;W[kq])
 (;B[kq]
 ;W[hp]
 ;B[io]
-;W[eo]LB[dn:A][fo:B]C[A and B are miai for white.])))
+;W[eo]LB[dn:A][fo:B]C[A and B are miai for White.])))
 (;B[iq]
 ;W[hq]
 ;B[hp]
@@ -207,4 +207,4 @@ http://gogameguru.com/]
 ;W[gp]
 ;B[fq]
 ;W[eo]LB[dn:A][fo:B]C[A and B are miai.]))
-(;B[hq]LB[bo:C][bp:A][bq:B]C[This is possible, but if you let white get too many liberties, white can play A-C to capture the corner. If white does play to capture the corner, you'd prefer it to become a capturing race so you can play ko threats and forcing moves that reduce white's territory (forcing white to capture) later.])))
+(;B[hq]LB[bo:C][bp:A][bq:B]C[This is possible, but if you let White get too many liberties, White can play A-C to capture the corner. If White does play to capture the corner, you'd prefer it to become a capturing race so you can play ko threats and forcing moves that reduce White's territory (forcing White to capture) later.])))

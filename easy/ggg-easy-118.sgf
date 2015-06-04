@@ -1,8 +1,8 @@
 (;GM[1]FF[4]CA[UTF-8]AP[CGoban:3]ST[2]
 RU[Japanese]SZ[19]KM[0.00]
-SO[http://gogameguru.com/]AW[rn][po][ro][pp][nq][pq][ps]AB[qp][rp][qq][rr]C[Black to play.
+SO[https://gogameguru.com/]AW[rn][po][ro][pp][nq][pq][ps]AB[qp][rp][qq][rr]C[Black to play.
 
-http://gogameguru.com/]
+https://gogameguru.com/]
 (;B[qs]
 (;W[pr]
 (;B[qr]
@@ -14,10 +14,10 @@ http://gogameguru.com/]
 (;B[rq]C[Correct])
 (;B[qo]
 ;W[qn]
-;B[ss]C[It's a ko, but black can do better.])
+;B[ss]C[It's a ko, but Black can do better.])
 (;B[so]
 ;W[sn]
-;B[ss]C[It's a ko, but black can do better.]))
+;B[ss]C[It's a ko, but Black can do better.]))
 (;B[sr]
 ;W[sp]))
 (;B[sp]
@@ -64,11 +64,11 @@ http://gogameguru.com/]
 ;B[sp]
 ;W[rs]
 ;B[qr]
-;W[qo]C[It's a ko, but black can do better. ]))))
+;W[qo]C[It's a ko, but Black can do better.]))))
 (;B[pr]
 ;W[or]
 ;B[qs]
-;W[qr]C[It's a ko, but black can do better.])
+;W[qr]C[It's a ko, but Black can do better.])
 (;B[sq]
 ;W[rs]
 (;B[pr]

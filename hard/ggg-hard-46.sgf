@@ -1,8 +1,8 @@
 (;GM[1]FF[4]CA[UTF-8]AP[CGoban:3]ST[2]
 RU[Japanese]SZ[19]KM[0.00]
-SO[http://gogameguru.com/]AW[lj][nj][oj][mk][pk][qk][ll][ml][ql][mm][qm][ln][lo][mo][oo][ro][op][qp][jq][mq][oq][pq][or]AB[kj][kk][lk][kl][nl][pl][km][lm][nm][pm][mn][nn][pn][jo][po][pp][nq][qq][rq]C[Black to play.
+SO[https://gogameguru.com/]AW[lj][nj][oj][mk][pk][qk][ll][ml][ql][mm][qm][ln][lo][mo][oo][ro][op][qp][jq][mq][oq][pq][or]AB[kj][kk][lk][kl][nl][pl][km][lm][nm][pm][mn][nn][pn][jo][po][pp][nq][qq][rq]C[Black to play.
 
-http://gogameguru.com/]
+https://gogameguru.com/]
 (;B[rn]
 ;W[qn]
 ;B[qo]
@@ -14,11 +14,11 @@ http://gogameguru.com/]
 ;B[rr]
 (;W[ps]
 ;B[pr]C[Correct. Black has a ko for life.])
-(;W[pr]C[This isn't good enough for white...]
+(;W[pr]C[This isn't good enough for White...]
 ;B[nk]
 ;W[mj]
-;B[ok]LB[pr:A]C[Correct. Black lives without ko, because of white's mistake at A. ]))
-(;W[sp]C[This isn't white's best move, but black still needs to be careful...]
+;B[ok]LB[pr:A]C[Correct. Black lives without ko, because of White's mistake at A.]))
+(;W[sp]C[This isn't White's best move, but Black still needs to be careful...]
 (;B[nk]
 ;W[mj]
 ;B[ok]
@@ -27,7 +27,7 @@ http://gogameguru.com/]
 ;W[sq]
 (;B[sr]
 ;W[ss]
-;B[rs]C[Correct, black lives without ko.])
+;B[rs]C[Correct, Black lives without ko.])
 (;B[rs]
 ;W[sr]))
 (;B[sr]
@@ -37,10 +37,10 @@ http://gogameguru.com/]
 ;W[rr]
 (;B[qr]
 ;W[ss]
-;B[rs]C[Correct, black lives without ko.])
+;B[rs]C[Correct, Black lives without ko.])
 (;B[so]C[This is a mistake...]
-;W[qr]LB[rn:A]C[Now black has to fight a ko at A.])))
-(;B[pr]C[This isn't black's best move either...]
+;W[qr]LB[rn:A]C[Now Black has to fight a ko at A.])))
+(;B[pr]C[This isn't Black's best move either...]
 ;W[sr]
 (;B[rr]
 ;W[sq]
@@ -58,7 +58,7 @@ http://gogameguru.com/]
 ;W[mj]
 ;B[ok]
 ;W[qr]))))
-(;W[nk]C[White can't capture black like this...]
+(;W[nk]C[White can't capture Black like this...]
 ;B[pr]
 (;W[rr]
 ;B[sr]

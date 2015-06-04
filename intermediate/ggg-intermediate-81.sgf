@@ -1,10 +1,10 @@
 (;GM[1]FF[4]CA[UTF-8]AP[CGoban:3]ST[2]
 RU[Japanese]SZ[19]KM[0.00]
-SO[http://gogameguru.com/]AW[bl][cl][el][bm][dm][fm][gm][bn][cn][dn][en][ao][bo][ap][bq][eq][jq][ar][br]AB[fj][bk][ck][dk][al][dl][gl][hl][am][hm][fn][gn][co][bp][cp][dp][fp][cr][bs]LB[eq:A]C[Black to play.
+SO[https://gogameguru.com/]AW[bl][cl][el][bm][dm][fm][gm][bn][cn][dn][en][ao][bo][ap][bq][eq][jq][ar][br]AB[fj][bk][ck][dk][al][dl][gl][hl][am][hm][fn][gn][co][bp][cp][dp][fp][cr][bs]LB[eq:A]C[Black to play.
 
-How should black defend against white A?
+How should Black defend against White A?
 
-http://gogameguru.com/]
+https://gogameguru.com/]
 (;B[er]
 (;W[ep]
 (;B[fq]
@@ -56,7 +56,7 @@ http://gogameguru.com/]
 ;W[fs]
 ;B[cs]
 ;W[do])
-(;B[fr]C[Also correct, but there's a better move. ]))
+(;B[fr]C[Also correct, but there's a better move.]))
 (;B[eo]
 ;W[do]
 (;B[fo]
@@ -84,7 +84,7 @@ http://gogameguru.com/]
 ;B[eo]
 ;W[do]
 (;B[fo]
-;W[er]C[White will capture black's corner stones.])
+;W[er]C[White will capture Black's corner stones.])
 (;B[fq]
 ;W[er])
 (;B[er]

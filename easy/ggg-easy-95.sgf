@@ -1,11 +1,11 @@
 (;GM[1]FF[4]CA[UTF-8]AP[CGoban:3]ST[2]
 RU[Japanese]SZ[19]KM[0.00]
-SO[http://gogameguru.com/]AW[an][bn][cn][dn][do][dp][dq][ar][cr][er][cs]AB[bo][co][cp][cq][br][bs]C[Black to play.
+SO[https://gogameguru.com/]AW[an][bn][cn][dn][do][dp][dq][ar][cr][er][cs]AB[bo][co][cp][cq][br][bs]C[Black to play.
 
-http://gogameguru.com/]
+https://gogameguru.com/]
 (;B[bq]
 (;W[ap]
-;B[ao]LB[aq:A]C[Correct. Even if white plays at A next, black's still alive in seki: http://senseis.xmp.net/?seki])
+;B[ao]LB[aq:A]C[Correct. Even if White plays at A next, Black's still alive in seki: http://senseis.xmp.net/?seki])
 (;W[ao]
 ;B[ap]C[Correct]))
 (;B[aq]
@@ -22,7 +22,7 @@ http://gogameguru.com/]
 ;W[ap])
 (;B[as]
 ;W[ap]))
-(;W[ap]C[White can also kill black like this.]
+(;W[ap]C[White can also kill Black like this.]
 (;B[bq]
 ;W[ao])
 (;B[ao]
@@ -42,4 +42,4 @@ http://gogameguru.com/]
 (;B[aq]
 ;W[as]))
 (;B[bp]
-;W[ao]LB[ap:B][aq:A]C[Even if black plays at A or B next, white can ignore it and black's still dead.]))
+;W[ao]LB[ap:B][aq:A]C[Even if Black plays at A or B next, White can ignore it and Black's still dead.]))

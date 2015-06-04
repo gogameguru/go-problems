@@ -2,10 +2,10 @@
 RU[Japanese]SZ[19]KM[0.00]
 AW[nq][oq][pq][jr][kr][lr][mr][is]AB[qn][mo][ip][np][pp][qp][jq][lq][mq][qq][hr][ir][nr]C[Black to play.
 
-http://gogameguru.com]
+https://gogameguru.com/]
 (;B[os]
 (;W[or]
-;B[ps]
+(;B[ps]
 (;W[qr]
 (;B[rr]
 (;W[ns]
@@ -23,17 +23,25 @@ http://gogameguru.com]
 (;B[pr]
 ;W[qr])))
 (;W[rs]
-;B[ns]
+(;B[ns]
 ;W[rq]
 (;B[sr]
-;W[pr]
+(;W[pr]
 (;B[op]C[Correct])
 (;B[rp]
 ;W[qs]))
+(;W[sq]
+;B[pr]C[Correct]))
 (;B[pr]
 ;W[sr]
 ;B[op]
 ;W[qs]))
+(;B[qs]
+;W[ns]
+;B[ss]
+;W[pr])
+(;B[pr]
+;W[ns]))
 (;W[qs]
 ;B[rs]
 ;W[ns]
@@ -46,22 +54,73 @@ http://gogameguru.com]
 ;W[ns]))
 (;W[ns]
 ;B[qr]C[Correct]))
-(;W[pr]
-(;B[qr]
-;W[ps]
-(;B[op]C[Correct])
-(;B[qs]C[Correct]))
+(;B[qs]
+;W[ns]
 (;B[ps]
 ;W[qr]
 ;B[rr]
 ;W[rs]
-;B[qs]C[Also correct])))
+;B[ss]
+;W[pr])
+(;B[pr]
+;W[ps]C[It's a ko, but Black can do better.]))
+(;B[qr]
+;W[ps]
+;B[pr]
+;W[ns])
+(;B[pr]
+;W[ns]
+(;B[qs]
+;W[ps]C[It's a ko, but Black can do better.])
+(;B[ps]
+;W[qr])
+(;B[qr]
+;W[ps])))
+(;W[pr]
+(;B[qr]
+;W[ps]
+(;B[op]C[Correct])
+(;B[qs]C[Correct])
+(;B[js]
+;W[or]
+;B[ns]
+;W[ms]
+(;B[ns]
+;W[ks])
+(;B[ks]
+;W[ls]
+;B[js]
+;W[ns])))
+(;B[ps]
+;W[qr]
+;B[rr]
+(;W[rs]
+(;B[qs]C[Also correct])
+(;B[op]
+;W[rq]
+;B[sr]
+;W[qs]
+;B[rp]
+;W[ms]))
+(;W[qs]
+;B[rs]C[Also correct]))
+(;B[op]
+;W[or]
+;B[qr]
+;W[ns])
+(;B[qs]
+;W[qr]
+;B[rr]
+(;W[rs]
+;B[ps]C[Also correct])
+(;W[ps]
+;B[rs]C[Also correct]))))
 (;B[pr]
 ;W[or]
 (;B[os]
 ;W[ns]
 (;B[qs]
-;W[ps]C[It's a ko, but black can do better. ])
+;W[ps]C[It's a ko, but Black can do better.])
 (;B[ps]
 ;W[qr]))
 (;B[op]
@@ -81,7 +140,7 @@ http://gogameguru.com]
 (;B[js]
 ;W[or]
 ;B[qr]
-;W[ns])
+;W[ks])
 (;B[ps]
 ;W[os]
 (;B[or]
@@ -95,4 +154,4 @@ http://gogameguru.com]
 (;B[pr]
 ;W[or])
 (;B[js]
-;W[ns])))
+;W[ks])))

@@ -1,24 +1,24 @@
 (;GM[1]FF[4]CA[UTF-8]AP[CGoban:3]ST[2]
 RU[Japanese]SZ[19]KM[0.00]
-SO[http://gogameguru.com/]AW[on][po][pp][qp][oq][qq][or]AB[qj][qm][op][mq][pq][pr][qr]C[Black to play.
+SO[https://gogameguru.com/]AW[on][po][pp][qp][oq][qq][or]AB[qj][qm][op][mq][pq][pr][qr]C[Black to play.
 
-http://gogameguru.com/]
+https://gogameguru.com/]
 (;B[os]
 (;W[np]
 (;B[nr]
 ;W[oo]
-(;B[jq]C[Correct. The result is favorable for black. ])
-(;B[nq]C[It's also possible, but black can do better. ]))
+(;B[jq]C[Correct. The result is favorable for Black.])
+(;B[nq]C[It's also possible, but Black can do better.]))
 (;B[nq]
 ;W[oo]
-;B[nr]C[It's also possible, but black can do better. ]))
-(;W[nr]C[This move isn't good. ]
+;B[nr]C[It's also possible, but Black can do better.]))
+(;W[nr]C[This move isn't good.]
 ;B[mr]
 ;W[np]
 ;B[ns]
 ;W[oo]
-(;B[jq]C[Correct. It's better for black. ])
-(;B[iq]C[Correct. It's better for black. ])))
+(;B[jq]C[Correct. It's better for Black.])
+(;B[iq]C[Correct. It's better for Black.])))
 (;B[np]
 ;W[rr]
 ;B[nr]
@@ -33,7 +33,7 @@ http://gogameguru.com/]
 ;W[qs])
 (;B[oo]
 ;W[rr]
-;B[pn]C[It's possible, but it's better for white. ]))
+;B[pn]C[It's possible, but it's better for White.]))
 (;B[rr]
 ;W[np])
 (;B[rq]

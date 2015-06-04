@@ -1,14 +1,14 @@
 (;GM[1]FF[4]CA[UTF-8]AP[CGoban:3]ST[2]
 RU[Japanese]SZ[19]KM[0.00]
-SO[http://gogameguru.com/]AW[pn][qo][ro][so][mp][op][pp][oq][pr][qr][qs][rs]AB[jp][qp][rp][sp][lq][pq][qq][sq][nr][or][rr]C[Black to play.
+SO[https://gogameguru.com/]AW[pn][qo][ro][so][mp][op][pp][oq][pr][qr][qs][rs]AB[jp][qp][rp][sp][lq][pq][qq][sq][nr][or][rr]C[Black to play.
 
-http://gogameguru.com/]
-(;B[sr]LB[ss:A]C[Correct. Now white doesn't have enough liberties to atari at A.])
+https://gogameguru.com/]
+(;B[sr]LB[ss:A]C[Correct. Now White doesn't have enough liberties to atari at A.])
 (;B[os]
 ;W[sr]LB[ss:A]C[Black can capture at A, but this will be a ko fight. Black can do better.])
 (;B[ss]
-;W[sr]C[It's a ko, but black can do better.])
-(;B[ps]C[This move helps white.]
+;W[sr]C[It's a ko, but Black can do better.])
+(;B[ps]C[This move helps White.]
 ;W[os]
 (;B[sr]
 ;W[mr]
@@ -29,8 +29,8 @@ http://gogameguru.com/]
 (;B[ns]
 ;W[ms])))
 (;B[ns]
-;W[sr]C[If black wants a ko, he'll get one, but black can avoid ko completely.]))
+;W[sr]C[If Black wants a ko, he'll get one, but Black can avoid ko completely.]))
 (;B[nq]
-;W[sr]C[It's a ko fight, but black can do better.])
+;W[sr]C[It's a ko fight, but Black can do better.])
 (;B[mq]
-;W[sr]C[It's a ko fight, but black can do better.]))
+;W[sr]C[It's a ko fight, but Black can do better.]))

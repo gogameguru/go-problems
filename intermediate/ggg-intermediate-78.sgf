@@ -1,8 +1,8 @@
 (;GM[1]FF[4]CA[UTF-8]AP[CGoban:3]ST[2]
 RU[Japanese]SZ[19]KM[0.00]
-SO[http://gogameguru.com/]AW[ll][jm][lm][en][gn][kn][co][io][jo][cp][ip][dq][iq][dr][fr][gr][hr][jr][es]AB[nk][mm][ln][mn][ko][dp][ep][hp][jp][lp][qp][eq][fq][gq][hq][jq][er][ir][kr][is]C[Black to play.
+SO[https://gogameguru.com/]AW[ll][jm][lm][en][gn][kn][co][io][jo][cp][ip][dq][iq][dr][fr][gr][hr][jr][es]AB[nk][mm][ln][mn][ko][dp][ep][hp][jp][lp][qp][eq][fq][gq][hq][jq][er][ir][kr][is]C[Black to play.
 
-http://gogameguru.com/]
+https://gogameguru.com/]
 (;B[fs]
 (;W[gs]
 (;B[cq]
@@ -12,12 +12,12 @@ http://gogameguru.com/]
 (;B[js]
 (;W[bq]
 ;B[hs]C[Correct])
-(;W[ds]C[If white play here, which is quite a bad move,]
-;B[bq]C[Now black can extend here, and]
+(;W[ds]C[If White play here, which is quite a bad move,]
+;B[bq]C[Now Black can extend here, and]
 ;W[br]
 ;B[hs]
 ;W[bp]
-;B[fs]LB[bp:B][aq:C][bq:A]C[Correct. Exchanging A for B could be better for black in this case, because now black has two ko threats in the bottom left (starting with C).]))
+;B[fs]LB[bp:B][aq:C][bq:A]C[Correct. Exchanging A for B could be better for Black in this case, because now Black has two ko threats in the bottom left (starting with C).]))
 (;B[bq]
 ;W[br]
 ;B[js]C[Correct])
@@ -29,7 +29,7 @@ http://gogameguru.com/]
 ;W[cs]
 ;B[js]
 ;W[bp]
-;B[hs]LB[bp:B][bq:A]C[Also correct. The exchange of A for B is unnecessary though, and probably more helpful for white at this time.])
+;B[hs]LB[bp:B][bq:A]C[Also correct. The exchange of A for B is unnecessary though, and probably more helpful for White at this time.])
 (;B[js]
 ;W[ds]
 ;B[hs]

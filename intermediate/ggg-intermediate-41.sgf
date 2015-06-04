@@ -1,10 +1,10 @@
 (;GM[1]FF[4]CA[UTF-8]AP[CGoban:3]ST[2]
 RU[Japanese]SZ[19]KM[0.00]
-SO[http://gogameguru.com/]AW[ck][dk][ek][bp][fp][bq][cq][dq][fq][lq][oq][br][dr][er]AB[dj][pj][dn][bo][po][ap][cp][dp][ep][eq][qq][fr][gr]C[Black to play.
+SO[https://gogameguru.com/]AW[ck][dk][ek][bp][fp][bq][cq][dq][fq][lq][oq][br][dr][er]AB[dj][pj][dn][bo][po][ap][cp][dp][ep][eq][qq][fr][gr]C[Black to play.
 
-http://gogameguru.com/]
+https://gogameguru.com/]
 (;B[go]
-;W[fo]C[White shouldn't try to pull these stones out, but how does black handle it if she does?]
+;W[fo]C[White shouldn't try to pull these stones out, but how does Black handle it if she does?]
 ;B[fn]
 (;W[gp]
 ;B[hp]
@@ -15,8 +15,8 @@ http://gogameguru.com/]
 ;W[gq]
 ;B[iq]
 ;W[hr]
-;B[ir]LB[en:D][in:B][eo:C][fs:A]C[Correct. White can capture two stones at A next, but the corner was already alive, so those two stones weren't very important. After A, black should play B and keep C as a ko threat. If white plays C, black D is fine.])
-(;W[en]C[If white plays like this...]
+;B[ir]LB[en:D][in:B][eo:C][fs:A]C[Correct. White can capture two stones at A next, but the corner was already alive, so those two stones weren't very important. After A, Black should play B and keep C as a ko threat. If White plays C, Black D is fine.])
+(;W[en]C[If White plays like this...]
 ;B[eo]
 ;W[gn]
 ;B[em]
@@ -33,13 +33,13 @@ http://gogameguru.com/]
 ;W[hq]
 (;B[jq]
 (;W[hr]
-;B[jr]LB[jr:A][gs:B]C[Correct. This move (A) is sente because black can play B next.])
+;B[jr]LB[jr:A][gs:B]C[Correct. This move (A) is sente because Black can play B next.])
 (;W[jr]
 ;B[kr]
 ;W[ir]
-;B[kq]LB[bm:D][gm:B][in:C][hs:A]C[Correct. This is even worse for white, because there's still a capturing race at the bottom (whoever plays A will win), and white's bottom right group has been damaged.
+;B[kq]LB[bm:D][gm:B][in:C][hs:A]C[Correct. This is even worse for White, because there's still a capturing race at the bottom (whoever plays A will win), and White's bottom right group has been damaged.
 
-If white plays B now, black can just play C. A and D will be miai for black next.]))
+If White plays B now, Black can just play C. A and D will be miai for Black next.]))
 (;B[gm]
 ;W[jq]))
 (;B[io]
@@ -47,9 +47,9 @@ If white plays B now, black can just play C. A and D will be miai for black next
 ;B[jo]
 ;W[jp]))
 (;B[gp]
-;W[en]C[It's a ko, but black can do better.])
+;W[en]C[It's a ko, but Black can do better.])
 (;B[gq]
-;W[en]C[It's a ko, but black can do better.])))
+;W[en]C[It's a ko, but Black can do better.])))
 (;B[jq]C[This move looks normal, but...]
 ;W[fn]C[White's happy to get a chance to play here.])
 (;B[fo]
@@ -58,15 +58,15 @@ If white plays B now, black can just play C. A and D will be miai for black next
 ;W[hp]
 ;B[ho]
 ;W[ip]C[Sacrificing two stones is a good idea. Can you find a way to get more out of your sacrifice?])
-(;W[hq]C[Playing here is a mistake for white.]
+(;W[hq]C[Playing here is a mistake for White.]
 ;B[hp]LB[gq:B][iq:A]C[Black could also play A or B, but in this position it's best to just sacrifice.]
 ;W[gq]
 ;B[iq]
 ;W[hr]
 ;B[ir]
 ;W[fs]
-;B[ip]C[Black got a good result because white made a mistake.]))
+;B[ip]C[Black got a good result because White made a mistake.]))
 (;B[hp]
 ;W[fn]C[Black's in for a difficult fight.])
 (;B[hq]C[This move is heavy.]
-;W[fn]C[If a fight starts here, white will be able to take control of the game.]))
+;W[fn]C[If a fight starts here, White will be able to take control of the game.]))

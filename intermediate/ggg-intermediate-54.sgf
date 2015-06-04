@@ -1,8 +1,8 @@
 (;GM[1]FF[4]CA[UTF-8]AP[CGoban:3]ST[2]
 RU[Japanese]SZ[19]KM[0.00]
-SO[http://gogameguru.com/]AW[rn][po][ro][np][rp][lq][nq][pq][qq]AB[ql][rm][qn][qo][dp][pp][qp][jq][oq]C[Black to play.
+SO[https://gogameguru.com/]AW[rn][po][ro][np][rp][lq][nq][pq][qq]AB[ql][rm][qn][qo][dp][pp][qp][jq][oq]C[Black to play.
 
-http://gogameguru.com/]
+https://gogameguru.com/]
 (;B[rq]
 ;W[rr]
 (;B[qr]
@@ -10,10 +10,10 @@ http://gogameguru.com/]
 ;B[or]
 ;W[qs]
 ;B[op]C[Correct])
-(;W[sq]C[Capturing here isn't good for white...]
+(;W[sq]C[Capturing here isn't good for White...]
 ;B[pr]
 ;W[rq]
-;B[op]LB[nr:B][qs:A]C[Correct. White still has to live with A, so black will get to play B as well, which further damages white's outside stones.]))
+;B[op]LB[nr:B][qs:A]C[Correct. White still has to live with A, so Black will get to play B as well, which further damages White's outside stones.]))
 (;B[or]
 ;W[op]
 ;B[qr]

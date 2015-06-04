@@ -1,13 +1,13 @@
 (;GM[1]FF[4]CA[UTF-8]AP[CGoban:3]ST[2]
 RU[Japanese]SZ[19]KM[0.00]
-SO[http://gogameguru.com/]AW[on][qn][mo][ro][kp][rp][jq][oq][pq][rq][jr][mr][qr]AB[np][op][pp][qp][lq][mq][nq][qq][lr]C[Black to play.
+SO[https://gogameguru.com/]AW[on][qn][mo][ro][kp][rp][jq][oq][pq][rq][jr][mr][qr]AB[np][op][pp][qp][lq][mq][nq][qq][lr]C[Black to play.
 
-http://gogameguru.com/]
+https://gogameguru.com/]
 (;B[rr]
 (;W[or]
 (;B[qs]
 (;W[ps]
-;B[pr]C[Correct. This ko is the best result for both. ])
+;B[pr]C[Correct. This ko is the best result for both.])
 (;W[pr]
 ;B[nr]C[Correct]))
 (;B[ps]
@@ -23,11 +23,11 @@ http://gogameguru.com/]
 (;W[nr]
 ;B[os]
 ;W[or]
-;B[ms]C[Correct, white should fight the ko in the main variation.])
+;B[ms]C[Correct, White should fight the ko in the main variation.])
 (;W[sr]
 ;B[or]
 ;W[nr]
-;B[os]C[Correct, white should fight the ko in the main variation.])))
+;B[os]C[Correct, White should fight the ko in the main variation.])))
 (;B[nr]
 ;W[pr])
 (;B[or]

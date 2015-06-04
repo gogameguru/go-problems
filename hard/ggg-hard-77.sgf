@@ -1,8 +1,8 @@
 (;GM[1]FF[4]CA[UTF-8]AP[CGoban:3]ST[2]
 RU[Japanese]SZ[19]KM[0.00]
-SO[http://gogameguru.com/]AW[ro][qp][qq][pr][rs]AB[qk][qn][rn][qo][pp][nq][pq][or]C[Black to play.
+SO[https://gogameguru.com/]AW[ro][qp][qq][pr][rs]AB[qk][qn][rn][qo][pp][nq][pq][or]C[Black to play.
 
-http://gogameguru.com/]
+https://gogameguru.com/]
 (;B[sr]
 ;W[rq]
 (;B[ps]
@@ -22,7 +22,7 @@ http://gogameguru.com/]
 ;B[rj]C[Correct])
 (;B[rk]C[Correct]))
 (;B[sq]
-;W[qr]C[It's a seki, so white's alive.]))
+;W[qr]C[It's a seki, so White's alive.]))
 (;B[qr]
 ;W[rr]
 (;B[sm]
@@ -39,7 +39,7 @@ http://gogameguru.com/]
 ;W[rm]
 ;B[qm]
 ;W[rl]
-;B[rk]LB[sm:A][rp:B]C[Correct. If black had exchanged A for B earlier, it would be slightly better now, but that's a minor detail.]))
+;B[rk]LB[sm:A][rp:B]C[Correct. If Black had exchanged A for B earlier, it would be slightly better now, but that's a minor detail.]))
 (;B[sq]C[Correct]))
 (;W[rp]
 ;B[so]
@@ -67,7 +67,7 @@ http://gogameguru.com/]
 (;B[sn]C[Correct])
 (;B[sp]C[Correct])))
 (;B[so]
-;W[sp]LB[sn:A][ps:B]C[It's a ko, because A and B are miai for white. Black can do better than this.])
+;W[sp]LB[sn:A][ps:B]C[It's a ko, because A and B are miai for White. Black can do better than this.])
 (;B[sp]
 ;W[sq]
 (;B[so]
@@ -87,9 +87,9 @@ http://gogameguru.com/]
 (;B[rq]
 ;W[rp]
 (;B[sq]
-;W[sr]C[It's a ko, but black can do better.])
+;W[sr]C[It's a ko, but Black can do better.])
 (;B[sr]
-;W[sq]C[It's a ko, but black can do better.]))
+;W[sq]C[It's a ko, but Black can do better.]))
 (;B[sq]
 ;W[rq]
 ;B[sr]
@@ -101,15 +101,15 @@ http://gogameguru.com/]
 (;B[sr]
 ;W[sq]
 (;B[rq]
-;W[rp]C[It's a ko, but black can do better.])
+;W[rp]C[It's a ko, but Black can do better.])
 (;B[rr]
 ;W[qr]
 ;B[rq]
-;W[rp]C[It's a ko, but black can do better.]))
+;W[rp]C[It's a ko, but Black can do better.]))
 (;B[sq]
 ;W[sr]
 (;B[rr]
-;W[qr]C[It's a ko, but black can do better.])
+;W[qr]C[It's a ko, but Black can do better.])
 (;B[qr]
 ;W[rr])
 (;B[rq]
@@ -133,7 +133,7 @@ http://gogameguru.com/]
 (;B[so]
 ;W[rq]
 (;B[ps]
-;W[sp]LB[sn:B][sr:A]C[It's a ko, A and B are miai for white. Black can do better.])
+;W[sp]LB[sn:B][sr:A]C[It's a ko, A and B are miai for White. Black can do better.])
 (;B[rp]
 ;W[sr]
 (;B[ps]
@@ -141,7 +141,7 @@ http://gogameguru.com/]
 (;B[qr]
 ;W[ps]))
 (;B[sr]
-;W[sp]LB[sn:B][ps:A]C[It's a ko, A and B are miai for white. Black can do better.]))
+;W[sp]LB[sn:B][ps:A]C[It's a ko, A and B are miai for White. Black can do better.]))
 (;B[rp]
 ;W[rq]
 (;B[so]
@@ -174,7 +174,7 @@ http://gogameguru.com/]
 ;W[sr]
 ;B[rr]
 ;W[qr]
-;B[ss]C[It's a ko, but black can do better.])
+;B[ss]C[It's a ko, but Black can do better.])
 (;B[sp]
 ;W[rq]
 (;B[sr]
@@ -204,4 +204,4 @@ http://gogameguru.com/]
 ;B[sr]
 ;W[rq]
 ;B[so]
-;W[sp]LB[sn:A][ps:B]C[It's a ko. A and B are miai for white, but black can do better.]))
+;W[sp]LB[sn:A][ps:B]C[It's a ko. A and B are miai for White, but Black can do better.]))

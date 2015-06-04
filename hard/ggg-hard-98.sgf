@@ -1,8 +1,8 @@
 (;GM[1]FF[4]CA[UTF-8]AP[CGoban:3]ST[2]
 RU[Japanese]SZ[19]KM[0.00]
-SO[http://gogameguru.com/]AW[qm][rm][sm][mn][on][qn][jo][lo][qo][rp][sp][jq][kq][lq][oq][pq][rq][jr][mr][or]AB[rn][ro][mp][np][op][pp][qp][fq][hq][qq][gr][ir][kr][pr][qr][rr][js][ls]C[Black to play.
+SO[https://gogameguru.com/]AW[qm][rm][sm][mn][on][qn][jo][lo][qo][rp][sp][jq][kq][lq][oq][pq][rq][jr][mr][or]AB[rn][ro][mp][np][op][pp][qp][fq][hq][qq][gr][ir][kr][pr][qr][rr][js][ls]C[Black to play.
 
-http://gogameguru.com/]
+https://gogameguru.com/]
 (;B[nr]
 ;W[nq]
 (;B[mq]
@@ -27,7 +27,7 @@ http://gogameguru.com/]
 (;B[rs]
 ;W[sr])))
 (;W[ps]
-;B[is]LB[os:A][ps:B]C[Also correct. White can make a ko (with ko captures at A and B) in this case, but black has too many outside liberties for it to mean much.]))
+;B[is]LB[os:A][ps:B]C[Also correct. White can make a ko (with ko captures at A and B) in this case, but Black has too many outside liberties for it to mean much.]))
 (;B[ps]
 ;W[lr]
 ;B[sr]
@@ -42,14 +42,14 @@ http://gogameguru.com/]
 ;W[ms]
 ;B[qs]
 ;W[ks]
-;B[os]C[It's a ko, but black can do better.]
+;B[os]C[It's a ko, but Black can do better.]
 ;W[nr]
 ;B[lr]
-;W[ps]C[It's a ko, but black can do better.]))
+;W[ps]C[It's a ko, but Black can do better.]))
 (;B[os]
 (;W[mq]
 ;B[ms]
-;W[ns]C[It's a ko, but black can do better.])
+;W[ns]C[It's a ko, but Black can do better.])
 (;W[ns]
 ;B[mq]
 ;W[ps]
@@ -57,10 +57,10 @@ http://gogameguru.com/]
 ;W[ms]
 ;B[qs]
 ;W[ks]
-;B[os]C[It's a ko, but black can do better.]
+;B[os]C[It's a ko, but Black can do better.]
 ;W[nr]
 ;B[lr]
-;W[ps]C[It's a ko, but black can do better.]))
+;W[ps]C[It's a ko, but Black can do better.]))
 (;B[ns]
 ;W[mq]))
 (;B[mq]

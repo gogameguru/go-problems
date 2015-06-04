@@ -1,8 +1,8 @@
 (;GM[1]FF[4]CA[UTF-8]AP[CGoban:3]ST[2]
 RU[Japanese]SZ[19]KM[0.00]
-SO[http://gogameguru.com/]AW[lo][no][oo][po][jp][kp][qp][jq][rq][jr][or][qr][rr][js][ms]AB[kq][lq][oq][pq][kr][ks][ls][ns][qs]C[Black to play.
+SO[https://gogameguru.com/]AW[lo][no][oo][po][jp][kp][qp][jq][rq][jr][or][qr][rr][js][ms]AB[kq][lq][oq][pq][kr][ks][ls][ns][qs]C[Black to play.
 
-http://gogameguru.com/]
+https://gogameguru.com/]
 (;B[pr]
 ;W[nq]
 (;B[np]
@@ -19,7 +19,7 @@ http://gogameguru.com/]
 (;B[lp]
 ;W[op]
 ;B[mr]
-;W[lr]C[Almost correct. Is there a way for black to take the ko first?])
+;W[lr]C[Almost correct. Is there a way for Black to take the ko first?])
 (;B[op]
 ;W[lp]))
 (;W[op]

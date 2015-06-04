@@ -2,7 +2,7 @@
 RU[Japanese]SZ[19]KM[0.00]
 AW[cp][dp][cq][eq][fq][gq][cr][hr][gs]AB[ep][fp][gp][dq][hq][iq][dr][er]C[Black to play.
 
-http://gogameguru.com]
+https://gogameguru.com/]
 (;B[fs]
 (;W[gr]
 (;B[ir]
@@ -17,7 +17,11 @@ http://gogameguru.com]
 (;B[hs]
 ;W[is]
 ;B[js]
+<<<<<<< HEAD
 ;W[jr]C[It's a ko, but Black can do better. ])
+=======
+;W[jr]C[It's a ko, but Black can do better.])
+>>>>>>> origin/master
 (;B[fr]
 ;W[es]))
 (;W[is]
@@ -31,7 +35,11 @@ http://gogameguru.com]
 (;B[ds]
 ;W[ir]
 ;B[jr]
+<<<<<<< HEAD
 ;W[jq]C[Black's outside is in trouble.]))
+=======
+;W[jq]C[Black's outside would become troublesome.]))
+>>>>>>> origin/master
 (;W[fr]
 ;B[gr]C[Correct]))
 (;B[fr]

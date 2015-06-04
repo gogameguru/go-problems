@@ -1,8 +1,8 @@
 (;GM[1]FF[4]CA[UTF-8]AP[CGoban:3]ST[2]
 RU[Japanese]SZ[19]KM[0.00]
-SO[http://gogameguru.com/]AW[ck][gp][dq][fq][hq][iq][cr][fr]AB[co][fo][fp][cq][gq][gr][hr]C[Black to play.
+SO[https://gogameguru.com/]AW[ck][gp][dq][fq][hq][iq][cr][fr]AB[co][fo][fp][cq][gq][gr][hr]C[Black to play.
 
-http://gogameguru.com/]
+https://gogameguru.com/]
 (;B[dp]
 (;W[er]
 (;B[hp]
@@ -13,9 +13,9 @@ http://gogameguru.com/]
 ;W[bq]
 (;B[dl]C[Correct. White's three stones in the center are isolated.])
 (;B[bp]
-;W[fn]LB[fn:B][bp:A]C[Playing at A is possible, but could be a bit heavy for black. The ko isn't that easy to fight after white B.]))
+;W[fn]LB[fn:B][bp:A]C[Playing at A is possible, but could be a bit heavy for Black. The ko isn't that easy to fight after White B.]))
 (;W[ir]
-;B[gn]C[White's two stones are captured by a ladder. ]))
+;B[gn]C[White's two stones are captured by a ladder.]))
 (;B[gn]
 ;W[ho]
 ;B[ip]
@@ -34,7 +34,7 @@ http://gogameguru.com/]
 ;W[kq]
 ;B[kr]
 ;W[lq]))
-(;W[ir]C[If white plays here,]
+(;W[ir]C[If White plays here,]
 ;B[go]
 ;W[hp]
 ;B[eq]C[Black's happy to trade like this.]))
@@ -51,7 +51,7 @@ http://gogameguru.com/]
 (;B[en]
 ;W[ir]
 ;B[fm]
-;W[io]C[Black's ok here and, depending on the whole board situation, this could be playable. However, white will be satisfied too, so black has to be confident that sufficient profit can be made while attacking white on the left side. White's original pincer stone's is fairly far away, so usually the main variation would be better.])
+;W[io]C[Black's ok here and, depending on the whole board situation, this could be playable. However, White will be satisfied too, so Black has to be confident that sufficient profit can be made while attacking White on the left side. White's original pincer stone's is fairly far away, so usually the main variation would be better.])
 (;B[io]
 ;W[hn])
 (;B[hn]

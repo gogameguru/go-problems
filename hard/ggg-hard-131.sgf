@@ -2,7 +2,7 @@
 RU[Japanese]SZ[19]KM[0.00]
 AW[cn][dn][gn][go][io][cp][dp][fp][eq][fq][dr][gr][cs]AB[bo][eo][fo][bp][ep][gp][cq][dq][gq][iq][br][cr][ir][bs]C[Black to play.
 
-http://gogameguru.com]
+https://gogameguru.com/]
 (;B[fs]
 (;W[fr]
 (;B[gs]
@@ -19,7 +19,7 @@ http://gogameguru.com]
 (;B[gs]
 ;W[fs]
 ;B[is]
-;W[fn]C[It's a ko, but Black can do better. ])
+;W[fn]C[It's a ko, but Black can do better.])
 (;B[is]
 ;W[fn]))
 (;B[ds]
@@ -72,9 +72,9 @@ http://gogameguru.com]
 (;B[ds]
 ;W[gs]
 ;B[er]
-;W[fn]C[It's a ko, but Black can do better. ])
+;W[fn]C[It's a ko, but Black can do better.])
 (;B[hs]
-;W[gs]LB[ds:A]C[It's a ko at A, but Black can do better. ]))
+;W[gs]LB[ds:A]C[It's a ko at A, but Black can do better.]))
 (;B[ds]
 ;W[fn]))
 (;W[gs]
@@ -91,23 +91,23 @@ http://gogameguru.com]
 (;B[hr]
 ;W[fn]
 ;B[er]
-;W[es]C[It's a ko, but Black can do better. ])
+;W[es]C[It's a ko, but Black can do better.])
 (;B[er]
 ;W[fn]
 ;B[hr]
-;W[es]C[It's a ko, but Black can do better. ]))
+;W[es]C[It's a ko, but Black can do better.]))
 (;B[hr]
 ;W[es]
 (;B[ds]
-;W[fr]C[It's a ko, but Black can do better. ])
+;W[fr]C[It's a ko, but Black can do better.])
 (;B[hs]
-;W[fr]LB[ds:A]C[It's a ko at A, but Black can do better. ]))
+;W[fr]LB[ds:A]C[It's a ko at A, but Black can do better.]))
 (;B[er]
 ;W[fr]
 ;B[ds]
 ;W[fn]
 ;B[hr]
-;W[es]C[It's a ko, but Black can do better. ]))
+;W[es]C[It's a ko, but Black can do better.]))
 (;W[er]
 (;B[ds]C[Correct])
 (;B[es]C[Correct])
@@ -142,7 +142,7 @@ http://gogameguru.com]
 ;B[fr]
 ;W[fs]
 ;B[hr]
-;W[fn]C[It's a ko, but Black can do better. ])
+;W[fn]C[It's a ko, but Black can do better.])
 (;B[es]
 ;W[ds]
 ;B[fs]
@@ -168,7 +168,7 @@ http://gogameguru.com]
 (;B[fr]
 ;W[er]
 (;B[es]
-;W[fs]C[It's a ko, but Black can do better. ])
+;W[fs]C[It's a ko, but Black can do better.])
 (;B[ds]
 ;W[fs]))
 (;B[er]

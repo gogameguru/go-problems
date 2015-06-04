@@ -1,10 +1,10 @@
 (;GM[1]FF[4]CA[UTF-8]AP[CGoban:3]ST[2]
 RU[Japanese]SZ[19]KM[0.00]
-SO[http://gogameguru.com/]AW[cn][dn][en][co][eo][go][lo][cp][ep][gp][ip][jp][kp][fq][hq][lq][fr][ir][lr][cs]AB[pj][ck][ek][gk][do][fo][dp][fp][lp][mp][np][qp][cq][dq][eq][iq][jq][kq][mq][br][kr][mr]LB[bp:B][cs:A]C[Black to play.
+SO[https://gogameguru.com/]AW[cn][dn][en][co][eo][go][lo][cp][ep][gp][ip][jp][kp][fq][hq][lq][fr][ir][lr][cs]AB[pj][ck][ek][gk][do][fo][dp][fp][lp][mp][np][qp][cq][dq][eq][iq][jq][kq][mq][br][kr][mr]LB[bp:B][cs:A]C[Black to play.
 
-If white A had been at B, black would be dead. How about now?
+If White A had been at B, Black would be dead. How about now?
 
-http://gogameguru.com/]
+https://gogameguru.com/]
 (;B[er]
 (;W[es]
 ;B[ds]
@@ -18,7 +18,7 @@ http://gogameguru.com/]
 (;B[es]
 (;W[ar]
 (;B[hr]C[Correct])
-(;B[gr]LB[hr:A]C[Also correct. Playing this move at A is slightly more certain and connects black along the edge. White might connect at A now and try to kill black.]))
+(;B[gr]LB[hr:A]C[Also correct. Playing this move at A is slightly more certain and connects Black along the edge. White might connect at A now and try to kill Black.]))
 (;W[gr]
 (;B[aq]C[Correct])
 (;B[ar]C[Correct])
@@ -40,18 +40,18 @@ http://gogameguru.com/]
 ;W[bo]
 (;B[ap]C[Correct])
 (;B[aq]C[Black can also live like this, but later...]
-;W[an]C[This move will be sente against black's corner (aiming at a ko) and,]
+;W[an]C[This move will be sente against Black's corner (aiming at a ko) and,]
 ;B[ap]
 ;W[aj]C[White might be able to play an annoying endgame move like this.])))
 (;B[cr]
 ;W[bs]
-;B[ds]C[It's a ko, but black can do better.]))
+;B[ds]C[It's a ko, but Black can do better.]))
 (;W[bp]
 ;B[ds]
 (;W[cr]
 ;B[bq]
 ;W[aq]
-;B[ar]LB[bs:A]C[Correct. Even if white plays at A, black still lives in seki.])
+;B[ar]LB[bs:A]C[Correct. Even if White plays at A, Black still lives in seki.])
 (;W[ar]
 ;B[cr]
 ;W[bs]

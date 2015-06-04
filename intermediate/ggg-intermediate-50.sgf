@@ -1,8 +1,8 @@
 (;GM[1]FF[4]CA[UTF-8]AP[CGoban:3]ST[2]
 RU[Japanese]SZ[19]KM[0.00]
-SO[http://gogameguru.com/]AW[ko][qp][kq][nq][oq][qq][mr][qr]AB[mo][qo][ro][np][op][pp][mq]C[Black to play.
+SO[https://gogameguru.com/]AW[ko][qp][kq][nq][oq][qq][mr][qr]AB[mo][qo][ro][np][op][pp][mq]C[Black to play.
 
-http://gogameguru.com/]
+https://gogameguru.com/]
 (;B[nr]
 (;W[or]
 ;B[lr]
@@ -43,9 +43,9 @@ http://gogameguru.com/]
 (;B[mp]
 ;W[nr])
 (;B[lp]
-;W[mp]LB[ko:A]C[Aiming to make a ko or cut off the stone at A is a plausible way of playing, but in this case black has a sharper tactic available too.]))
+;W[mp]LB[ko:A]C[Aiming to make a ko or cut off the stone at A is a plausible way of playing, but in this case Black has a sharper tactic available too.]))
 (;B[lq]
 ;W[lr])
 (;B[lp]
-;W[lr]LB[ko:A]C[Aiming to make a ko or cut off the stone at A is a plausible way of playing, but in this case black has a sharper tactic available too.]))
+;W[lr]LB[ko:A]C[Aiming to make a ko or cut off the stone at A is a plausible way of playing, but in this case Black has a sharper tactic available too.]))
 )

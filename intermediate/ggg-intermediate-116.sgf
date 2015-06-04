@@ -1,8 +1,8 @@
 (;GM[1]FF[4]CA[UTF-8]AP[CGoban:3]ST[2]
 RU[Japanese]SZ[19]KM[0.00]
-SO[http://gogameguru.com/]AW[pm][qn][qp][nq][qq]AB[qk][on][pn][pp][jq][pq]C[Black to play.
+SO[https://gogameguru.com/]AW[pm][qn][qp][nq][qq]AB[qk][on][pn][pp][jq][pq]C[Black to play.
 
-http://gogameguru.com/]
+https://gogameguru.com/]
 (;B[qm]
 ;W[qo]
 (;B[po]
@@ -25,14 +25,14 @@ http://gogameguru.com/]
 ;W[ol]
 ;B[pk]
 ;W[rn]
-;B[nk]C[It's also possible, but black can do better. ])))
+;B[nk]C[It's also possible, but Black can do better.])))
 (;W[ql]
 ;B[rm]
 ;W[rl]
 ;B[pl]
 ;W[om]
 ;B[rk]C[Correct]))
-(;B[op]C[It's possible, but the shape isn't good. ])
+(;B[op]C[It's possible, but the shape isn't good.])
 (;B[rm]
 ;W[po]
 (;B[oo]
@@ -60,9 +60,9 @@ http://gogameguru.com/]
 (;B[qo]
 ;W[ro]
 ;B[po]
-;W[rm]C[It's good for white. ]
+;W[rm]C[It's good for White.]
 ;B[om]
-;W[pl]C[It's good for white. ])
+;W[pl]C[It's good for White.])
 (;B[mp]
 ;W[po]
 ;B[oo]

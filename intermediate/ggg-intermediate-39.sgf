@@ -1,13 +1,13 @@
 (;GM[1]FF[4]CA[UTF-8]AP[CGoban:3]ST[2]
 RU[Japanese]SZ[19]KM[0.00]
-SO[http://gogameguru.com/]AW[po][qo][ro][op][rp][mq][oq][nr]AB[oo][pp][qp][pq][rq][or][pr][rr]C[Black to play.
+SO[https://gogameguru.com/]AW[po][qo][ro][op][rp][mq][oq][nr]AB[oo][pp][qp][pq][rq][or][pr][rr]C[Black to play.
 
-http://gogameguru.com/]
-(;B[mp]C[Good. Black 1 is a kind of tesuji for developing black's cutting stone efficiently.]
-(;W[kq]C[This is white's calmest and best response.]
+https://gogameguru.com/]
+(;B[mp]C[Good. Black 1 is a kind of tesuji for developing Black's cutting stone efficiently.]
+(;W[kq]C[This is White's calmest and best response.]
 ;B[no]
 ;W[nq]
-(;B[pl]C[Correct. White can still fight, but black is developing nicely.])
+(;B[pl]C[Correct. White can still fight, but Black is developing nicely.])
 (;B[pm]
 ;W[ql]
 ;B[qm]
@@ -21,23 +21,23 @@ http://gogameguru.com/]
 (;B[om]
 ;W[ql]))
 (;W[no]
-;B[on]LB[om:B][qm:D][nn:A][np:C]C[If white plays atari like this, it just helps black gain momentum. If white keeps pushing with A, black can just keep extending with B and so on. C and D are still miai for black.]
+;B[on]LB[om:B][qm:D][nn:A][np:C]C[If White plays atari like this, it just helps Black gain momentum. If White keeps pushing with A, Black can just keep extending with B and so on. C and D are still miai for Black.]
 ;W[np]
-;B[qm]C[Correct. Black got a better result than expected because white tried too hard to resist.])
-(;W[pm]C[This is a bit slack for white.]
+;B[qm]C[Correct. Black got a better result than expected because White tried too hard to resist.])
+(;W[pm]C[This is a bit slack for White.]
 ;B[no]
 ;W[nq]
-;B[kq]LB[om:G][lo:B][kp:D][lp:A][lq:C][jr:E][kr:F]C[Black 5 is another tesuji. Letting black apply pressure like this makes the postition easy for him. White should avoid this sequence.
+;B[kq]LB[om:G][lo:B][kp:D][lp:A][lq:C][jr:E][kr:F]C[Black 5 is another tesuji. Letting Black apply pressure like this makes the postition easy for him. White should avoid this sequence.
 
-If white plays A now, black plays B and C or D are miai next. If white plays C instead, black plays D and white dies. White E is a famous counter tesuji that allows white to save her bottom group. White aims at E, F then A, but playing for a trade instead with white E, black G instead is good enough because white will eventually have to come back at F while black takes the initiative on the right side.
+If White plays A now, Black plays B and C or D are miai next. If White plays C instead, Black plays D and White dies. White E is a famous counter tesuji that allows White to save her bottom group. White aims at E, F then A, but playing for a trade instead with White E, Black G instead is good enough because White will eventually have to come back at F while Black takes the initiative on the right side.
 
 You may want to explore the variations yourself on a board.]))
 (;B[no]
 ;W[mp]
 (;B[om]
-;W[ql]C[Black played normal looking moves, but white is also comfortable.])
+;W[ql]C[Black played normal looking moves, but White is also comfortable.])
 (;B[pm]
-;W[ql]C[Black played normal looking moves, but white is also comfortable.]))
+;W[ql]C[Black played normal looking moves, but White is also comfortable.]))
 (;B[on]
 ;W[ql]
 ;B[mp]

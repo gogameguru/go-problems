@@ -1,8 +1,8 @@
 (;GM[1]FF[4]CA[UTF-8]AP[CGoban:3]ST[2]
 RU[Japanese]SZ[19]KM[0.00]
-SO[http://gogameguru.com/]AW[jp][lp][mp][np][jq][kq][lq][nq][oq][pq][qq][lr][nr][qr][ps]AB[jo][ko][lo][mo][no][ip][kp][op][pp][qp][iq][mq][rq][jr][kr][mr][rr][ls][ms][qs][rs]C[Black to play.
+SO[https://gogameguru.com/]AW[jp][lp][mp][np][jq][kq][lq][nq][oq][pq][qq][lr][nr][qr][ps]AB[jo][ko][lo][mo][no][ip][kp][op][pp][qp][iq][mq][rq][jr][kr][mr][rr][ls][ms][qs][rs]C[Black to play.
 
-http://gogameguru.com/]
+https://gogameguru.com/]
 (;B[pr]
 (;W[ns]
 (;B[os]
@@ -36,11 +36,11 @@ http://gogameguru.com/]
 (;B[pr]
 ;W[ks]))
 (;B[os]
-(;W[or]C[It's a ko for life, but black has a better move.])
-(;W[ns]C[If white plays here, which is a mistake...]
+(;W[or]C[It's a ko for life, but Black has a better move.])
+(;W[ns]C[If White plays here, which is a mistake...]
 ;B[pr]
 ;W[ks]
-;B[hr]C[White's group dies after black plays like this.]))
+;B[hr]C[White's group dies after Black plays like this.]))
 (;B[or]
 ;W[ns]
 (;B[ks]

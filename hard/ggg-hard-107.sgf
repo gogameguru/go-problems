@@ -1,8 +1,8 @@
 (;GM[1]FF[4]CA[UTF-8]AP[CGoban:3]ST[2]
 RU[Japanese]SZ[19]KM[0.00]
-SO[http://gogameguru.com/]AW[fl][fn][co][eo][jo][bp][cp][dp][fp][gp][hp][dq]AB[ck][bn][cn][dn][bo][do][ep][eq][fq][gq][hq][iq]C[Black to play.
+SO[https://gogameguru.com/]AW[fl][fn][co][eo][jo][bp][cp][dp][fp][gp][hp][dq]AB[ck][bn][cn][dn][bo][do][ep][eq][fq][gq][hq][iq]C[Black to play.
 
-http://gogameguru.com/]
+https://gogameguru.com/]
 (;B[cr]
 ;W[dr]
 (;B[ar]
@@ -15,7 +15,7 @@ http://gogameguru.com/]
 ;W[er]
 ;B[fr]C[Correct])
 (;B[er]
-;W[aq]C[It's a ko, but black can do better.]))
+;W[aq]C[It's a ko, but Black can do better.]))
 (;B[cq]
 ;W[ap]
 ;B[cs]
@@ -64,13 +64,13 @@ http://gogameguru.com/]
 ;W[cs])
 (;B[cs]
 ;W[ao]C[It's a double ko.]))
-(;W[ap]C[It's a seki, and white's alive.])))
+(;W[ap]C[It's a seki, and White's alive.])))
 (;B[ds]
 ;W[er]
 ;B[fr]
 ;W[es]
 ;B[ap]
-;W[aq]LB[ao:A]C[Even if black connects at A in gote, it's a double ko, and white's alive.])))
+;W[aq]LB[ao:A]C[Even if Black connects at A in gote, it's a double ko, and White's alive.])))
 (;W[bs]
 (;B[ap]C[Correct])
 (;B[br]
@@ -178,10 +178,10 @@ http://gogameguru.com/]
 ;W[bs]
 ;B[as]
 ;W[ap]
-(;B[ao]C[It's a one step ko, but black can do better.])
-(;B[es]C[It's a one step ko, but black can do better.]))
+(;B[ao]C[It's a one step ko, but Black can do better.])
+(;B[es]C[It's a one step ko, but Black can do better.]))
 (;B[bs]
-;W[ap]LB[ap:A]C[It's a seki, and white's alive. White doesn't need to play at A until later in the game.]))
+;W[ap]LB[ap:A]C[It's a seki, and White's alive. White doesn't need to play at A until later in the game.]))
 (;B[ap]
 ;W[aq]
 (;B[ao]
@@ -194,7 +194,7 @@ http://gogameguru.com/]
 ;W[bs]
 ;B[as]
 ;W[ap]
-;B[an]C[It's a one step ko, but black can do better.]))
+;B[an]C[It's a one step ko, but Black can do better.]))
 (;B[aq]
 ;W[ap]
 ;B[br]
@@ -208,7 +208,7 @@ http://gogameguru.com/]
 ;B[er]
 ;W[bs]
 ;B[es]
-;W[ar]C[It's a one step ko, but black can do better.]))
+;W[ar]C[It's a one step ko, but Black can do better.]))
 (;B[er]
 ;W[ds]
 ;B[br]
@@ -217,21 +217,21 @@ http://gogameguru.com/]
 ;W[bs]
 ;B[as]
 ;W[ap]
-;B[ao]C[It's a one step ko, but black can do better.]))
+;B[ao]C[It's a one step ko, but Black can do better.]))
 (;B[er]
 ;W[br]
 (;B[ds]
 ;W[cq]
 (;B[bs]
-;W[cs]C[It's a ko, but black can do better.])
+;W[cs]C[It's a ko, but Black can do better.])
 (;B[ap]
 ;W[cs]
 ;B[ar]
-;W[aq]C[It's a ko, but black can do better.]))
+;W[aq]C[It's a ko, but Black can do better.]))
 (;B[ap]
 ;W[cq]
 ;B[ar]
-;W[aq]C[It's a ko, but black can do better.]))
+;W[aq]C[It's a ko, but Black can do better.]))
 (;B[br]
 ;W[ar]
 (;B[aq]
@@ -241,23 +241,23 @@ http://gogameguru.com/]
 (;B[cs]
 ;W[ds]
 ;B[er]
-;W[ar]C[It's a ko, but black can do better.])
+;W[ar]C[It's a ko, but Black can do better.])
 (;B[er]
 ;W[cs]
 ;B[es]
-;W[ds]C[It's a ko, but black can do better.]))
+;W[ds]C[It's a ko, but Black can do better.]))
 (;B[ap]
 ;W[bq]
 (;B[bs]
 ;W[er]
 ;B[fr]
-;W[es]LB[cs:A]C[Now black can only choose to make a ten thousand year ko, or a seki (with A).])
+;W[es]LB[cs:A]C[Now Black can only choose to make a ten thousand year ko, or a seki (with A).])
 (;B[er]
 ;W[cs]
 ;B[bs]
 ;W[ds]C[It's a seki.])
 (;B[cs]
-;W[bs]C[It's a ko, but black can do better.]))))
+;W[bs]C[It's a ko, but Black can do better.]))))
 (;B[dr]
 ;W[cr]
 ;B[er]
@@ -277,7 +277,7 @@ http://gogameguru.com/]
 (;B[dr]
 ;W[ar])
 (;B[aq]
-;W[ar]C[It's a ko, but black can do better.]))
+;W[ar]C[It's a ko, but Black can do better.]))
 (;B[br]
 ;W[cr]
 ;B[bq]
@@ -289,7 +289,7 @@ http://gogameguru.com/]
 ;B[ds]
 ;W[aq]C[It's a seki.])
 (;B[aq]
-;W[ar]C[It's a ko, but black can do better.])
+;W[ar]C[It's a ko, but Black can do better.])
 (;B[dr]
 ;W[ar]))
 (;B[ar]
@@ -312,7 +312,7 @@ http://gogameguru.com/]
 ;W[es]
 ;B[aq]
 ;W[cq]
-;B[br]C[It's a ko, but black can do better. ])
+;B[br]C[It's a ko, but Black can do better.])
 (;B[br]
 ;W[bs]
 (;B[dr]
@@ -320,7 +320,7 @@ http://gogameguru.com/]
 ;B[cq]
 ;W[ar]
 ;B[cs]
-;W[aq]C[It's a ko, but black can do better.])
+;W[aq]C[It's a ko, but Black can do better.])
 (;B[cr]
 ;W[dr]
 ;B[cs]
@@ -332,7 +332,7 @@ http://gogameguru.com/]
 (;B[er]
 ;W[ds]
 ;B[ao]
-;W[ar]C[It's a ko, but black can do better.]))
+;W[ar]C[It's a ko, but Black can do better.]))
 (;B[cs]
 ;W[ds]
 (;B[cr]
@@ -342,33 +342,33 @@ http://gogameguru.com/]
 ;B[as]
 ;W[ar]
 ;B[ao]
-;W[bs]C[It's a ko, but black can do better.])
+;W[bs]C[It's a ko, but Black can do better.])
 (;B[as]
-;W[cr]C[It's a ko, but black can do better.]))))
+;W[cr]C[It's a ko, but Black can do better.]))))
 (;B[ap]
 ;W[aq]
 (;B[bq]
 ;W[ao]
 (;B[ar]
-;W[br]C[It's a ko, but black can do better.])
+;W[br]C[It's a ko, but Black can do better.])
 (;B[br]
 ;W[cr]
 (;B[er]
 ;W[bs]
 ;B[ar]
 ;W[dr]
-(;B[ap]C[It's a ko, but black can do better.])
+(;B[ap]C[It's a ko, but Black can do better.])
 (;B[ds]
 ;W[ap]C[It's a seki.]))
 (;B[ar]
 ;W[er]
-(;B[ap]C[It's a ko, but black can do better.])
+(;B[ap]C[It's a ko, but Black can do better.])
 (;B[fr]
 ;W[bs]
-(;B[ap]C[It's a ko, but black can do better.])
+(;B[ap]C[It's a ko, but Black can do better.])
 (;B[es]
 ;W[dr]
-(;B[ap]C[It's a ko, but black can do better.])
+(;B[ap]C[It's a ko, but Black can do better.])
 (;B[ds]
 ;W[ap]C[It's a seki.])))))
 (;B[cr]
@@ -376,7 +376,7 @@ http://gogameguru.com/]
 ;B[dr]
 ;W[cq]
 ;B[bs]
-;W[as]C[It's a ko, but black can do better.]))
+;W[as]C[It's a ko, but Black can do better.]))
 (;B[dr]
 ;W[cr]
 ;B[bq]
@@ -392,4 +392,4 @@ http://gogameguru.com/]
 ;B[gr]
 ;W[fs])
 (;B[br]
-;W[aq]C[It's a ko, but black can do better.]))))
+;W[aq]C[It's a ko, but Black can do better.]))))

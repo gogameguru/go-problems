@@ -1,8 +1,8 @@
 (;GM[1]FF[4]CA[UTF-8]AP[CGoban:3]ST[2]
 RU[Japanese]SZ[19]KM[0.00]
-SO[http://gogameguru.com/]AW[ol][rl][qm][rm][pn][rn][po][pp][oq][nr][pr]AB[qn][sn][qo][ro][qp][pq][rr]C[Black to play.
+SO[https://gogameguru.com/]AW[ol][rl][qm][rm][pn][rn][po][pp][oq][nr][pr]AB[qn][sn][qo][ro][qp][pq][rr]C[Black to play.
 
-http://gogameguru.com/]
+https://gogameguru.com/]
 (;B[sq]
 (;W[rs]
 (;B[qs]
@@ -13,15 +13,15 @@ http://gogameguru.com/]
 (;B[rs]
 ;W[rq])
 (;B[rq]
-;W[rs]C[It's still a ko, but this is second best. ]))
-(;W[qq]C[White's capture here is clumsy, and lets black live.]
-;B[rq]C[White let black live without ko.]))
+;W[rs]C[It's still a ko, but this is second best.]))
+(;W[qq]C[White's capture here is clumsy, and lets Black live.]
+;B[rq]C[White let Black live without ko.]))
 (;B[qq]
 ;W[qr])
 (;B[qr]
 ;W[qs]))
-(;W[qq]C[White's capture here is clumsy, and lets black live.]
-;B[rq]C[White let black live without ko.]))
+(;W[qq]C[White's capture here is clumsy, and lets Black live.]
+;B[rq]C[White let Black live without ko.]))
 (;B[qq]
 ;W[rs]
 (;B[qs]

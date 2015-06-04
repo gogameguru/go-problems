@@ -1,8 +1,8 @@
 (;GM[1]FF[4]CA[UTF-8]AP[CGoban:3]ST[2]
 RU[Japanese]SZ[19]KM[0.00]
-SO[http://gogameguru.com/]AW[pk][qk][pl][pm][qn][qo][rp]AB[ql][qm][pn][po][qp][qq][rr]C[Black to play.
+SO[https://gogameguru.com/]AW[pk][qk][pl][pm][qn][qo][rp]AB[ql][qm][pn][po][qp][qq][rr]C[Black to play.
 
-http://gogameguru.com/]
+https://gogameguru.com/]
 (;B[rm]
 (;W[sn]
 (;B[so]
@@ -23,13 +23,13 @@ http://gogameguru.com/]
 (;B[rn]
 (;W[sk]
 (;B[rq]C[Also correct. Black captured the cutting stones. This variation is second best.])
-(;B[sm]LB[pp:A]C[Also correct. Black wins the capturing race but white's dead stones still have two liberties. There's a weak point at A, so black will have to be careful if fighting breaks out along the bottom. This variation is the third best.]))
+(;B[sm]LB[pp:A]C[Also correct. Black wins the capturing race but White's dead stones still have two liberties. There's a weak point at A, so Black will have to be careful if fighting breaks out along the bottom. This variation is the third best.]))
 (;W[sp]
-;B[sl]C[Correct. It's a one eye vs no eye capturing race. The white stones in the corner are dead.])))
+;B[sl]C[Correct. It's a one eye vs no eye capturing race. The White stones in the corner are dead.])))
 (;W[sl]
 ;B[rj]
 ;W[rl]
-;B[sk]C[Correct. White can't extend from atari because black would still capture. Black's tesuji (move 3 - T5) reduced white's liberties.]))
+;B[sk]C[Correct. White can't extend from atari because Black would still capture. Black's tesuji (move 3 - T5) reduced White's liberties.]))
 (;W[rn]
 ;B[sm]
 ;W[ro]
@@ -67,7 +67,7 @@ http://gogameguru.com/]
 ;B[so]
 ;W[sp]
 ;B[rq]
-;W[sn]C[It's a ko, but black can do better.])
+;W[sn]C[It's a ko, but Black can do better.])
 (;B[sj]
 ;W[sl]
 (;B[ri]
@@ -93,11 +93,11 @@ http://gogameguru.com/]
 ;B[so]
 ;W[sp]
 ;B[rq]
-;W[sn]C[It's a ko, but black can do better.])
+;W[sn]C[It's a ko, but Black can do better.])
 (;B[rq]
 ;W[sk]
 ;B[sp]
-;W[rl]C[It's a ko, but black can do better.]))))
+;W[rl]C[It's a ko, but Black can do better.]))))
 (;W[rn]
 ;B[sn]
 ;W[ro]
@@ -162,7 +162,7 @@ http://gogameguru.com/]
 ;W[rl])
 (;B[sn]
 ;W[rl]))
-(;W[rj]C[This move is a mistake for white.]
+(;W[rj]C[This move is a mistake for White.]
 ;B[rm]
 (;W[sk]
 ;B[rq]
@@ -171,7 +171,7 @@ http://gogameguru.com/]
 (;W[sn]
 ;B[sl]
 ;W[sj]
-;B[sk]C[It's one eye vs no eye. Black's play wasn't ideal, but black wins because white made a mistake.])))
+;B[sk]C[It's one eye vs no eye. Black's play wasn't ideal, but Black wins because White made a mistake.])))
 (;B[rm]
 ;W[sn]
 (;B[rk]
@@ -221,7 +221,7 @@ http://gogameguru.com/]
 ;W[sn]
 ;B[rn]
 ;W[ro]
-;B[sl]C[It's one eye vs no eye. Black wins because white made a mistake.]))
+;B[sl]C[It's one eye vs no eye. Black wins because White made a mistake.]))
 (;B[rl]
 (;W[sm]
 (;B[rk]
@@ -273,12 +273,12 @@ http://gogameguru.com/]
 ;W[sk]
 ;B[sl]
 (;W[so]
-;B[rq]C[It's one eye vs no eye, so black will win the capturing race, because white made a mistake.])
+;B[rq]C[It's one eye vs no eye, so Black will win the capturing race, because White made a mistake.])
 (;W[sn]
 ;B[so]
 ;W[sp]
 ;B[rq]
-;W[sn]C[It's a ko, but white can do better.])))
+;W[sn]C[It's a ko, but White can do better.])))
 (;B[sm]
 ;W[rm]
 ;B[rl]

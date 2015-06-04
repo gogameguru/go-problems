@@ -1,10 +1,10 @@
 (;GM[1]FF[4]CA[UTF-8]AP[CGoban:3]ST[2]
 RU[Japanese]SZ[19]KM[0.00]
-SO[http://gogameguru.com/]AW[mn][on][qn][lp][rp][mq][nq][pq][qq][rq][mr][or]AB[qo][ro][mp][np][op][pp][qp][jq][lq][oq][lr]LB[mn:A]C[Black to play.
+SO[https://gogameguru.com/]AW[mn][on][qn][lp][rp][mq][nq][pq][qq][rq][mr][or]AB[qo][ro][mp][np][op][pp][qp][jq][lq][oq][lr]LB[mn:A]C[Black to play.
 
 White A was an overplay. Why?
 
-http://gogameguru.com/]
+https://gogameguru.com/]
 (;B[ls]
 (;W[nr]
 (;B[lo]
@@ -98,7 +98,7 @@ http://gogameguru.com/]
 ;B[kq]
 ;W[jo]))
 (;B[mo]
-;W[jp]C[This is what white wants.])
+;W[jp]C[This is what White wants.])
 (;B[ko]
 ;W[jp]
 ;B[ip]
@@ -173,7 +173,7 @@ http://gogameguru.com/]
 (;B[ls]
 ;W[kr]))
 (;B[ls]C[Black can still play here, but...]
-;W[hp]C[Depending on the global position white might trade now, so it could be better to descend earlier.]
+;W[hp]C[Depending on the global position White might trade now, so it could be better to descend earlier.]
 (;B[nr]
 ;W[pr]
 ;B[ms]
@@ -207,7 +207,7 @@ http://gogameguru.com/]
 ;B[kq]
 ;W[jo]))
 (;B[mo]
-;W[jp]C[This is what white wants.]))
+;W[jp]C[This is what White wants.]))
 (;B[ms]
 ;W[nr]
 ;B[lo]
@@ -237,6 +237,6 @@ http://gogameguru.com/]
 ;B[po]
 ;W[lo]
 ;B[qm]
-;W[pl]C[Black should live, but this is painful and white can attack black's three stones at the bottom next.])
+;W[pl]C[Black should live, but this is painful and White can attack Black's three stones at the bottom next.])
 (;B[kp]
 ;W[lo]))

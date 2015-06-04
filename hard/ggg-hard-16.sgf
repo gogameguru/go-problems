@@ -1,8 +1,8 @@
 (;GM[1]FF[4]CA[UTF-8]AP[CGoban:3]ST[2]
 RU[Japanese]SZ[19]KM[0.00]
-SO[http://gogameguru.com/]AW[bp][cp][dp][eq][er][fs]AB[bm][bo][co][do][ep][fp][fq][fr][hr]C[Black to play.
+SO[https://gogameguru.com/]AW[bp][cp][dp][eq][er][fs]AB[bm][bo][co][do][ep][fp][fq][fr][hr]C[Black to play.
 
-http://gogameguru.com/]
+https://gogameguru.com/]
 (;B[dq]
 (;W[dr]
 ;B[br]
@@ -89,8 +89,8 @@ Refer to: http://senseis.xmp.net/?LGroup for more details.]))
 (;B[bs]
 ;W[cq]
 ;B[ar]
-(;W[aq]C[Ko, but black can do better.])
-(;W[bq]C[Bad move, white dies now. White should make a ko at A3 instead.]
+(;W[aq]C[Ko, but Black can do better.])
+(;W[bq]C[Bad move, White dies now. White should make a ko at A3 instead.]
 ;B[dr]
 (;W[dq]
 ;B[ap]
