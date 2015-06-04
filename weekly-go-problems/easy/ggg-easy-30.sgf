@@ -30,11 +30,16 @@ https://gogameguru.com/]
 ;W[fs])
 (;B[dp]
 ;W[fp]
-;B[fs]
+(;B[fs]
 ;W[es]
 ;B[cs]C[Correct])
+(;B[cs]
+;W[fs]
+;B[ds]
+;W[es]))
 (;B[fp]
 ;W[dp]
 ;B[fs]
-;W[es]
-;B[cs]C[Correct]))
+;W[cs]
+;B[es]
+;W[as]C[It's a ko, but Black can do better.]))
