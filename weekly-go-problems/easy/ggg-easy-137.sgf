@@ -29,7 +29,6 @@ https://gogameguru.com/]
 ;B[ml]
 ;W[nk]
 ;B[nj]
-<<<<<<< HEAD
 ;W[mk]LB[on:A]C[This ladder doesn't work for Black, because Black A is in atari.])
 (;B[ol]
 ;W[nm]
@@ -39,9 +38,6 @@ https://gogameguru.com/]
 ;W[ql]
 ;B[rm]
 ;W[ol]))
-=======
-;W[mk]LB[on:A]C[This ladder doesn't work for Black, because the stone A is in atari.])
->>>>>>> origin/master
 (;B[om]
 ;W[qm]
 ;B[ql]
@@ -61,14 +57,10 @@ https://gogameguru.com/]
 (;B[pn]
 ;W[on]
 ;B[qm]
-<<<<<<< HEAD
 ;W[om]C[Black can do better.]))
 (;W[nr]
 (;B[no]C[Correct])
 (;B[oo]C[Correct])))
-=======
-;W[om]C[Black can do better.]))
->>>>>>> origin/master
 (;B[on]
 ;W[nr]
 ;B[po]

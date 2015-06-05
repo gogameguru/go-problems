@@ -30,11 +30,7 @@ https://gogameguru.com/]
 ;W[im]
 ;B[hl]
 ;W[in]))
-<<<<<<< HEAD
 (;B[in]C[This is also possible.]))
-=======
-(;B[in]C[This is also possible, but Black can do better.]))
->>>>>>> origin/master
 (;B[gs]
 ;W[ip]))
 (;W[go]
@@ -56,15 +52,11 @@ https://gogameguru.com/]
 (;B[is]
 ;W[gp]
 ;B[go]
-<<<<<<< HEAD
 ;W[cs]C[It's a ko, but Black can do better.]))
 (;W[cs]
 ;B[hs]
 ;W[gp]
 ;B[gs]C[Correct]))
-=======
-;W[cs]C[It's a ko, but Black can do better.])))
->>>>>>> origin/master
 (;B[hs]
 ;W[fs]
 (;B[gp]
