@@ -7,7 +7,7 @@ https://gogameguru.com/]
 ;W[ds]
 (;B[bs]
 (;W[ao]
-(;B[fs]LB[dr:A]C[Correct. Even if White connects at A next, they're already captured as 'one eye vs no eye'.])
+(;B[fs]LB[dr:A]C[Correct. Even if White connects at A next, she'll lose the capturing race because it's 'one eye vs no eye'.])
 (;B[an]
 ;W[br]
 (;B[fs]
@@ -23,7 +23,7 @@ https://gogameguru.com/]
 (;B[bs]
 ;W[cs]
 ;B[fs]
-;W[ds]LB[ao:A]C[Even if Black connects at A next, White is already alive in seki.])
+;W[ds]LB[ao:A]C[Even if Black connects at A next, White's already alive in seki.])
 (;B[br]
 ;W[ds])
 (;B[fs]
