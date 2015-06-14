@@ -9,7 +9,7 @@ AW[qm][on][qo][lp][mp][np][qp][jq][lq][rq][kr][rr]AB[pp][mq][oq][qq][lr][mr][qr]
 ;W[ls]
 (;B[ms]
 ;W[nr]
-;B[nq]LB[or:A]C[Correct. Even if White plays A, Black is already alive in seki.])
+;B[nq]LB[or:A]C[Correct. Even if White plays at A, Black is already alive in seki.])
 (;B[nq]
 ;W[ms]
 ;B[ns]
@@ -23,7 +23,7 @@ AW[qm][on][qo][lp][mp][np][qp][jq][lq][rq][kr][rr]AB[pp][mq][oq][qq][lr][mr][qr]
 ;W[pr]
 ;B[pq]
 ;W[nr]
-;B[nq]C[Correct. Even if White plays A, Black is already alive in seki.])
+;B[nq]LB[or:A]C[Correct. Even if White plays at A, Black is already alive in seki.])
 (;B[pr]C[Correct])))
 (;B[ls]
 (;W[nq]
@@ -152,7 +152,7 @@ AW[qm][on][qo][lp][mp][np][qp][jq][lq][rq][kr][rr]AB[pp][mq][oq][qq][lr][mr][qr]
 ;W[op]
 (;B[pq]
 (;W[ps]
-;B[ls]LB[ns:A]C[Correct. Even if White plays A, Black is already alive in seki.])
+;B[ls]LB[ns:A]C[Correct. Even if White plays at A, Black is already alive in seki.])
 (;W[ls]
 ;B[ps]C[Correct]))
 (;B[ls]
@@ -161,7 +161,7 @@ AW[qm][on][qo][lp][mp][np][qp][jq][lq][rq][kr][rr]AB[pp][mq][oq][qq][lr][mr][qr]
 ;W[po]
 ;B[pr]C[Correct])
 (;W[ns]
-;B[pq]LB[ps:A]C[Correct. Even if White plays A, Black is already alive in seki.])))
+;B[pq]LB[ps:A]C[Correct. Even if White plays at A, Black is already alive in seki.])))
 (;W[or]
 ;B[os]
 ;W[ns]
