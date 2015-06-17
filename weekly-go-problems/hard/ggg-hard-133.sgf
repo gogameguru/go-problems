@@ -244,8 +244,10 @@ AW[qm][on][qo][lp][mp][np][qp][jq][lq][rq][kr][rr]AB[pp][mq][oq][qq][lr][mr][qr]
 ;W[op]
 (;B[pq]
 ;W[or]
-;B[nq]
+(;B[nq]
 ;W[ps])
+(;B[ps]
+;W[nq]))
 (;B[or]
 ;W[pq])))
 (;B[qs]
@@ -273,7 +275,11 @@ AW[qm][on][qo][lp][mp][np][qp][jq][lq][rq][kr][rr]AB[pp][mq][oq][qq][lr][mr][qr]
 ;B[pr]
 ;W[os])
 (;B[ps]
-;W[pq])
+;W[pq]
+(;B[os]
+;W[rs])
+(;B[nr]
+;W[os]))
 (;B[os]
 ;W[ps]
 ;B[pr]
