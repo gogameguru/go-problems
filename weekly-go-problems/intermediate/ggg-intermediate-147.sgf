@@ -1,0 +1,439 @@
+(;GM[1]FF[4]CA[UTF-8]AP[CGoban:3]ST[2]
+RU[Japanese]SZ[19]KM[0.00]
+AW[bp][cp][dp][eq][fq][dr][fr]AB[cl][cn][eo][ep][bq][cq][dq][er]C[Black to play.
+
+https://gogameguru.com/]
+(;B[bs]
+(;W[ar]
+(;B[br]
+;W[aq]
+(;B[bo]
+;W[cs]
+;B[do]
+;W[es]
+;B[co]
+;W[ap]
+;B[ao]C[Correct])
+(;B[do]
+;W[cs]
+(;B[bo]C[Correct])
+(;B[co]C[Correct]))
+(;B[co]
+;W[cs]
+(;B[do]C[Correct])
+(;B[bo]C[Correct])))
+(;B[aq]
+;W[br]
+;B[cr]
+;W[es]
+(;B[do]
+;W[ap]
+;B[as]
+;W[br]
+(;B[co]
+;W[cs]C[It's a ko, but Black can do better.])
+(;B[bo]
+;W[cs]C[It's a ko, but Black can do better.]))
+(;B[bo]
+;W[ap]
+;B[as]
+;W[br]
+(;B[do]
+;W[cs]C[It's a ko, but Black can do better.])
+(;B[co]
+;W[cs]C[It's a ko, but Black can do better.]))
+(;B[ap]
+;W[ao]
+;B[as]
+;W[bo]
+;B[do]
+;W[br]
+;B[bn]
+;W[cs]C[It's a ko, but Black can do better.])))
+(;W[br]
+(;B[cr]
+;W[ar]
+(;B[ds]
+;W[aq]
+(;B[bo]
+;W[fs]
+(;B[do]
+;W[es]
+;B[co]
+;W[ap]
+;B[ao]C[Correct])
+(;B[co]
+;W[es]
+;B[do]C[Correct])
+(;B[es]
+;W[ap]
+(;B[do]
+;W[as]C[It's a ko, but Black can do better.])
+(;B[co]
+;W[as]C[It's a ko, but Black can do better.])))
+(;B[do]
+;W[fs]
+(;B[bo]C[Correct])
+(;B[co]C[Correct])
+(;B[es]
+;W[ap]
+(;B[bo]
+;W[as]C[It's a ko, but Black can do better.])
+(;B[co]
+;W[as]C[It's a ko, but Black can do better.])))
+(;B[co]
+;W[fs]
+;B[es]
+;W[ap]
+(;B[bo]
+;W[as]C[It's a ko, but Black can do better.])
+(;B[do]
+;W[as]C[It's a ko, but Black can do better.])))
+(;B[aq]
+;W[es]
+(;B[bo]
+;W[ap]
+;B[as]
+;W[br]
+(;B[do]
+;W[cs]C[It's a ko, but Black can do better.])
+(;B[co]
+;W[cs]C[It's a ko, but Black can do better.]))
+(;B[do]
+;W[ap]
+;B[as]
+;W[br]
+(;B[bo]
+;W[cs]C[It's a ko, but Black can do better.])
+(;B[co]
+;W[cs]C[It's a ko, but Black can do better.]))
+(;B[as]
+;W[ap]
+;B[do]
+;W[br]
+;B[bo]
+;W[cs]C[It's a ko, but Black can do better.])))
+(;B[ar]
+;W[cr]))
+(;W[cs]
+;B[cr]
+;W[es]
+;B[ar]C[Correct])
+(;W[cr]
+;B[br]
+;W[aq]
+(;B[do]
+;W[ar]
+(;B[bo]C[Correct])
+(;B[co]C[Correct]))
+(;B[co]
+;W[ar]
+(;B[do]C[Correct])
+(;B[bo]C[Correct]))
+(;B[bo]
+;W[ar]
+(;B[do]C[Correct])
+(;B[co]C[Correct]))
+(;B[ar]
+;W[ap]
+(;B[do]
+;W[es]
+(;B[bo]
+;W[cs])
+(;B[co]
+;W[cs]))
+(;B[bo]
+;W[es])
+(;B[co]
+;W[es])))
+(;W[aq]
+(;B[cr]
+;W[ar]
+(;B[ds]
+;W[fs]
+(;B[bo]
+;W[es]
+;B[do]
+;W[dr]
+;B[co]
+;W[ap]
+;B[ao]
+;W[cs]C[It's a ko, but Black can do better.])
+(;B[es]
+;W[br]
+(;B[bo]
+;W[ap]
+;B[do]
+;W[as]C[It's a ko, but Black can do better.])
+(;B[do]
+;W[ap]
+;B[bo]
+;W[as]C[It's a ko, but Black can do better.]))
+(;B[br]
+;W[es]
+(;B[do]
+;W[dr]
+;B[bo]
+;W[cs]C[It's a ko, but Black can do better.])
+(;B[bo]
+;W[dr]
+;B[do]
+;W[cs]C[It's a ko, but Black can do better.])))
+(;B[bo]
+;W[es]
+;B[do]
+;W[br]))
+(;B[br]
+(;W[ar]
+;B[do]
+;W[cs]
+;B[bo]C[Correct])
+(;W[cs]
+(;B[do]
+;W[ar]
+(;B[bo]C[Correct])
+(;B[co]C[Correct]))
+(;B[bo]
+;W[ar]
+;B[do]C[Correct])
+(;B[co]
+;W[ar]
+;B[do]C[Correct])))))
+(;B[cr]
+;W[es]
+(;B[ap]
+;W[bo]
+(;B[ar]
+;W[bs]
+(;B[cs]
+;W[ds]
+;B[bn]
+;W[ao]
+;B[do]
+;W[aq]C[It's a ko, but Black can do better.])
+(;B[bn]
+;W[ao]
+;B[do]
+;W[cs]
+(;B[an]
+;W[aq]C[It's a ko, but Black can do better.])
+(;B[co]
+;W[aq]C[It's a ko, but Black can do better.])))
+(;B[bn]
+;W[ao]
+;B[do]
+;W[aq]
+;B[ar]
+;W[cs]C[It's a ko, but Black can do better.]))
+(;B[cs]
+;W[ar]
+;B[aq]
+;W[ap]
+(;B[do]
+;W[bs]
+(;B[bo]
+;W[ds])
+(;B[co]
+;W[ds]))
+(;B[bo]
+;W[bs])
+(;B[co]
+;W[bs]))
+(;B[bo]
+;W[ap]
+;B[do]
+;W[aq]
+;B[ar]
+;W[cs])
+(;B[bs]
+;W[ar]
+(;B[aq]
+;W[ds]
+(;B[bo]
+;W[ap])
+(;B[do]
+;W[ap])
+(;B[ap]
+;W[bo]
+;B[bn]
+;W[ao]))
+(;B[ds]
+;W[er]
+;B[aq]
+;W[ap]
+;B[do]
+;W[cs]C[It's a ko, but Black can do better.])))
+(;B[br]
+;W[bs]
+(;B[cs]
+;W[es]
+(;B[bo]
+;W[aq]
+(;B[do]
+;W[ar]
+;B[as]C[It's a ko, but Black can do better.])
+(;B[ar]
+;W[ap]
+;B[do]
+;W[cr])
+(;B[as]
+;W[ap]
+;B[do]
+;W[ar]
+(;B[co]
+;W[bs]C[It's a ko, but Black can do better.])
+(;B[ao]
+;W[bs]C[It's a ko, but Black can do better.])))
+(;B[do]
+;W[aq]
+(;B[bo]
+;W[ar]
+;B[as]C[It's a ko, but Black can do better.])
+(;B[as]
+;W[ap]
+;B[bo]
+;W[ar]
+(;B[ao]
+;W[bs]C[It's a ko, but Black can do better.])
+(;B[co]
+;W[bs]C[It's a ko, but Black can do better.])))
+(;B[as]
+;W[aq]
+(;B[do]
+;W[ap]
+;B[bo]
+;W[ar]
+(;B[co]
+;W[bs]C[It's a ko, but Black can do better.])
+(;B[ao]
+;W[bs]C[It's a ko, but Black can do better.]))
+(;B[bo]
+;W[ap]
+;B[do]
+;W[ar]
+(;B[ao]
+;W[bs]C[It's a ko, but Black can do better.])
+(;B[co]
+;W[bs]C[It's a ko, but Black can do better.]))))
+(;B[bo]
+;W[cr]
+;B[ar]
+;W[ap]
+;B[do]
+;W[aq])
+(;B[cr]
+;W[es]
+;B[cs]
+;W[aq]
+;B[do]
+;W[ar]
+;B[as]
+;W[ap]
+(;B[bo]
+;W[ds])
+(;B[co]
+;W[ds])))
+(;B[ap]
+;W[ao]
+(;B[bs]
+;W[aq]
+;B[br]
+;W[an]
+(;B[bn]
+;W[al]
+;B[bm]
+;W[am]
+;B[bk]
+;W[ar]
+;B[do]
+;W[cs]
+;B[co]
+;W[es])
+(;B[bm]
+;W[ar]
+;B[do]
+;W[cs]))
+(;B[aq]
+;W[bo]
+;B[cr]
+;W[ds]
+(;B[do]
+;W[ar])
+(;B[bs]
+;W[ar]
+;B[do]
+;W[es]))
+(;B[ar]
+;W[cr]
+(;B[bo]
+;W[br]
+;B[an]
+;W[aq])
+(;B[br]
+;W[aq]C[It's a ko, but Black can do better.])))
+(;B[bo]
+;W[ar]
+(;B[aq]
+;W[ap]
+;B[br]
+;W[bs]
+;B[as]
+;W[cs]
+(;B[do]
+;W[ar]C[It's a ko, but Black can do better.])
+(;B[co]
+;W[ar]C[It's a ko, but Black can do better.])
+(;B[ao]
+;W[ar]C[It's a ko, but Black can do better.]))
+(;B[ap]
+;W[aq]
+;B[ao]
+;W[br])
+(;B[cr]
+;W[es]
+(;B[ap]
+;W[aq]
+;B[ao]
+;W[cs])
+(;B[aq]
+;W[ap]))
+(;B[bs]
+;W[br]
+;B[cr]
+;W[es]
+;B[aq]
+;W[ap]
+;B[as]
+;W[br]
+;B[do]
+;W[cs]C[It's a ko, but Black can do better.])
+(;B[br]
+;W[bs]
+(;B[cs]
+;W[aq]
+;B[as]
+;W[ap]C[It's a ko, but Black can do better.])
+(;B[aq]
+;W[ap]
+;B[as]
+;W[cs]C[It's a ko, but Black can do better.])))
+(;B[cs]
+;W[cr]
+;B[br]
+;W[es]
+(;B[bo]
+;W[aq])
+(;B[ap]
+;W[ao]
+;B[aq]
+;W[bo]
+(;B[do]
+;W[as])
+(;B[bn]
+;W[as])
+(;B[as]
+;W[ds]C[It's a ko, but Black can do better.])))
+(;B[ar]
+;W[cr]
+;B[br]
+;W[ap]))

@@ -1,0 +1,42 @@
+(;GM[1]FF[4]CA[UTF-8]AP[CGoban:3]ST[2]
+RU[Japanese]SZ[19]KM[0.00]
+AW[cl][el][cm][dm][cn][do][fo][dp][ep][cq][br]AB[ck][dl][em][bn][dn][en][co][eo][cp][hp][bq]C[Black to play.
+
+https://gogameguru.com/]
+(;B[gn]
+;W[dk]
+(;B[dq]
+;W[cr]
+(;B[eq]
+;W[fp]
+;B[fq]
+;W[bp]
+;B[bo]
+;W[aq]
+(;B[fn]C[Correct])
+(;B[gp]LB[fl:A]C[White A is sente later, but Black can do better.])
+(;B[go]LB[fl:A]C[White A is sente later, but Black can do better.]))
+(;B[fp]
+;W[eq]
+;B[fq]
+;W[er]))
+(;B[cr]
+;W[dq]
+;B[bp]
+;W[dr]))
+(;B[bl]
+;W[dk]
+;B[bm]
+;W[dl]
+;B[gn]
+;W[fp]C[It's better for White, but Black can do better.])
+(;B[fm]
+;W[dk]
+;B[dq]
+;W[cr]
+;B[eq]
+;W[fp]
+;B[fq]
+;W[ho])
+(;B[dk]
+;W[fm]))

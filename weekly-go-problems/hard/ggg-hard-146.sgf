@@ -1,4 +1,68 @@
 (;GM[1]FF[4]CA[UTF-8]AP[CGoban:3]ST[2]
-RU[Japanese]SZ[19]SO[https://gogameguru.com/]C[Black to play.
+RU[Japanese]SZ[19]KM[0.00]
+SO[https://gogameguru.com/]AW[no][po][qo][ro][mp][np][qp][lq][nq][qq][lr][mr][nr][qr]AB[mm][om][nn][pn][qn][rn][lo][mo][so][lp][rp][kq][rq][kr][rr][ls][ps][qs]C[Black to play.
 
-https://gogameguru.com/])
+https://gogameguru.com/]
+(;B[oo]
+(;W[op]
+;B[or]
+(;W[pq]
+;B[oq]
+;W[on]C[Correct. It's a ko.])
+(;W[pr]
+;B[oq]
+;W[on]
+;B[pq]C[Correct. White is died.]))
+(;W[pr]
+(;B[oq]
+(;W[op]
+;B[or]
+;W[on]
+;B[pq]C[Correct. White is died.])
+(;W[os]
+;B[op]
+;W[rs]
+(;B[qs]C[Correct. White is died.])
+(;B[sp]
+;W[or]
+(;B[qs]
+;W[ms])
+(;B[ms]
+;W[qs]))
+(;B[or]
+;W[sp]
+;B[sq]
+;W[sr]
+;B[ss]C[It's a ko, but Black can do better.]))
+(;W[or]
+;B[op]
+;W[os]
+;B[ms]
+;W[rs]
+;B[qs]C[Correct. White is died.]))
+(;B[os]
+;W[op])
+(;B[op]
+;W[oq]
+(;B[os]
+;W[pp]
+;B[on]
+;W[or])
+(;B[pp]
+;W[os])))
+(;W[oq]
+;B[pr]
+;W[pq]
+;B[op]C[Correct. White is died.]))
+(;B[or]
+;W[oq]
+;B[oo]
+;W[pr]
+;B[os]
+;W[op])
+(;B[pr]
+;W[pq])
+(;B[oq]
+;W[or])
+(;B[pq]
+;W[pr]))
